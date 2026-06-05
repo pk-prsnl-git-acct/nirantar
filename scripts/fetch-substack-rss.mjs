@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const FEED_URL = "https://nirantar.substack.com/feed";
+const ARCHIVE_URL = "https://nirantar.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=6";
 const OUTPUT_FILE = "posts.json";
 const MAX_POSTS = 6;
 const FEED_FILE = process.env.RSS_FEED_FILE || "";
@@ -70,12 +71,31 @@ function parseFeedItems(xml) {
   }));
 }
 
-const xml = FEED_FILE
+function parseArchiveItems(jsonText) {
+  const data = JSON.parse(jsonText);
+  const items = Array.isArray(data) ? data : Array.isArray(data.posts) ? data.posts : [];
+
+  return items.map((item) => ({
+    title: item.title || item.subtitle || "",
+    link: item.canonical_url || item.web_url || (item.slug ? `https://nirantar.substack.com/p/${item.slug}` : ""),
+    pubDate: item.post_date || item.published_at || item.publish_date || item.created_at || "",
+    description:
+      item.subtitle ||
+      item.description ||
+      item.search_engine_description ||
+      item.truncated_body_text ||
+      item.preview ||
+      "",
+    content: item.body_html || item.description || "",
+  }));
+}
+
+const sourceText = FEED_FILE
   ? await readFile(FEED_FILE, "utf8")
   : await (async () => {
-      const response = await fetch(FEED_URL, {
+      const response = await fetch(ARCHIVE_URL, {
         headers: {
-          accept: "application/rss+xml,application/xml,text/xml;q=0.9,*/*;q=0.8",
+          accept: "application/json,text/plain,*/*",
           "accept-language": "en-US,en;q=0.9",
           origin: "https://nirantar.substack.com",
           referer: "https://nirantar.substack.com/",
@@ -84,12 +104,16 @@ const xml = FEED_FILE
       });
 
       if (!response.ok) {
-        throw new Error(`Failed to fetch RSS feed: ${response.status} ${response.statusText}`);
+        throw new Error(`Failed to fetch Substack archive: ${response.status} ${response.statusText}`);
       }
 
       return response.text();
     })();
-const items = parseFeedItems(xml);
+
+const trimmedSource = sourceText.trim();
+const items = trimmedSource.startsWith("[") || trimmedSource.startsWith("{")
+  ? parseArchiveItems(sourceText)
+  : parseFeedItems(sourceText);
 
 const posts = items
   .slice(0, MAX_POSTS)
@@ -111,11 +135,11 @@ const posts = items
   .filter((post) => post.title && post.link);
 
 if (!posts.length) {
-  throw new Error("No posts found in RSS feed.");
+  throw new Error("No posts found in Substack source.");
 }
 
 const payload = {
-  source: FEED_URL,
+  source: trimmedSource.startsWith("[") || trimmedSource.startsWith("{") ? ARCHIVE_URL : FEED_URL,
   updatedAt: new Date().toISOString(),
   posts,
 };
