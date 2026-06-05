@@ -1,12 +1,12 @@
 import { writeFile } from "node:fs/promises";
 
 const FEED_URL = "https://nirantar.substack.com/feed";
-const RSS_JSON_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(FEED_URL)}`;
 const OUTPUT_FILE = "posts.json";
 const MAX_POSTS = 6;
 
 function decodeEntities(value = "") {
   return String(value)
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
@@ -48,28 +48,42 @@ function dateLabel(value) {
 
 function issueNumber(title = "", link = "") {
   const haystack = `${title} ${link}`;
-  const match = haystack.match(/issue[-_\s#]*(\d+)/i);
+  const match = haystack.match(/issue[-_\s#|]*(\d+)/i);
   return match ? `Issue #${match[1].padStart(3, "0")}` : "";
 }
 
-const response = await fetch(RSS_JSON_URL, {
+function extractTag(block, tagName) {
+  const match = block.match(new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)<\\/${tagName}>`, "i"));
+  return match ? decodeEntities(match[1]).trim() : "";
+}
+
+function parseFeedItems(xml) {
+  const itemBlocks = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+
+  return itemBlocks.map((block) => ({
+    title: extractTag(block, "title"),
+    link: extractTag(block, "link"),
+    pubDate: extractTag(block, "pubDate"),
+    description: extractTag(block, "description"),
+    content: extractTag(block, "content:encoded"),
+  }));
+}
+
+const response = await fetch(FEED_URL, {
   headers: {
-    "accept": "application/json,text/plain,*/*",
+    accept: "application/rss+xml,application/xml,text/xml;q=0.9,*/*;q=0.8",
     "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
   },
 });
 
 if (!response.ok) {
-  throw new Error(`Failed to fetch RSS JSON: ${response.status} ${response.statusText}`);
+  throw new Error(`Failed to fetch RSS feed: ${response.status} ${response.statusText}`);
 }
 
-const data = await response.json();
+const xml = await response.text();
+const items = parseFeedItems(xml);
 
-if (data.status !== "ok" || !Array.isArray(data.items)) {
-  throw new Error(`RSS JSON response was not usable: ${JSON.stringify(data).slice(0, 500)}`);
-}
-
-const posts = data.items
+const posts = items
   .slice(0, MAX_POSTS)
   .map((item) => {
     const title = item.title || "The Still Signal";
@@ -89,7 +103,7 @@ const posts = data.items
   .filter((post) => post.title && post.link);
 
 if (!posts.length) {
-  throw new Error("No posts found from RSS JSON.");
+  throw new Error("No posts found in RSS feed.");
 }
 
 const payload = {
