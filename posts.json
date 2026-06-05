@@ -1,0 +1,48 @@
+{
+  "source": "https://nirantar.substack.com/feed",
+  "updatedAt": "2026-06-05T10:27:27.569Z",
+  "posts": [
+    {
+      "title": "The Still Signal | Issue #044",
+      "link": "https://nirantar.substack.com/p/governance-lag-mythos-codex-state-laws-2026-06-05",
+      "pubDate": "2026-06-04T22:10:45.000Z",
+      "dateLabel": "Issue #044 · Jun 04, 2026",
+      "description": "Governance wrote the rules for last year's AI. This week, it found out."
+    },
+    {
+      "title": "The Coalition",
+      "link": "https://nirantar.substack.com/p/the-coalition-2026-06-04",
+      "pubDate": "2026-06-04T02:39:49.000Z",
+      "dateLabel": "Jun 04, 2026",
+      "description": "DeepSeek's first outside money is $7.4 billion from China's national AI coalition. Nvidia claims the US open-weights crown and finishes second globally. GitHub's billing change made the…"
+    },
+    {
+      "title": "The Thirty-Day Window",
+      "link": "https://nirantar.substack.com/p/the-thirty-day-window-2026-06-03",
+      "pubDate": "2026-06-03T00:17:41.000Z",
+      "dateLabel": "Jun 03, 2026",
+      "description": "Microsoft's MAI models delivered. The White House signed an oversight order it legally disclaims. GPT-4.5 got a death date."
+    },
+    {
+      "title": "The Polaris Papers",
+      "link": "https://nirantar.substack.com/p/the-polaris-papers-2026-06-02",
+      "pubDate": "2026-06-02T00:19:04.000Z",
+      "dateLabel": "Jun 02, 2026",
+      "description": "Microsoft builds its own model to take back what Claude Code took. Anthropic files its S-1 the day after its $65B round closes. Two moves, one day, one pattern."
+    },
+    {
+      "title": "The Infrastructure Bill",
+      "link": "https://nirantar.substack.com/p/the-infrastructure-bill-2026-06-01",
+      "pubDate": "2026-06-01T00:43:59.000Z",
+      "dateLabel": "Jun 01, 2026",
+      "description": "Anthropic hits $900B. The grid hits its limit. Colorado's AI law hits the floor."
+    },
+    {
+      "title": "The Price of Permanence",
+      "link": "https://nirantar.substack.com/p/price-of-permanence-2026-05-31",
+      "pubDate": "2026-05-31T00:20:48.000Z",
+      "dateLabel": "May 31, 2026",
+      "description": "DeepSeek's 34x price floor goes permanent, NVIDIA ships Rubin, OpenAI files for a $1T IPO, and Mythos found 23,019 bugs in open-source infrastructure."
+    }
+  ]
+}
