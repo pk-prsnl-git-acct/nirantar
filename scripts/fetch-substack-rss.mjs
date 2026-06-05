@@ -1,28 +1,11 @@
 import { writeFile } from "node:fs/promises";
 
-const FEED_URL = "https://nirantar.substack.com/feed";
+const ARCHIVE_URL = "https://nirantar.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=6";
 const OUTPUT_FILE = "posts.json";
 const MAX_POSTS = 6;
 
-function decodeEntities(value = "") {
-  return value
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&apos;/g, "'");
-}
-
-function getTag(block, tagName) {
-  const pattern = new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)<\\/${tagName}>`, "i");
-  const match = block.match(pattern);
-  return match ? decodeEntities(match[1].trim()) : "";
-}
-
 function stripHtml(value = "") {
-  return value
+  return String(value)
     .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<script[\s\S]*?<\/script>/gi, "")
     .replace(/<[^>]+>/g, " ")
@@ -31,7 +14,7 @@ function stripHtml(value = "") {
 }
 
 function excerpt(value = "", maxLength = 190) {
-  const text = stripHtml(decodeEntities(value))
+  const text = stripHtml(value)
     .replace(/Continue reading.*$/i, "")
     .replace(/Read more.*$/i, "")
     .trim();
@@ -52,48 +35,77 @@ function dateLabel(value) {
   });
 }
 
-function issueNumber(title = "", link = "") {
-  const haystack = `${title} ${link}`;
+function issueNumber(title = "", slug = "") {
+  const haystack = `${title} ${slug}`;
   const match = haystack.match(/issue[-_\s#]*(\d+)/i);
   return match ? `Issue #${match[1].padStart(3, "0")}` : "";
 }
 
-const response = await fetch(FEED_URL, {
-  headers: {
-    "user-agent": "nirantar-rss-fetcher/1.0",
-    "accept": "application/rss+xml, application/xml, text/xml",
-  },
-});
+async function fetchJson(url) {
+  const response = await fetch(url, {
+    headers: {
+      "accept": "application/json,text/plain,*/*",
+      "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
+      "referer": "https://nirantar.substack.com/",
+      "origin": "https://nirantar.substack.com",
+    },
+  });
 
-if (!response.ok) {
-  throw new Error(`Failed to fetch RSS feed: ${response.status} ${response.statusText}`);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch Substack archive: ${response.status} ${response.statusText}`);
+  }
+
+  return response.json();
 }
 
-const xml = await response.text();
-const itemBlocks = Array.from(xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)).map((match) => match[0]);
+const archive = await fetchJson(ARCHIVE_URL);
 
-const posts = itemBlocks
+const items = Array.isArray(archive)
+  ? archive
+  : Array.isArray(archive.posts)
+    ? archive.posts
+    : [];
+
+const posts = items
   .slice(0, MAX_POSTS)
   .map((item) => {
-    const title = stripHtml(getTag(item, "title"));
-    const link = stripHtml(getTag(item, "link"));
-    const pubDateRaw = stripHtml(getTag(item, "pubDate"));
-    const descriptionRaw = getTag(item, "description") || getTag(item, "content:encoded");
-    const issue = issueNumber(title, link);
-    const date = dateLabel(pubDateRaw);
+    const title = item.title || item.subtitle || "The Still Signal";
+    const slug = item.slug || "";
+    const link = item.canonical_url || item.web_url || `https://nirantar.substack.com/p/${slug}`;
+    const publishedAt =
+      item.post_date ||
+      item.published_at ||
+      item.publish_date ||
+      item.created_at ||
+      "";
+
+    const description =
+      item.subtitle ||
+      item.description ||
+      item.search_engine_description ||
+      item.truncated_body_text ||
+      item.preview ||
+      "";
+
+    const issue = issueNumber(title, slug);
+    const date = dateLabel(publishedAt);
 
     return {
       title,
       link,
-      pubDate: pubDateRaw ? new Date(pubDateRaw).toISOString() : "",
+      pubDate: publishedAt ? new Date(publishedAt).toISOString() : "",
       dateLabel: issue ? `${issue} · ${date}` : date,
-      description: excerpt(descriptionRaw),
+      description: excerpt(description || "Read the latest dispatch from The Still Signal."),
     };
   })
   .filter((post) => post.title && post.link);
 
+if (!posts.length) {
+  throw new Error("No posts found from Substack archive endpoint.");
+}
+
 const payload = {
-  source: FEED_URL,
+  source: ARCHIVE_URL,
   updatedAt: new Date().toISOString(),
   posts,
 };

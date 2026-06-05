@@ -33,5 +33,5 @@ jobs:
             git commit -m "Update Substack RSS posts"
             git push
           else
-            echo "No RSS changes."
+            echo "No RSS changes!"
           fi
