@@ -71,9 +71,18 @@
       mask-image: linear-gradient(to bottom, black, transparent 82%);
     }
 
-    a {
+    a,
+    button {
       color: inherit;
+      font: inherit;
+    }
+
+    a {
       text-decoration: none;
+    }
+
+    button {
+      border: 0;
     }
 
     a:focus-visible,
@@ -137,7 +146,9 @@
     }
 
     .nav-links a:hover,
-    footer a:hover {
+    .link-button:hover,
+    footer a:hover,
+    footer button:hover {
       color: var(--text);
     }
 
@@ -164,6 +175,16 @@
       background: transparent;
       color: var(--text);
       border-color: var(--line);
+    }
+
+    .link-button {
+      appearance: none;
+      display: inline-flex;
+      align-items: center;
+      padding: 0;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
     }
 
     .hero {
@@ -354,15 +375,14 @@
       line-height: 1.65;
     }
 
-    .latest-layout {
+    .posts-grid {
       display: grid;
-      grid-template-columns: 1.35fr 0.65fr;
+      grid-template-columns: repeat(3, 1fr);
       gap: 16px;
       align-items: stretch;
     }
 
-    .issue-card,
-    .side-card,
+    .post-card,
     .panel {
       border: 1px solid var(--line);
       border-radius: var(--radius);
@@ -370,25 +390,30 @@
       box-shadow: 0 20px 60px rgba(0, 0, 0, 0.18);
     }
 
-    .issue-card {
+    .post-card {
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      min-height: 340px;
-      padding: 28px;
+      min-height: 270px;
+      padding: 26px;
       transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
     }
 
-    .issue-card:hover,
-    .side-card:hover {
+    .post-card.featured {
+      grid-column: span 2;
+      min-height: 340px;
+      padding: 28px;
+    }
+
+    .post-card:hover {
       transform: translateY(-3px);
       border-color: rgba(217, 255, 114, 0.35);
       background: var(--panel-strong);
     }
 
-    .issue-meta {
+    .post-meta {
       display: block;
-      margin-bottom: 18px;
+      margin-bottom: 16px;
       color: var(--accent);
       font-size: 12px;
       font-weight: 850;
@@ -396,17 +421,27 @@
       letter-spacing: 0.12em;
     }
 
-    .issue-card h3 {
-      max-width: 760px;
-      font-size: clamp(28px, 4.2vw, 48px);
+    .post-card h3 {
+      font-size: 25px;
+      line-height: 1.05;
+      letter-spacing: -0.055em;
+    }
+
+    .post-card.featured h3 {
+      max-width: 780px;
+      font-size: clamp(30px, 4.3vw, 50px);
       line-height: 0.98;
       letter-spacing: -0.065em;
     }
 
-    .issue-card p {
-      max-width: 700px;
-      margin: 18px 0 0;
+    .post-card p {
+      margin: 16px 0 0;
       color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .post-card.featured p {
+      max-width: 720px;
       font-size: 18px;
       line-height: 1.6;
     }
@@ -424,34 +459,21 @@
       color: var(--accent);
     }
 
-    .side-card {
+    .archive-strip {
       display: flex;
-      flex-direction: column;
+      align-items: center;
       justify-content: space-between;
-      min-height: 340px;
-      padding: 26px;
-      transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
-    }
-
-    .side-card .label {
-      margin-bottom: 16px;
-      color: var(--accent-2);
-      font-size: 12px;
-      font-weight: 850;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-    }
-
-    .side-card h3 {
-      font-size: 28px;
-      line-height: 1.05;
-      letter-spacing: -0.055em;
-    }
-
-    .side-card p {
-      margin: 16px 0 0;
+      gap: 18px;
+      margin-top: 16px;
+      padding: 20px 22px;
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      background: rgba(255, 255, 255, 0.04);
       color: var(--muted);
-      line-height: 1.65;
+    }
+
+    .archive-strip strong {
+      color: var(--text);
     }
 
     .about-grid {
@@ -506,6 +528,29 @@
       font-size: 14px;
     }
 
+    .toast {
+      position: fixed;
+      right: 22px;
+      bottom: 22px;
+      z-index: 20;
+      max-width: min(360px, calc(100% - 44px));
+      padding: 13px 16px;
+      border: 1px solid rgba(217, 255, 114, 0.22);
+      border-radius: 16px;
+      background: rgba(7, 9, 13, 0.92);
+      color: var(--text);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.28);
+      opacity: 0;
+      transform: translateY(10px);
+      pointer-events: none;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    .toast.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
     footer {
       padding: 30px 0 48px;
       border-top: 1px solid var(--line);
@@ -528,7 +573,6 @@
 
     @media (max-width: 920px) {
       .hero,
-      .latest-layout,
       .about-grid {
         grid-template-columns: 1fr;
       }
@@ -541,8 +585,21 @@
         min-height: 340px;
       }
 
+      .posts-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .post-card.featured {
+        grid-column: auto;
+      }
+
       .nav-links {
         display: none;
+      }
+
+      .archive-strip {
+        flex-direction: column;
+        align-items: flex-start;
       }
 
       section {
@@ -555,15 +612,13 @@
         width: min(100% - 28px, var(--max));
       }
 
-      .issue-card,
-      .side-card,
+      .post-card,
       .panel,
       .subscribe {
         border-radius: 22px;
       }
 
-      .issue-card,
-      .side-card,
+      .post-card,
       .panel {
         padding: 22px;
       }
@@ -593,7 +648,7 @@
           <a href="#latest">Latest</a>
           <a href="#about">About</a>
           <a href="#subscribe">Subscribe</a>
-          <a href="https://nirantar.substack.com/feed" target="_blank" rel="noopener noreferrer">RSS</a>
+          <button class="link-button" type="button" data-copy-rss>Copy RSS</button>
           <a class="button secondary" href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">Read on Substack</a>
         </div>
       </nav>
@@ -649,10 +704,14 @@
           </div>
         </div>
 
-        <div class="latest-layout">
-          <article class="issue-card">
+        <div class="posts-grid" id="posts" aria-live="polite">
+          <a
+            class="post-card featured"
+            href="https://nirantar.substack.com/p/governance-lag-mythos-codex-state-laws-2026-06-05"
+            target="_blank"
+            rel="noopener noreferrer">
             <div>
-              <span class="issue-meta">Issue #044 · Jun 05, 2026</span>
+              <span class="post-meta">Issue #044 · Jun 05, 2026</span>
 
               <h3>AI Governance Lag, Mythos Expansion, Codex Goes White-Collar</h3>
 
@@ -661,18 +720,16 @@
               </p>
             </div>
 
-            <a
-              class="read-link"
-              href="https://nirantar.substack.com/p/governance-lag-mythos-codex-state-laws-2026-06-05"
-              target="_blank"
-              rel="noopener noreferrer">
-              Read issue →
-            </a>
-          </article>
+            <span class="read-link">Read issue →</span>
+          </a>
 
-          <aside class="side-card">
+          <a
+            class="post-card"
+            href="https://nirantar.substack.com"
+            target="_blank"
+            rel="noopener noreferrer">
             <div>
-              <div class="label">Archive</div>
+              <span class="post-meta">Archive</span>
               <h3>More signals live on Substack.</h3>
               <p>
                 Browse the full publication archive, subscribe, and read past dispatches
@@ -680,14 +737,13 @@
               </p>
             </div>
 
-            <a
-              class="read-link"
-              href="https://nirantar.substack.com"
-              target="_blank"
-              rel="noopener noreferrer">
-              Browse archive →
-            </a>
-          </aside>
+            <span class="read-link">Browse archive →</span>
+          </a>
+        </div>
+
+        <div class="archive-strip">
+          <span><strong>Archive:</strong> the full publication and subscription flow live on Substack.</span>
+          <a class="read-link" href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">Open archive →</a>
         </div>
       </div>
     </section>
@@ -741,9 +797,127 @@
       <nav aria-label="Footer links">
         <a href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">Substack</a>
         <span aria-hidden="true">·</span>
-        <a href="https://nirantar.substack.com/feed" target="_blank" rel="noopener noreferrer">RSS</a>
+        <button class="link-button" type="button" data-copy-rss>Copy RSS</button>
       </nav>
     </div>
   </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script>
+    const RSS_URL = "https://nirantar.substack.com/feed";
+    const POSTS_JSON_URL = "/posts.json";
+
+    const fallbackPosts = [
+      {
+        title: "AI Governance Lag, Mythos Expansion, Codex Goes White-Collar",
+        link: "https://nirantar.substack.com/p/governance-lag-mythos-codex-state-laws-2026-06-05",
+        dateLabel: "Issue #044 · Jun 05, 2026",
+        description: "Governance wrote the rules for last year’s AI. This week, it found out."
+      }
+    ];
+
+    let toastTimer;
+
+    function showToast(message) {
+      const toast = document.getElementById("toast");
+      if (!toast) return;
+
+      toast.textContent = message;
+      toast.classList.add("visible");
+
+      window.clearTimeout(toastTimer);
+      toastTimer = window.setTimeout(() => {
+        toast.classList.remove("visible");
+      }, 2200);
+    }
+
+    async function copyRSS() {
+      try {
+        await navigator.clipboard.writeText(RSS_URL);
+        showToast("RSS feed copied.");
+      } catch {
+        window.prompt("Copy this RSS feed URL:", RSS_URL);
+      }
+    }
+
+    function createPostCard(post, index) {
+      const card = document.createElement("a");
+      card.className = index === 0 ? "post-card featured" : "post-card";
+      card.href = post.link || "https://nirantar.substack.com";
+      card.target = "_blank";
+      card.rel = "noopener noreferrer";
+
+      const content = document.createElement("div");
+
+      const meta = document.createElement("span");
+      meta.className = "post-meta";
+      meta.textContent = post.dateLabel || "The Still Signal";
+
+      const title = document.createElement("h3");
+      title.textContent = post.title || "The Still Signal";
+
+      const description = document.createElement("p");
+      description.textContent = post.description || "Read the latest dispatch from The Still Signal.";
+
+      const read = document.createElement("span");
+      read.className = "read-link";
+      read.textContent = index === 0 ? "Read latest issue →" : "Read issue →";
+
+      content.appendChild(meta);
+      content.appendChild(title);
+      content.appendChild(description);
+
+      card.appendChild(content);
+      card.appendChild(read);
+
+      return card;
+    }
+
+    function renderPosts(posts) {
+      const postsEl = document.getElementById("posts");
+      if (!postsEl) return;
+
+      const validPosts = posts
+        .filter((post) => post && post.title && post.link)
+        .slice(0, 6);
+
+      if (!validPosts.length) return;
+
+      postsEl.innerHTML = "";
+      validPosts.forEach((post, index) => {
+        postsEl.appendChild(createPostCard(post, index));
+      });
+    }
+
+    async function loadLatestPosts() {
+      try {
+        const response = await fetch(`${POSTS_JSON_URL}?v=${Date.now()}`, {
+          cache: "no-store"
+        });
+
+        if (!response.ok) {
+          throw new Error("posts.json not available yet");
+        }
+
+        const data = await response.json();
+        const posts = Array.isArray(data.posts) ? data.posts : [];
+
+        if (!posts.length) {
+          throw new Error("No posts found in posts.json");
+        }
+
+        renderPosts(posts);
+      } catch {
+        renderPosts(fallbackPosts);
+      }
+    }
+
+    document.querySelectorAll("[data-copy-rss]").forEach((button) => {
+      button.addEventListener("click", copyRSS);
+    });
+
+    loadLatestPosts();
+  </script>
 </body>
 </html>
