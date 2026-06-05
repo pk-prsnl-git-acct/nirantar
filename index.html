@@ -151,6 +151,39 @@
         0 0 52px rgba(112, 225, 245, 0.10);
     }
 
+    .subscribe-frame-wrap {
+      max-width: 640px;
+      margin-top: 28px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.92);
+      box-shadow: 0 20px 70px rgba(0, 0, 0, 0.22);
+    }
+
+    .subscribe-frame {
+      display: block;
+      width: 100%;
+      min-height: 320px;
+      border: 0;
+      background: #ffffff;
+    }
+
+    .subscribe-fallback {
+      display: inline-flex;
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .subscribe-fallback a {
+      color: var(--text);
+      font-weight: 800;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
     .nav-links {
       display: flex;
       align-items: center;
@@ -784,19 +817,25 @@
           <h2>Subscribe</h2>
 
           <p>
-            Get The Still Signal in your inbox: concise dispatches on AI capability,
-            governance lag, and institutional response.
+            Drop your email to get The Still Signal in your inbox: concise dispatches
+            on AI capability, governance lag, and institutional response.
           </p>
 
-          <div class="actions">
-            <a
-              class="button"
-              href="https://nirantar.substack.com/subscribe"
-              target="_blank"
-              rel="noopener noreferrer">
-              Subscribe on Substack →
-            </a>
+          <div class="subscribe-frame-wrap">
+            <iframe
+              class="subscribe-frame"
+              src="https://nirantar.substack.com/embed"
+              title="Subscribe to The Still Signal"
+              loading="lazy">
+            </iframe>
           </div>
+
+          <span class="subscribe-fallback">
+            If the form does not load,
+            <a href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">
+              subscribe on Substack here
+            </a>.
+          </span>
 
           <span class="cadence">Published when the signal is strong.</span>
         </div>

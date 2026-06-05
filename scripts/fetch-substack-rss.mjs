@@ -16,7 +16,8 @@ function decodeEntities(value = "") {
 }
 
 function getTag(block, tagName) {
-  const match = block.match(new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)<\\/${tagName}>`, "i"));
+  const pattern = new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)<\\/${tagName}>`, "i");
+  const match = block.match(pattern);
   return match ? decodeEntities(match[1].trim()) : "";
 }
 
@@ -29,20 +30,19 @@ function stripHtml(value = "") {
     .trim();
 }
 
-function excerpt(value = "", maxLength = 180) {
+function excerpt(value = "", maxLength = 190) {
   const text = stripHtml(decodeEntities(value))
     .replace(/Continue reading.*$/i, "")
     .replace(/Read more.*$/i, "")
     .trim();
 
   if (text.length <= maxLength) return text;
-
   return `${text.slice(0, maxLength - 1).replace(/\s+\S*$/, "")}…`;
 }
 
 function dateLabel(value) {
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return "";
+  if (Number.isNaN(date.getTime())) return "The Still Signal";
 
   return date.toLocaleDateString("en-US", {
     month: "short",
@@ -50,6 +50,12 @@ function dateLabel(value) {
     year: "numeric",
     timeZone: "UTC",
   });
+}
+
+function issueNumber(title = "", link = "") {
+  const haystack = `${title} ${link}`;
+  const match = haystack.match(/issue[-_\s#]*(\d+)/i);
+  return match ? `Issue #${match[1].padStart(3, "0")}` : "";
 }
 
 const response = await fetch(FEED_URL, {
@@ -64,23 +70,27 @@ if (!response.ok) {
 }
 
 const xml = await response.text();
-
 const itemBlocks = Array.from(xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)).map((match) => match[0]);
 
-const posts = itemBlocks.slice(0, MAX_POSTS).map((item) => {
-  const title = stripHtml(getTag(item, "title"));
-  const link = stripHtml(getTag(item, "link"));
-  const pubDateRaw = stripHtml(getTag(item, "pubDate"));
-  const descriptionRaw = getTag(item, "description") || getTag(item, "content:encoded");
+const posts = itemBlocks
+  .slice(0, MAX_POSTS)
+  .map((item) => {
+    const title = stripHtml(getTag(item, "title"));
+    const link = stripHtml(getTag(item, "link"));
+    const pubDateRaw = stripHtml(getTag(item, "pubDate"));
+    const descriptionRaw = getTag(item, "description") || getTag(item, "content:encoded");
+    const issue = issueNumber(title, link);
+    const date = dateLabel(pubDateRaw);
 
-  return {
-    title,
-    link,
-    pubDate: pubDateRaw ? new Date(pubDateRaw).toISOString() : "",
-    dateLabel: dateLabel(pubDateRaw),
-    description: excerpt(descriptionRaw),
-  };
-}).filter((post) => post.title && post.link);
+    return {
+      title,
+      link,
+      pubDate: pubDateRaw ? new Date(pubDateRaw).toISOString() : "",
+      dateLabel: issue ? `${issue} · ${date}` : date,
+      description: excerpt(descriptionRaw),
+    };
+  })
+  .filter((post) => post.title && post.link);
 
 const payload = {
   source: FEED_URL,
@@ -89,5 +99,4 @@ const payload = {
 };
 
 await writeFile(OUTPUT_FILE, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-
 console.log(`Wrote ${posts.length} posts to ${OUTPUT_FILE}`);
