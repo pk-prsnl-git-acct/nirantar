@@ -90,6 +90,35 @@ function parseArchiveItems(jsonText) {
   }));
 }
 
+function parseArchiveHtmlItems(html) {
+  const match = html.match(/window\._preloads\s*=\s*JSON\.parse\("([\s\S]*?)"\)\s*<\/script>/i);
+  if (!match) {
+    throw new Error("Could not find Substack preload data in archive HTML.");
+  }
+
+  const preloadJson = JSON.parse(`"${match[1]}"`);
+  const preloadData = JSON.parse(preloadJson);
+  const items = preloadData?.newPostsForArchive?.pub;
+
+  if (!Array.isArray(items)) {
+    throw new Error("Substack archive HTML did not contain a usable post list.");
+  }
+
+  return items.map((item) => ({
+    title: item.title || item.subtitle || "",
+    link: item.canonical_url || item.web_url || (item.slug ? `https://nirantar.substack.com/p/${item.slug}` : ""),
+    pubDate: item.post_date || item.published_at || item.publish_date || item.created_at || "",
+    description:
+      item.subtitle ||
+      item.description ||
+      item.search_engine_description ||
+      item.truncated_body_text ||
+      item.preview ||
+      "",
+    content: item.body_html || item.description || "",
+  }));
+}
+
 const sourceText = FEED_FILE
   ? await readFile(FEED_FILE, "utf8")
   : await (async () => {
@@ -111,9 +140,19 @@ const sourceText = FEED_FILE
     })();
 
 const trimmedSource = sourceText.trim();
-const items = trimmedSource.startsWith("[") || trimmedSource.startsWith("{")
-  ? parseArchiveItems(sourceText)
-  : parseFeedItems(sourceText);
+const sourceKind =
+  trimmedSource.startsWith("[") || trimmedSource.startsWith("{")
+    ? "archive-json"
+    : trimmedSource.startsWith("<!DOCTYPE html") || trimmedSource.startsWith("<html")
+      ? "archive-html"
+      : "rss-xml";
+
+const items =
+  sourceKind === "archive-json"
+    ? parseArchiveItems(sourceText)
+    : sourceKind === "archive-html"
+      ? parseArchiveHtmlItems(sourceText)
+      : parseFeedItems(sourceText);
 
 const posts = items
   .slice(0, MAX_POSTS)
@@ -139,7 +178,7 @@ if (!posts.length) {
 }
 
 const payload = {
-  source: trimmedSource.startsWith("[") || trimmedSource.startsWith("{") ? ARCHIVE_URL : FEED_URL,
+  source: sourceKind === "archive-json" || sourceKind === "archive-html" ? ARCHIVE_URL : FEED_URL,
   updatedAt: new Date().toISOString(),
   posts,
 };
