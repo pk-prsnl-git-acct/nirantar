@@ -151,39 +151,6 @@
         0 0 52px rgba(112, 225, 245, 0.10);
     }
 
-    .subscribe-frame-wrap {
-      max-width: 640px;
-      margin-top: 28px;
-      overflow: hidden;
-      border: 1px solid var(--line);
-      border-radius: 24px;
-      background: rgba(255, 255, 255, 0.92);
-      box-shadow: 0 20px 70px rgba(0, 0, 0, 0.22);
-    }
-
-    .subscribe-frame {
-      display: block;
-      width: 100%;
-      min-height: 320px;
-      border: 0;
-      background: #ffffff;
-    }
-
-    .subscribe-fallback {
-      display: inline-flex;
-      margin-top: 18px;
-      color: var(--muted);
-      font-size: 14px;
-      line-height: 1.55;
-    }
-
-    .subscribe-fallback a {
-      color: var(--text);
-      font-weight: 800;
-      text-decoration: underline;
-      text-underline-offset: 3px;
-    }
-
     .nav-links {
       display: flex;
       align-items: center;
@@ -556,16 +523,50 @@
       padding: clamp(28px, 5vw, 48px);
     }
 
+    .subscribe-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+      gap: 32px;
+      align-items: start;
+    }
+
     .subscribe p {
-      max-width: 720px;
       margin: 16px 0 0;
       color: var(--muted);
       font-size: 19px;
       line-height: 1.65;
     }
 
-    .subscribe .actions {
-      margin-top: 28px;
+    .subscribe-form-shell {
+      padding: 18px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 24px;
+      background: rgba(7, 9, 13, 0.32);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+    }
+
+    .subscribe-form-frame {
+      display: block;
+      width: 100%;
+      min-height: 220px;
+      border: 0;
+      border-radius: 16px;
+      background: #ffffff;
+    }
+
+    .subscribe-fallback {
+      display: inline-flex;
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .subscribe-fallback a {
+      color: var(--text);
+      font-weight: 800;
+      text-decoration: underline;
+      text-underline-offset: 3px;
     }
 
     .cadence {
@@ -608,19 +609,39 @@
     footer .shell {
       display: flex;
       justify-content: space-between;
-      gap: 18px;
+      align-items: flex-start;
+      gap: 22px;
       flex-wrap: wrap;
+    }
+
+    .footer-meta {
+      display: grid;
+      gap: 8px;
+    }
+
+    .footer-meta strong {
+      color: var(--text);
+      font-size: 15px;
+    }
+
+    .footer-note {
+      max-width: 420px;
+      color: var(--muted);
+      line-height: 1.6;
     }
 
     footer nav {
       display: flex;
+      flex-wrap: wrap;
       gap: 12px;
+      align-items: center;
       color: var(--muted);
     }
 
     @media (max-width: 920px) {
       .hero,
-      .about-grid {
+      .about-grid,
+      .subscribe-layout {
         grid-template-columns: 1fr;
       }
 
@@ -647,6 +668,10 @@
       .archive-strip {
         flex-direction: column;
         align-items: flex-start;
+      }
+
+      .subscribe-form-frame {
+        min-height: 240px;
       }
 
       section {
@@ -677,6 +702,10 @@
       footer .shell,
       footer nav {
         flex-direction: column;
+      }
+
+      .footer-note {
+        max-width: none;
       }
     }
   </style>
@@ -814,26 +843,36 @@
     <section id="subscribe">
       <div class="shell">
         <div class="subscribe">
-          <h2>Subscribe</h2>
+          <div class="subscribe-layout">
+            <div>
+              <h2>Subscribe</h2>
 
-          <p>
-            Get The Still Signal in your inbox: concise dispatches on AI capability,
-            governance lag, and institutional response.
-          </p>
+              <p>
+                Get The Still Signal in your inbox: concise dispatches on AI capability,
+                governance lag, and institutional response.
+              </p>
 
-          <div class="actions">
-            <a
-              class="button"
-              href="https://nirantar.substack.com"
-              target="_blank"
-              rel="noopener noreferrer">
-              Subscribe free on Substack →
-            </a>
+              <span class="cadence">
+                Enter your email here to subscribe directly. If you already have a Substack account,
+                the form will recognize it.
+              </span>
+            </div>
+
+            <div>
+              <div class="subscribe-form-shell">
+                <iframe
+                  class="subscribe-form-frame"
+                  src="https://nirantar.substack.com/embed"
+                  title="Subscribe to The Still Signal on Substack"
+                  loading="lazy"></iframe>
+              </div>
+
+              <span class="subscribe-fallback">
+                If the signup form does not load, use
+                <a href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">the Substack subscribe page</a>.
+              </span>
+            </div>
           </div>
-
-          <span class="cadence">
-            Opens the free newsletter signup. You can read first, then upgrade only if you choose.
-          </span>
         </div>
       </div>
     </section>
@@ -842,9 +881,20 @@
 
   <footer>
     <div class="shell">
-      <span>© Nirantar</span>
+      <div class="footer-meta">
+        <strong>© <span id="current-year">2026</span> Nirantar</strong>
+        <span class="footer-note">
+          The Still Signal tracks the gap between technical capability and institutional response.
+        </span>
+      </div>
 
       <nav aria-label="Footer links">
+        <a href="#latest">Latest</a>
+        <span aria-hidden="true">·</span>
+        <a href="#about">About</a>
+        <span aria-hidden="true">·</span>
+        <a href="#subscribe">Subscribe</a>
+        <span aria-hidden="true">·</span>
         <a href="https://nirantar.substack.com" target="_blank" rel="noopener noreferrer">Substack</a>
         <span aria-hidden="true">·</span>
         <button class="link-button" type="button" data-copy-rss>Copy RSS</button>
@@ -966,6 +1016,11 @@
     document.querySelectorAll("[data-copy-rss]").forEach((button) => {
       button.addEventListener("click", copyRSS);
     });
+
+    const yearEl = document.getElementById("current-year");
+    if (yearEl) {
+      yearEl.textContent = String(new Date().getFullYear());
+    }
 
     loadLatestPosts();
   </script>
