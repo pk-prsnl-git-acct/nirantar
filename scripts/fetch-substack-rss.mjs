@@ -1,8 +1,9 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const FEED_URL = "https://nirantar.substack.com/feed";
 const OUTPUT_FILE = "posts.json";
 const MAX_POSTS = 6;
+const FEED_FILE = process.env.RSS_FEED_FILE || "";
 
 function decodeEntities(value = "") {
   return String(value)
@@ -69,18 +70,25 @@ function parseFeedItems(xml) {
   }));
 }
 
-const response = await fetch(FEED_URL, {
-  headers: {
-    accept: "application/rss+xml,application/xml,text/xml;q=0.9,*/*;q=0.8",
-    "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
-  },
-});
+const xml = FEED_FILE
+  ? await readFile(FEED_FILE, "utf8")
+  : await (async () => {
+      const response = await fetch(FEED_URL, {
+        headers: {
+          accept: "application/rss+xml,application/xml,text/xml;q=0.9,*/*;q=0.8",
+          "accept-language": "en-US,en;q=0.9",
+          origin: "https://nirantar.substack.com",
+          referer: "https://nirantar.substack.com/",
+          "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
+        },
+      });
 
-if (!response.ok) {
-  throw new Error(`Failed to fetch RSS feed: ${response.status} ${response.statusText}`);
-}
+      if (!response.ok) {
+        throw new Error(`Failed to fetch RSS feed: ${response.status} ${response.statusText}`);
+      }
 
-const xml = await response.text();
+      return response.text();
+    })();
 const items = parseFeedItems(xml);
 
 const posts = items
