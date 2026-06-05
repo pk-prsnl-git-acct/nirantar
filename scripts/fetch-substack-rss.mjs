@@ -1,14 +1,12 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { writeFile } from "node:fs/promises";
 
 const FEED_URL = "https://nirantar.substack.com/feed";
-const ARCHIVE_URL = "https://nirantar.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=6";
+const RSS_JSON_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(FEED_URL)}`;
 const OUTPUT_FILE = "posts.json";
 const MAX_POSTS = 6;
-const FEED_FILE = process.env.RSS_FEED_FILE || "";
 
 function decodeEntities(value = "") {
   return String(value)
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
@@ -50,111 +48,28 @@ function dateLabel(value) {
 
 function issueNumber(title = "", link = "") {
   const haystack = `${title} ${link}`;
-  const match = haystack.match(/issue[-_\s#|]*(\d+)/i);
+  const match = haystack.match(/issue[-_\s#]*(\d+)/i);
   return match ? `Issue #${match[1].padStart(3, "0")}` : "";
 }
 
-function extractTag(block, tagName) {
-  const match = block.match(new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)<\\/${tagName}>`, "i"));
-  return match ? decodeEntities(match[1]).trim() : "";
+const response = await fetch(RSS_JSON_URL, {
+  headers: {
+    accept: "application/json,text/plain,*/*",
+    "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
+  },
+});
+
+if (!response.ok) {
+  throw new Error(`Failed to fetch RSS JSON: ${response.status} ${response.statusText}`);
 }
 
-function parseFeedItems(xml) {
-  const itemBlocks = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+const data = await response.json();
 
-  return itemBlocks.map((block) => ({
-    title: extractTag(block, "title"),
-    link: extractTag(block, "link"),
-    pubDate: extractTag(block, "pubDate"),
-    description: extractTag(block, "description"),
-    content: extractTag(block, "content:encoded"),
-  }));
+if (data.status !== "ok" || !Array.isArray(data.items)) {
+  throw new Error(`RSS JSON response was not usable: ${JSON.stringify(data).slice(0, 500)}`);
 }
 
-function parseArchiveItems(jsonText) {
-  const data = JSON.parse(jsonText);
-  const items = Array.isArray(data) ? data : Array.isArray(data.posts) ? data.posts : [];
-
-  return items.map((item) => ({
-    title: item.title || item.subtitle || "",
-    link: item.canonical_url || item.web_url || (item.slug ? `https://nirantar.substack.com/p/${item.slug}` : ""),
-    pubDate: item.post_date || item.published_at || item.publish_date || item.created_at || "",
-    description:
-      item.subtitle ||
-      item.description ||
-      item.search_engine_description ||
-      item.truncated_body_text ||
-      item.preview ||
-      "",
-    content: item.body_html || item.description || "",
-  }));
-}
-
-function parseArchiveHtmlItems(html) {
-  const match = html.match(/window\._preloads\s*=\s*JSON\.parse\("([\s\S]*?)"\)\s*<\/script>/i);
-  if (!match) {
-    throw new Error("Could not find Substack preload data in archive HTML.");
-  }
-
-  const preloadJson = JSON.parse(`"${match[1]}"`);
-  const preloadData = JSON.parse(preloadJson);
-  const items = preloadData?.newPostsForArchive?.pub;
-
-  if (!Array.isArray(items)) {
-    throw new Error("Substack archive HTML did not contain a usable post list.");
-  }
-
-  return items.map((item) => ({
-    title: item.title || item.subtitle || "",
-    link: item.canonical_url || item.web_url || (item.slug ? `https://nirantar.substack.com/p/${item.slug}` : ""),
-    pubDate: item.post_date || item.published_at || item.publish_date || item.created_at || "",
-    description:
-      item.subtitle ||
-      item.description ||
-      item.search_engine_description ||
-      item.truncated_body_text ||
-      item.preview ||
-      "",
-    content: item.body_html || item.description || "",
-  }));
-}
-
-const sourceText = FEED_FILE
-  ? await readFile(FEED_FILE, "utf8")
-  : await (async () => {
-      const response = await fetch(ARCHIVE_URL, {
-        headers: {
-          accept: "application/json,text/plain,*/*",
-          "accept-language": "en-US,en;q=0.9",
-          origin: "https://nirantar.substack.com",
-          referer: "https://nirantar.substack.com/",
-          "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
-        },
-      });
-
-      if (!response.ok) {
-        throw new Error(`Failed to fetch Substack archive: ${response.status} ${response.statusText}`);
-      }
-
-      return response.text();
-    })();
-
-const trimmedSource = sourceText.trim();
-const sourceKind =
-  trimmedSource.startsWith("[") || trimmedSource.startsWith("{")
-    ? "archive-json"
-    : trimmedSource.startsWith("<!DOCTYPE html") || trimmedSource.startsWith("<html")
-      ? "archive-html"
-      : "rss-xml";
-
-const items =
-  sourceKind === "archive-json"
-    ? parseArchiveItems(sourceText)
-    : sourceKind === "archive-html"
-      ? parseArchiveHtmlItems(sourceText)
-      : parseFeedItems(sourceText);
-
-const posts = items
+const posts = data.items
   .slice(0, MAX_POSTS)
   .map((item) => {
     const title = item.title || "The Still Signal";
@@ -174,11 +89,11 @@ const posts = items
   .filter((post) => post.title && post.link);
 
 if (!posts.length) {
-  throw new Error("No posts found in Substack source.");
+  throw new Error("No posts found from RSS JSON.");
 }
 
 const payload = {
-  source: sourceKind === "archive-json" || sourceKind === "archive-html" ? ARCHIVE_URL : FEED_URL,
+  source: FEED_URL,
   updatedAt: new Date().toISOString(),
   posts,
 };

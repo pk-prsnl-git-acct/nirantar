@@ -21,34 +21,8 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Download Substack archive
-        run: |
-          if curl --fail --silent --show-error --location \
-            --retry 3 \
-            --retry-all-errors \
-            --user-agent "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)" \
-            --header "Accept: application/json,text/plain,*/*" \
-            --header "Accept-Language: en-US,en;q=0.9" \
-            --header "Referer: https://nirantar.substack.com/" \
-            --header "Origin: https://nirantar.substack.com" \
-            "https://nirantar.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=6" \
-            --output substack-source.txt; then
-            echo "Fetched archive API"
-          else
-            echo "Archive API blocked, falling back to archive page HTML"
-            curl --fail --silent --show-error --location \
-              --retry 3 \
-              --retry-all-errors \
-              --user-agent "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)" \
-              --header "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
-              --header "Accept-Language: en-US,en;q=0.9" \
-              --header "Referer: https://nirantar.substack.com/" \
-              "https://nirantar.substack.com/archive" \
-              --output substack-source.txt
-          fi
-
-      - name: Generate posts.json
-        run: RSS_FEED_FILE=substack-source.txt node scripts/fetch-substack-rss.mjs
+      - name: Fetch Substack RSS
+        run: node scripts/fetch-substack-rss.mjs
 
       - name: Commit updated posts
         run: |
