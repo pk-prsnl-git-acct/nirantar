@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-05T16:44:42.827Z",
+  "updatedAt": "2026-06-06T04:32:21.738Z",
   "posts": [
+    {
+      "title": "The Expectation Gap | Issue #045",
+      "link": "https://nirantar.substack.com/p/the-expectation-gap-2026-06-06",
+      "pubDate": "2026-06-06T03:35:45.000Z",
+      "dateLabel": "Issue #045 · Jun 06, 2026",
+      "description": "Broadcom doubled its AI chip revenue and the stock fell 12%. The capability question has been answered. What remains is a valuation problem."
+    },
     {
       "title": "Governing Ghosts | Issue #044",
       "link": "https://nirantar.substack.com/p/governance-lag-mythos-codex-state-laws-2026-06-05",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-01T06:13:59.000Z",
       "dateLabel": "Jun 01, 2026",
       "description": "Anthropic hits $900B. The grid hits its limit. Colorado's AI law hits the floor."
-    },
-    {
-      "title": "The Price of Permanence",
-      "link": "https://nirantar.substack.com/p/price-of-permanence-2026-05-31",
-      "pubDate": "2026-05-31T05:50:48.000Z",
-      "dateLabel": "May 31, 2026",
-      "description": "DeepSeek's 34x price floor goes permanent, NVIDIA ships Rubin, OpenAI files for a $1T IPO, and Mythos found 23,019 bugs in open-source infrastructure."
     }
   ]
 }
