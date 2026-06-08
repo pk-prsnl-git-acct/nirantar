@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-07T17:44:30.292Z",
+  "updatedAt": "2026-06-08T05:09:03.840Z",
   "posts": [
+    {
+      "title": "The Asking Price | Issue #047",
+      "link": "https://nirantar.substack.com/p/the-asking-price-2026-06-08",
+      "pubDate": "2026-06-08T03:44:09.000Z",
+      "dateLabel": "Issue #047 · Jun 08, 2026",
+      "description": "Apple pays $1B/year for Gemini; Anthropic calls for a pause four days after filing a $965B S-1; Trump and Sanders both want government stakes in AI labs"
+    },
     {
       "title": "The Fixed Price | Issue #046",
       "link": "https://nirantar.substack.com/p/the-fixed-price-2026-06-07",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-03T05:47:41.000Z",
       "dateLabel": "Jun 03, 2026",
       "description": "Microsoft's MAI models delivered. The White House signed an oversight order it legally disclaims. GPT-4.5 got a death date."
-    },
-    {
-      "title": "The Polaris Papers",
-      "link": "https://nirantar.substack.com/p/the-polaris-papers-2026-06-02",
-      "pubDate": "2026-06-02T05:49:04.000Z",
-      "dateLabel": "Jun 02, 2026",
-      "description": "Microsoft builds its own model to take back what Claude Code took. Anthropic files its S-1 the day after its $65B round closes. Two moves, one day, one pattern."
     }
   ]
 }
