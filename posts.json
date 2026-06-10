@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-09T17:07:30.326Z",
+  "updatedAt": "2026-06-10T04:53:52.079Z",
   "posts": [
+    {
+      "title": "The Controlled Release | Issue #049",
+      "link": "https://nirantar.substack.com/p/controlled-release-2026-06-10",
+      "pubDate": "2026-06-10T04:28:52.000Z",
+      "dateLabel": "Issue #049 · Jun 10, 2026",
+      "description": "Anthropic ships its most capable public model the week it asked for a pause. Apple outsources Siri to Google. OpenAI and Anthropic both file for IPO. Every cautious position collapsed at…"
+    },
     {
       "title": "Manufactured Friction | Issue #048",
       "link": "https://nirantar.substack.com/p/manufactured-friction-2026-06-09",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-05T03:40:45.000Z",
       "dateLabel": "Issue #044 · Jun 05, 2026",
       "description": "Governance wrote the rules for last year's AI. This week, it found out."
-    },
-    {
-      "title": "The Coalition",
-      "link": "https://nirantar.substack.com/p/the-coalition-2026-06-04",
-      "pubDate": "2026-06-04T08:09:49.000Z",
-      "dateLabel": "Jun 04, 2026",
-      "description": "DeepSeek's first outside money is $7.4 billion from China's national AI coalition. Nvidia claims the US open-weights crown and finishes second globally. GitHub's billing change made the…"
     }
   ]
 }
