@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-11T16:33:21.622Z",
+  "updatedAt": "2026-06-12T05:11:23.839Z",
   "posts": [
+    {
+      "title": "The Build Surface | Issue #051",
+      "link": "https://nirantar.substack.com/p/the-build-surface-2026-06-12",
+      "pubDate": "2026-06-12T03:37:31.000Z",
+      "dateLabel": "Issue #051 · Jun 12, 2026",
+      "description": "Prometheus raises $12B for an artificial general engineer. Anthropic plants 1,000 fellows inside nonprofits before its IPO. The subscription math reveals labs subsidizing power users at…"
+    },
     {
       "title": "The Embedded Layer | Issue #050",
       "link": "https://nirantar.substack.com/p/the-embedded-layer-2026-06-11",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-07T04:34:46.000Z",
       "dateLabel": "Issue #046 · Jun 07, 2026",
       "description": "The largest IPO in history prices in four days. The AI supply chain is about to become the AI public market."
-    },
-    {
-      "title": "The Expectation Gap | Issue #045",
-      "link": "https://nirantar.substack.com/p/the-expectation-gap-2026-06-06",
-      "pubDate": "2026-06-06T03:35:45.000Z",
-      "dateLabel": "Issue #045 · Jun 06, 2026",
-      "description": "Broadcom doubled its AI chip revenue and the stock fell 12%. The capability question has been answered. What remains is a valuation problem."
     }
   ]
 }
