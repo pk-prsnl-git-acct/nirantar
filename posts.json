@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-13T17:49:45.026Z",
+  "updatedAt": "2026-06-14T05:13:09.956Z",
   "posts": [
+    {
+      "title": "The Off Switch | Issue #053",
+      "link": "https://nirantar.substack.com/p/the-off-switch-2026-06-14",
+      "pubDate": "2026-06-14T03:58:55.000Z",
+      "dateLabel": "Issue #053 · Jun 14, 2026",
+      "description": "The US government disabled Anthropic's best models. Anthropic overtook OpenAI. Colorado abandoned its AI law."
+    },
     {
       "title": "The One-Way Door | Issue #052",
       "link": "https://nirantar.substack.com/p/the-one-way-door-2026-06-13",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-09T03:39:23.000Z",
       "dateLabel": "Issue #048 · Jun 09, 2026",
       "description": "The CDT documented 37 dark patterns in ChatGPT, Claude, and Gemini. Microsoft built an 11,000-model catalog. Colorado's AI enforcement clock hits zero in 22 days. The IPO valuations…"
-    },
-    {
-      "title": "The Asking Price | Issue #047",
-      "link": "https://nirantar.substack.com/p/the-asking-price-2026-06-08",
-      "pubDate": "2026-06-08T03:44:09.000Z",
-      "dateLabel": "Issue #047 · Jun 08, 2026",
-      "description": "Apple pays $1B/year for Gemini; Anthropic calls for a pause four days after filing a $965B S-1; Trump and Sanders both want government stakes in AI labs"
     }
   ]
 }
