@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-14T17:54:29.433Z",
+  "updatedAt": "2026-06-15T05:32:52.921Z",
   "posts": [
+    {
+      "title": "The Verbal Evidence | Issue #054",
+      "link": "https://nirantar.substack.com/p/verbal-evidence-2026-06-15",
+      "pubDate": "2026-06-15T03:34:53.000Z",
+      "dateLabel": "Issue #054 · Jun 15, 2026",
+      "description": "When a verbal report is sufficient to recall a model used by hundreds of millions of people."
+    },
     {
       "title": "The Off Switch | Issue #053",
       "link": "https://nirantar.substack.com/p/the-off-switch-2026-06-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-10T04:28:52.000Z",
       "dateLabel": "Issue #049 · Jun 10, 2026",
       "description": "Anthropic ships its most capable public model the week it asked for a pause. Apple outsources Siri to Google. OpenAI and Anthropic both file for IPO. Every cautious position collapsed at…"
-    },
-    {
-      "title": "Manufactured Friction | Issue #048",
-      "link": "https://nirantar.substack.com/p/manufactured-friction-2026-06-09",
-      "pubDate": "2026-06-09T03:39:23.000Z",
-      "dateLabel": "Issue #048 · Jun 09, 2026",
-      "description": "The CDT documented 37 dark patterns in ChatGPT, Claude, and Gemini. Microsoft built an 11,000-model catalog. Colorado's AI enforcement clock hits zero in 22 days. The IPO valuations…"
     }
   ]
 }
