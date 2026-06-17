@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-16T17:27:26.502Z",
+  "updatedAt": "2026-06-17T05:21:01.469Z",
   "posts": [
+    {
+      "title": "The Distributed Cost | Issue #056",
+      "link": "https://nirantar.substack.com/p/the-distributed-cost-2026-06-17",
+      "pubDate": "2026-06-17T04:26:50.000Z",
+      "dateLabel": "Issue #056 · Jun 17, 2026",
+      "description": "The DOJ just told a federal court that air quality law yields to AI compute. Today's other stories ask who else pays the same price."
+    },
     {
       "title": "The Absorption Test | Issue #055",
       "link": "https://nirantar.substack.com/p/the-absorption-test-2026-06-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-12T03:37:31.000Z",
       "dateLabel": "Issue #051 · Jun 12, 2026",
       "description": "Prometheus raises $12B for an artificial general engineer. Anthropic plants 1,000 fellows inside nonprofits before its IPO. The subscription math reveals labs subsidizing power users at…"
-    },
-    {
-      "title": "The Embedded Layer | Issue #050",
-      "link": "https://nirantar.substack.com/p/the-embedded-layer-2026-06-11",
-      "pubDate": "2026-06-11T03:37:05.000Z",
-      "dateLabel": "Issue #050 · Jun 11, 2026",
-      "description": "SpaceX prices at $1.75T. OpenAI moves into Oracle. Apple open-sources its model layer. China mandates 10,000 humanoid robots. Three companies took half of all Q1 startup capital. None of…"
     }
   ]
 }
