@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-17T18:38:03.037Z",
+  "updatedAt": "2026-06-18T05:10:58.836Z",
   "posts": [
+    {
+      "title": "The Trusted Partners | Issue #057",
+      "link": "https://nirantar.substack.com/p/the-trusted-partners-2026-06-18",
+      "pubDate": "2026-06-18T04:27:25.000Z",
+      "dateLabel": "Issue #057 · Jun 18, 2026",
+      "description": "OpenAI burned $21 billion operationally last year. The G7 is negotiating access to the same ecosystem. China made a competing offer."
+    },
     {
       "title": "The Distributed Cost | Issue #056",
       "link": "https://nirantar.substack.com/p/the-distributed-cost-2026-06-17",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-13T06:15:31.000Z",
       "dateLabel": "Issue #052 · Jun 13, 2026",
       "description": "MSCI starts forced index buying of SPCX today, the day after its record IPO. Anthropic and OpenAI just got their first public pricing comp. OpenAI buys Ona to close Claude Code's…"
-    },
-    {
-      "title": "The Build Surface | Issue #051",
-      "link": "https://nirantar.substack.com/p/the-build-surface-2026-06-12",
-      "pubDate": "2026-06-12T03:37:31.000Z",
-      "dateLabel": "Issue #051 · Jun 12, 2026",
-      "description": "Prometheus raises $12B for an artificial general engineer. Anthropic plants 1,000 fellows inside nonprofits before its IPO. The subscription math reveals labs subsidizing power users at…"
     }
   ]
 }
