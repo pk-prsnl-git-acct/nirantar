@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-19T18:12:44.303Z",
+  "updatedAt": "2026-06-20T04:46:53.204Z",
   "posts": [
+    {
+      "title": "The Boundary Conditions | Issue #059",
+      "link": "https://nirantar.substack.com/p/the-boundary-conditions-2026-06-20",
+      "pubDate": "2026-06-20T04:41:21.000Z",
+      "dateLabel": "Issue #059 · Jun 20, 2026",
+      "description": "Midjourney scans bodies. Qualcomm chases Nvidia. Databricks goes real-time. Colorado erases its AI law. The category definitions are no longer load-bearing."
+    },
     {
       "title": "The Metered Web | Issue #058",
       "link": "https://nirantar.substack.com/p/the-metered-web-2026-06-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-15T03:34:53.000Z",
       "dateLabel": "Issue #054 · Jun 15, 2026",
       "description": "When a verbal report is sufficient to recall a model used by hundreds of millions of people."
-    },
-    {
-      "title": "The Off Switch | Issue #053",
-      "link": "https://nirantar.substack.com/p/the-off-switch-2026-06-14",
-      "pubDate": "2026-06-14T03:58:55.000Z",
-      "dateLabel": "Issue #053 · Jun 14, 2026",
-      "description": "The US government disabled Anthropic's best models. Anthropic overtook OpenAI. Colorado abandoned its AI law."
     }
   ]
 }
