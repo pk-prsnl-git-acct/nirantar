@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-21T17:59:13.565Z",
+  "updatedAt": "2026-06-22T05:36:51.374Z",
   "posts": [
+    {
+      "title": "The Load Bearing | Issue #061",
+      "link": "https://nirantar.substack.com/p/the-load-bearing-2026-06-22",
+      "pubDate": "2026-06-22T03:37:41.000Z",
+      "dateLabel": "Issue #061 · Jun 22, 2026",
+      "description": "FERC orders the grid to catch up with AI. SpaceX buys Cursor for $60B. DeepSeek trains on Huawei chips. ChatGPT loses its majority for the first time."
+    },
     {
       "title": "The 5:21 Mechanism | Issue #060",
       "link": "https://nirantar.substack.com/p/the-521-mechanism-2026-06-21",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-17T04:26:50.000Z",
       "dateLabel": "Issue #056 · Jun 17, 2026",
       "description": "The DOJ just told a federal court that air quality law yields to AI compute. Today's other stories ask who else pays the same price."
-    },
-    {
-      "title": "The Absorption Test | Issue #055",
-      "link": "https://nirantar.substack.com/p/the-absorption-test-2026-06-16",
-      "pubDate": "2026-06-16T04:59:57.000Z",
-      "dateLabel": "Issue #055 · Jun 16, 2026",
-      "description": "SpaceX sets the comps. Anthropic and OpenAI are next."
     }
   ]
 }
