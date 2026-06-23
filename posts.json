@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-22T17:15:56.683Z",
+  "updatedAt": "2026-06-23T04:36:11.561Z",
   "posts": [
+    {
+      "title": "The Conductor | Issue #062",
+      "link": "https://nirantar.substack.com/p/the-conductor-2026-06-23",
+      "pubDate": "2026-06-23T03:39:10.000Z",
+      "dateLabel": "Issue #062 · Jun 23, 2026",
+      "description": "Sakana routes between models, China mandates its own chip stack, Google loses two defining researchers in a week, and the EU closes a consultation on rules it has already pushed 16 months."
+    },
     {
       "title": "The Load Bearing | Issue #061",
       "link": "https://nirantar.substack.com/p/the-load-bearing-2026-06-22",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-18T04:27:25.000Z",
       "dateLabel": "Issue #057 · Jun 18, 2026",
       "description": "OpenAI burned $21 billion operationally last year. The G7 is negotiating access to the same ecosystem. China made a competing offer."
-    },
-    {
-      "title": "The Distributed Cost | Issue #056",
-      "link": "https://nirantar.substack.com/p/the-distributed-cost-2026-06-17",
-      "pubDate": "2026-06-17T04:26:50.000Z",
-      "dateLabel": "Issue #056 · Jun 17, 2026",
-      "description": "The DOJ just told a federal court that air quality law yields to AI compute. Today's other stories ask who else pays the same price."
     }
   ]
 }
