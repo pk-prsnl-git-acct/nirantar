@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-23T16:44:57.369Z",
+  "updatedAt": "2026-06-24T04:44:00.379Z",
   "posts": [
+    {
+      "title": "The Extraction Layer | Issue #063",
+      "link": "https://nirantar.substack.com/p/the-extraction-layer-2026-06-24",
+      "pubDate": "2026-06-24T03:40:33.000Z",
+      "dateLabel": "Issue #063 · Jun 24, 2026",
+      "description": "OpenAI moves into Glasswing's vacancy, Micron invests in Anthropic, SpaceX hits $80B in compute revenue, and China targets the rare earth firms Washington is funding to break its mineral…"
+    },
     {
       "title": "The Conductor | Issue #062",
       "link": "https://nirantar.substack.com/p/the-conductor-2026-06-23",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-19T03:38:45.000Z",
       "dateLabel": "Issue #058 · Jun 19, 2026",
       "description": "Amazon's agentic stack, the bot traffic toll booth, Congress's three-year governance freeze, and the browser as agent."
-    },
-    {
-      "title": "The Trusted Partners | Issue #057",
-      "link": "https://nirantar.substack.com/p/the-trusted-partners-2026-06-18",
-      "pubDate": "2026-06-18T04:27:25.000Z",
-      "dateLabel": "Issue #057 · Jun 18, 2026",
-      "description": "OpenAI burned $21 billion operationally last year. The G7 is negotiating access to the same ecosystem. China made a competing offer."
     }
   ]
 }
