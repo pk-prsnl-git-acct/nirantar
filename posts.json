@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-24T16:36:12.437Z",
+  "updatedAt": "2026-06-25T04:38:47.326Z",
   "posts": [
+    {
+      "title": "The Flight Test | Issue #064",
+      "link": "https://nirantar.substack.com/p/the-flight-test-2026-06-25",
+      "pubDate": "2026-06-25T03:41:50.000Z",
+      "dateLabel": "Issue #064 · Jun 25, 2026",
+      "description": "NNSA's AI-designed nuclear vehicle flew in five months at 1/15th the cost. SpaceX shed $600B while signing $6.3B in new compute deals. Gemini 3.5 Pro has five days."
+    },
     {
       "title": "The Extraction Layer | Issue #063",
       "link": "https://nirantar.substack.com/p/the-extraction-layer-2026-06-24",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-20T04:41:21.000Z",
       "dateLabel": "Issue #059 · Jun 20, 2026",
       "description": "Midjourney scans bodies. Qualcomm chases Nvidia. Databricks goes real-time. Colorado erases its AI law. The category definitions are no longer load-bearing."
-    },
-    {
-      "title": "The Metered Web | Issue #058",
-      "link": "https://nirantar.substack.com/p/the-metered-web-2026-06-19",
-      "pubDate": "2026-06-19T03:38:45.000Z",
-      "dateLabel": "Issue #058 · Jun 19, 2026",
-      "description": "Amazon's agentic stack, the bot traffic toll booth, Congress's three-year governance freeze, and the browser as agent."
     }
   ]
 }
