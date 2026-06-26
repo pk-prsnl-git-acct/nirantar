@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-25T16:39:01.014Z",
+  "updatedAt": "2026-06-26T04:47:05.651Z",
   "posts": [
+    {
+      "title": "The Compliance Architecture | Issue #065",
+      "link": "https://nirantar.substack.com/p/the-compliance-architecture-2026-06-26",
+      "pubDate": "2026-06-26T03:42:51.000Z",
+      "dateLabel": "Issue #065 · Jun 26, 2026",
+      "description": "Fable 5's congressional deadline, DeepSeek's state-controlled governance, GPT-5.6's window collapse, and the week AI governance became operational."
+    },
     {
       "title": "The Flight Test | Issue #064",
       "link": "https://nirantar.substack.com/p/the-flight-test-2026-06-25",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-21T03:40:50.000Z",
       "dateLabel": "Issue #060 · Jun 21, 2026",
       "description": "The export control precedent that will outlast this week's G7 talks"
-    },
-    {
-      "title": "The Boundary Conditions | Issue #059",
-      "link": "https://nirantar.substack.com/p/the-boundary-conditions-2026-06-20",
-      "pubDate": "2026-06-20T04:41:21.000Z",
-      "dateLabel": "Issue #059 · Jun 20, 2026",
-      "description": "Midjourney scans bodies. Qualcomm chases Nvidia. Databricks goes real-time. Colorado erases its AI law. The category definitions are no longer load-bearing."
     }
   ]
 }
