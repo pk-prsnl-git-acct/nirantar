@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-27T17:34:51.119Z",
+  "updatedAt": "2026-06-28T04:57:09.811Z",
   "posts": [
+    {
+      "title": "The Extraction War | Issue #067",
+      "link": "https://nirantar.substack.com/p/the-extraction-war-2026-06-28",
+      "pubDate": "2026-06-28T03:41:18.000Z",
+      "dateLabel": "Issue #067 · Jun 28, 2026",
+      "description": "China distilled 28.8M Claude responses. Google lost $269B when four researchers left. Chinese models now hold 60% of API traffic. The gap is the market."
+    },
     {
       "title": "The Gated Frontier | Issue #066",
       "link": "https://nirantar.substack.com/p/the-gated-frontier-2026-06-27",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-23T03:39:10.000Z",
       "dateLabel": "Issue #062 · Jun 23, 2026",
       "description": "Sakana routes between models, China mandates its own chip stack, Google loses two defining researchers in a week, and the EU closes a consultation on rules it has already pushed 16 months."
-    },
-    {
-      "title": "The Load Bearing | Issue #061",
-      "link": "https://nirantar.substack.com/p/the-load-bearing-2026-06-22",
-      "pubDate": "2026-06-22T03:37:41.000Z",
-      "dateLabel": "Issue #061 · Jun 22, 2026",
-      "description": "FERC orders the grid to catch up with AI. SpaceX buys Cursor for $60B. DeepSeek trains on Huawei chips. ChatGPT loses its majority for the first time."
     }
   ]
 }
