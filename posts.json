@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-28T17:40:22.695Z",
+  "updatedAt": "2026-06-29T05:07:37.334Z",
   "posts": [
+    {
+      "title": "The Blank Audit | Issue #068",
+      "link": "https://nirantar.substack.com/p/the-blank-audit-2026-06-29",
+      "pubDate": "2026-06-29T04:50:02.000Z",
+      "dateLabel": "Issue #068 · Jun 29, 2026",
+      "description": "HHS runs ChatGPT on 50 states with no error rate. Uber burned its AI budget by April. OpenAI wants a trillion-dollar valuation the market won't price. The deployment happened. The…"
+    },
     {
       "title": "The Extraction War | Issue #067",
       "link": "https://nirantar.substack.com/p/the-extraction-war-2026-06-28",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-24T03:40:33.000Z",
       "dateLabel": "Issue #063 · Jun 24, 2026",
       "description": "OpenAI moves into Glasswing's vacancy, Micron invests in Anthropic, SpaceX hits $80B in compute revenue, and China targets the rare earth firms Washington is funding to break its mineral…"
-    },
-    {
-      "title": "The Conductor | Issue #062",
-      "link": "https://nirantar.substack.com/p/the-conductor-2026-06-23",
-      "pubDate": "2026-06-23T03:39:10.000Z",
-      "dateLabel": "Issue #062 · Jun 23, 2026",
-      "description": "Sakana routes between models, China mandates its own chip stack, Google loses two defining researchers in a week, and the EU closes a consultation on rules it has already pushed 16 months."
     }
   ]
 }
