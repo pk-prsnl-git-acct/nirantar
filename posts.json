@@ -1,7 +1,21 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-06-29T18:27:46.828Z",
+  "updatedAt": "2026-07-01T04:59:02.914Z",
   "posts": [
+    {
+      "title": "The Access Layer | Issue #070",
+      "link": "https://nirantar.substack.com/p/access-layer-2026-07-01",
+      "pubDate": "2026-07-01T03:38:28.000Z",
+      "dateLabel": "Issue #070 · Jul 01, 2026",
+      "description": "Who controls what's already been built."
+    },
+    {
+      "title": "The Running Total | Issue #069",
+      "link": "https://nirantar.substack.com/p/the-running-total-2026-06-30",
+      "pubDate": "2026-06-30T03:50:30.000Z",
+      "dateLabel": "Issue #069 · Jun 30, 2026",
+      "description": "When the bill arrives simultaneously at every layer of the stack"
+    },
     {
       "title": "The Blank Audit | Issue #068",
       "link": "https://nirantar.substack.com/p/the-blank-audit-2026-06-29",
@@ -29,20 +43,6 @@
       "pubDate": "2026-06-26T03:42:51.000Z",
       "dateLabel": "Issue #065 · Jun 26, 2026",
       "description": "Fable 5's congressional deadline, DeepSeek's state-controlled governance, GPT-5.6's window collapse, and the week AI governance became operational."
-    },
-    {
-      "title": "The Flight Test | Issue #064",
-      "link": "https://nirantar.substack.com/p/the-flight-test-2026-06-25",
-      "pubDate": "2026-06-25T03:41:50.000Z",
-      "dateLabel": "Issue #064 · Jun 25, 2026",
-      "description": "NNSA's AI-designed nuclear vehicle flew in five months at 1/15th the cost. SpaceX shed $600B while signing $6.3B in new compute deals. Gemini 3.5 Pro has five days."
-    },
-    {
-      "title": "The Extraction Layer | Issue #063",
-      "link": "https://nirantar.substack.com/p/the-extraction-layer-2026-06-24",
-      "pubDate": "2026-06-24T03:40:33.000Z",
-      "dateLabel": "Issue #063 · Jun 24, 2026",
-      "description": "OpenAI moves into Glasswing's vacancy, Micron invests in Anthropic, SpaceX hits $80B in compute revenue, and China targets the rare earth firms Washington is funding to break its mineral…"
     }
   ]
 }
