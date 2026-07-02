@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-01T16:42:08.205Z",
+  "updatedAt": "2026-07-02T04:35:31.817Z",
   "posts": [
+    {
+      "title": "The Scaffold | Issue #071",
+      "link": "https://nirantar.substack.com/p/the-scaffold-2026-07-02",
+      "pubDate": "2026-07-02T03:45:00.000Z",
+      "dateLabel": "Issue #071 · Jul 02, 2026",
+      "description": "The governance, energy, and silicon infrastructure of AI is being built simultaneously, by different actors, against none of the same timelines."
+    },
     {
       "title": "The Access Layer | Issue #070",
       "link": "https://nirantar.substack.com/p/access-layer-2026-07-01",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-27T04:50:41.000Z",
       "dateLabel": "Issue #066 · Jun 27, 2026",
       "description": "The Still Signal: beyond the noise."
-    },
-    {
-      "title": "The Compliance Architecture | Issue #065",
-      "link": "https://nirantar.substack.com/p/the-compliance-architecture-2026-06-26",
-      "pubDate": "2026-06-26T03:42:51.000Z",
-      "dateLabel": "Issue #065 · Jun 26, 2026",
-      "description": "Fable 5's congressional deadline, DeepSeek's state-controlled governance, GPT-5.6's window collapse, and the week AI governance became operational."
     }
   ]
 }
