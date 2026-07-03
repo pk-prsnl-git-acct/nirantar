@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-03T07:43:38.105Z",
+  "updatedAt": "2026-07-03T11:04:59.943Z",
   "posts": [
+    {
+      "title": "The Expertise Layer | Issue #072",
+      "link": "https://nirantar.substack.com/p/the-expertise-layer-2026-07-03",
+      "pubDate": "2026-07-03T04:23:01.000Z",
+      "dateLabel": "Issue #072 · Jul 03, 2026",
+      "description": "Four AI labs launch forward-deployed engineering organizations. Ford rehires the engineers AI replaced. The deployment gap has a price."
+    },
     {
       "title": "The Scaffold | Issue #071",
       "link": "https://nirantar.substack.com/p/the-scaffold-2026-07-02",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-28T03:41:18.000Z",
       "dateLabel": "Issue #067 · Jun 28, 2026",
       "description": "China distilled 28.8M Claude responses. Google lost $269B when four researchers left. Chinese models now hold 60% of API traffic. The gap is the market."
-    },
-    {
-      "title": "The Gated Frontier | Issue #066",
-      "link": "https://nirantar.substack.com/p/the-gated-frontier-2026-06-27",
-      "pubDate": "2026-06-27T04:50:41.000Z",
-      "dateLabel": "Issue #066 · Jun 27, 2026",
-      "description": "The Still Signal: beyond the noise."
     }
   ]
 }
