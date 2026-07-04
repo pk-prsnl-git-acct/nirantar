@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-04T07:20:08.817Z",
+  "updatedAt": "2026-07-04T10:29:23.828Z",
   "posts": [
+    {
+      "title": "The Tollbooth | Issue #073",
+      "link": "https://nirantar.substack.com/p/the-tollbooth-2026-07-04",
+      "pubDate": "2026-07-04T06:22:17.000Z",
+      "dateLabel": "Issue #073 · Jul 04, 2026",
+      "description": "OpenAI offers the government a stake. Meta redefines competitive intelligence as safety. Unitree IPOs in 73 days. The race is no longer for better models."
+    },
     {
       "title": "The Expertise Layer | Issue #072",
       "link": "https://nirantar.substack.com/p/the-expertise-layer-2026-07-03",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-29T04:50:02.000Z",
       "dateLabel": "Issue #068 · Jun 29, 2026",
       "description": "HHS runs ChatGPT on 50 states with no error rate. Uber burned its AI budget by April. OpenAI wants a trillion-dollar valuation the market won't price. The deployment happened. The…"
-    },
-    {
-      "title": "The Extraction War | Issue #067",
-      "link": "https://nirantar.substack.com/p/the-extraction-war-2026-06-28",
-      "pubDate": "2026-06-28T03:41:18.000Z",
-      "dateLabel": "Issue #067 · Jun 28, 2026",
-      "description": "China distilled 28.8M Claude responses. Google lost $269B when four researchers left. Chinese models now hold 60% of API traffic. The gap is the market."
     }
   ]
 }
