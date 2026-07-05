@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-05T09:25:09.068Z",
+  "updatedAt": "2026-07-05T11:50:15.177Z",
   "posts": [
+    {
+      "title": "The Terms of Use | Issue #074",
+      "link": "https://nirantar.substack.com/p/terms-of-use-2026-07-05",
+      "pubDate": "2026-07-05T05:51:03.000Z",
+      "dateLabel": "Issue #074 · Jul 05, 2026",
+      "description": "LongCat-2.0 proves domestic chips can train frontier models. Anthropic tracks time zones to catch Chinese access. The Pentagon wanted Anthropic to waive its ethics as a contract term."
+    },
     {
       "title": "The Tollbooth | Issue #073",
       "link": "https://nirantar.substack.com/p/the-tollbooth-2026-07-04",
@@ -36,13 +43,6 @@
       "pubDate": "2026-06-30T03:50:30.000Z",
       "dateLabel": "Issue #069 · Jun 30, 2026",
       "description": "When the bill arrives simultaneously at every layer of the stack"
-    },
-    {
-      "title": "The Blank Audit | Issue #068",
-      "link": "https://nirantar.substack.com/p/the-blank-audit-2026-06-29",
-      "pubDate": "2026-06-29T04:50:02.000Z",
-      "dateLabel": "Issue #068 · Jun 29, 2026",
-      "description": "HHS runs ChatGPT on 50 states with no error rate. Uber burned its AI budget by April. OpenAI wants a trillion-dollar valuation the market won't price. The deployment happened. The…"
     }
   ]
 }
