@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-05T17:34:34.780Z",
+  "updatedAt": "2026-07-06T04:47:37.268Z",
   "posts": [
+    {
+      "title": "The Control Question | Issue #075",
+      "link": "https://nirantar.substack.com/p/the-control-question-2026-07-06",
+      "pubDate": "2026-07-06T04:19:08.000Z",
+      "dateLabel": "Issue #075 · Jul 06, 2026",
+      "description": "The pace is not slowing. The power is concentrating. And control is not guaranteed."
+    },
     {
       "title": "The Terms of Use | Issue #074",
       "link": "https://nirantar.substack.com/p/terms-of-use-2026-07-05",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-01T03:38:28.000Z",
       "dateLabel": "Issue #070 · Jul 01, 2026",
       "description": "Who controls what's already been built."
-    },
-    {
-      "title": "The Running Total | Issue #069",
-      "link": "https://nirantar.substack.com/p/the-running-total-2026-06-30",
-      "pubDate": "2026-06-30T03:50:30.000Z",
-      "dateLabel": "Issue #069 · Jun 30, 2026",
-      "description": "When the bill arrives simultaneously at every layer of the stack"
     }
   ]
 }
