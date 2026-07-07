@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-06T18:23:06.824Z",
+  "updatedAt": "2026-07-07T04:29:25.317Z",
   "posts": [
+    {
+      "title": "The Vibe Code | Issue #076",
+      "link": "https://nirantar.substack.com/p/the-vibe-code-2026-07-07",
+      "pubDate": "2026-07-07T04:08:33.000Z",
+      "dateLabel": "Issue #076 · Jul 07, 2026",
+      "description": "Geneva's governance room, Chinese AI at 46% of global traffic, the Fable 5 billing cliff, and the model that failed the cost-per-task test."
+    },
     {
       "title": "The Control Question | Issue #075",
       "link": "https://nirantar.substack.com/p/the-control-question-2026-07-06",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-02T03:45:00.000Z",
       "dateLabel": "Issue #071 · Jul 02, 2026",
       "description": "The governance, energy, and silicon infrastructure of AI is being built simultaneously, by different actors, against none of the same timelines."
-    },
-    {
-      "title": "The Access Layer | Issue #070",
-      "link": "https://nirantar.substack.com/p/access-layer-2026-07-01",
-      "pubDate": "2026-07-01T03:38:28.000Z",
-      "dateLabel": "Issue #070 · Jul 01, 2026",
-      "description": "Who controls what's already been built."
     }
   ]
 }
