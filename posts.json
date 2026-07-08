@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-07T18:25:26.516Z",
+  "updatedAt": "2026-07-08T03:51:31.033Z",
   "posts": [
+    {
+      "title": "The Skill Floor | Issue #077",
+      "link": "https://nirantar.substack.com/p/the-skill-floor-2026-07-08",
+      "pubDate": "2026-07-08T03:35:49.000Z",
+      "dateLabel": "Issue #077 · Jul 08, 2026",
+      "description": "AI ransomware, Chinese market capture, and a 30-day window in a weekly-release industry"
+    },
     {
       "title": "The Vibe Code | Issue #076",
       "link": "https://nirantar.substack.com/p/the-vibe-code-2026-07-07",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-03T04:23:01.000Z",
       "dateLabel": "Issue #072 · Jul 03, 2026",
       "description": "Four AI labs launch forward-deployed engineering organizations. Ford rehires the engineers AI replaced. The deployment gap has a price."
-    },
-    {
-      "title": "The Scaffold | Issue #071",
-      "link": "https://nirantar.substack.com/p/the-scaffold-2026-07-02",
-      "pubDate": "2026-07-02T03:45:00.000Z",
-      "dateLabel": "Issue #071 · Jul 02, 2026",
-      "description": "The governance, energy, and silicon infrastructure of AI is being built simultaneously, by different actors, against none of the same timelines."
     }
   ]
 }
