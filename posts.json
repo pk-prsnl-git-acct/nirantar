@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-08T17:55:28.875Z",
+  "updatedAt": "2026-07-09T04:26:07.965Z",
   "posts": [
+    {
+      "title": "The Race Condition | Issue #078",
+      "link": "https://nirantar.substack.com/p/the-race-condition-2026-07-09",
+      "pubDate": "2026-07-09T03:39:39.000Z",
+      "dateLabel": "Issue #078 · Jul 09, 2026",
+      "description": "GPT-5.6 and Grok 4.5 both launch as Alibaba bans Claude Code and the FTC moves to preempt state AI fairness laws"
+    },
     {
       "title": "The Skill Floor | Issue #077",
       "link": "https://nirantar.substack.com/p/the-skill-floor-2026-07-08",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-04T06:22:17.000Z",
       "dateLabel": "Issue #073 · Jul 04, 2026",
       "description": "OpenAI offers the government a stake. Meta redefines competitive intelligence as safety. Unitree IPOs in 73 days. The race is no longer for better models."
-    },
-    {
-      "title": "The Expertise Layer | Issue #072",
-      "link": "https://nirantar.substack.com/p/the-expertise-layer-2026-07-03",
-      "pubDate": "2026-07-03T04:23:01.000Z",
-      "dateLabel": "Issue #072 · Jul 03, 2026",
-      "description": "Four AI labs launch forward-deployed engineering organizations. Ford rehires the engineers AI replaced. The deployment gap has a price."
     }
   ]
 }
