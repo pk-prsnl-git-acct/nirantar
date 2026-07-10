@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-09T18:14:41.844Z",
+  "updatedAt": "2026-07-10T04:29:39.184Z",
   "posts": [
+    {
+      "title": "The Access Terms | Issue #079",
+      "link": "https://nirantar.substack.com/p/the-access-terms-2026-07-10",
+      "pubDate": "2026-07-10T03:38:22.000Z",
+      "dateLabel": "Issue #079 · Jul 10, 2026",
+      "description": "Meta's first paid model, Anthropic's biometric gate, and the institutional scaffolding of frontier AI"
+    },
     {
       "title": "The Race Condition | Issue #078",
       "link": "https://nirantar.substack.com/p/the-race-condition-2026-07-09",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-05T05:51:03.000Z",
       "dateLabel": "Issue #074 · Jul 05, 2026",
       "description": "LongCat-2.0 proves domestic chips can train frontier models. Anthropic tracks time zones to catch Chinese access. The Pentagon wanted Anthropic to waive its ethics as a contract term."
-    },
-    {
-      "title": "The Tollbooth | Issue #073",
-      "link": "https://nirantar.substack.com/p/the-tollbooth-2026-07-04",
-      "pubDate": "2026-07-04T06:22:17.000Z",
-      "dateLabel": "Issue #073 · Jul 04, 2026",
-      "description": "OpenAI offers the government a stake. Meta redefines competitive intelligence as safety. Unitree IPOs in 73 days. The race is no longer for better models."
     }
   ]
 }
