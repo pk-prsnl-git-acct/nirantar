@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-10T18:05:27.625Z",
+  "updatedAt": "2026-07-11T03:48:46.723Z",
   "posts": [
+    {
+      "title": "The Twelve Days | Issue #080",
+      "link": "https://nirantar.substack.com/p/the-twelve-days-2026-07-11",
+      "pubDate": "2026-07-11T03:35:55.000Z",
+      "dateLabel": "Issue #080 · Jul 11, 2026",
+      "description": "GPT-5.6 delayed by the government, Chinese models at 46% of enterprise traffic, JPMorgan going on-prem. The terms of AI deployment are being set by everyone except the labs."
+    },
     {
       "title": "The Access Terms | Issue #079",
       "link": "https://nirantar.substack.com/p/the-access-terms-2026-07-10",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-06T04:19:08.000Z",
       "dateLabel": "Issue #075 · Jul 06, 2026",
       "description": "The pace is not slowing. The power is concentrating. And control is not guaranteed."
-    },
-    {
-      "title": "The Terms of Use | Issue #074",
-      "link": "https://nirantar.substack.com/p/terms-of-use-2026-07-05",
-      "pubDate": "2026-07-05T05:51:03.000Z",
-      "dateLabel": "Issue #074 · Jul 05, 2026",
-      "description": "LongCat-2.0 proves domestic chips can train frontier models. Anthropic tracks time zones to catch Chinese access. The Pentagon wanted Anthropic to waive its ethics as a contract term."
     }
   ]
 }
