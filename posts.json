@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-11T17:26:40.855Z",
+  "updatedAt": "2026-07-12T04:04:17.169Z",
   "posts": [
+    {
+      "title": "Proof of Concept | Issue #081",
+      "link": "https://nirantar.substack.com/p/proof-of-concept-2026-07-12",
+      "pubDate": "2026-07-12T03:36:02.000Z",
+      "dateLabel": "Issue #081 · Jul 12, 2026",
+      "description": "Mathematical proofs, Chinese chips, and the end of the free frontier."
+    },
     {
       "title": "The Twelve Days | Issue #080",
       "link": "https://nirantar.substack.com/p/the-twelve-days-2026-07-11",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-07T04:08:33.000Z",
       "dateLabel": "Issue #076 · Jul 07, 2026",
       "description": "Geneva's governance room, Chinese AI at 46% of global traffic, the Fable 5 billing cliff, and the model that failed the cost-per-task test."
-    },
-    {
-      "title": "The Control Question | Issue #075",
-      "link": "https://nirantar.substack.com/p/the-control-question-2026-07-06",
-      "pubDate": "2026-07-06T04:19:08.000Z",
-      "dateLabel": "Issue #075 · Jul 06, 2026",
-      "description": "The pace is not slowing. The power is concentrating. And control is not guaranteed."
     }
   ]
 }
