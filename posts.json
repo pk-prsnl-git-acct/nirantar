@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-12T17:30:06.390Z",
+  "updatedAt": "2026-07-13T04:06:42.500Z",
   "posts": [
+    {
+      "title": "The Inherited Rules | Issue #082",
+      "link": "https://nirantar.substack.com/p/the-inherited-rules-2026-07-13",
+      "pubDate": "2026-07-13T03:37:20.000Z",
+      "dateLabel": "Issue #082 · Jul 13, 2026",
+      "description": "Apple sues OpenAI over 400 engineers. Pentagon-listed firms access frontier AI legally. Agentic ransomware pivots in 31 seconds. The law wasn't designed for this."
+    },
     {
       "title": "Proof of Concept | Issue #081",
       "link": "https://nirantar.substack.com/p/proof-of-concept-2026-07-12",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-08T03:35:49.000Z",
       "dateLabel": "Issue #077 · Jul 08, 2026",
       "description": "AI ransomware, Chinese market capture, and a 30-day window in a weekly-release industry"
-    },
-    {
-      "title": "The Vibe Code | Issue #076",
-      "link": "https://nirantar.substack.com/p/the-vibe-code-2026-07-07",
-      "pubDate": "2026-07-07T04:08:33.000Z",
-      "dateLabel": "Issue #076 · Jul 07, 2026",
-      "description": "Geneva's governance room, Chinese AI at 46% of global traffic, the Fable 5 billing cliff, and the model that failed the cost-per-task test."
     }
   ]
 }
