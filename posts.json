@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-14T06:31:01.203Z",
+  "updatedAt": "2026-07-14T10:13:43.621Z",
   "posts": [
+    {
+      "title": "Below the Benchmark | Issue #083",
+      "link": "https://nirantar.substack.com/p/below-the-benchmark-2026-07-14",
+      "pubDate": "2026-07-14T05:17:25.000Z",
+      "dateLabel": "Issue #083 · Jul 14, 2026",
+      "description": "The frontier model race is real. The conditions race is the one that determines it."
+    },
     {
       "title": "The Inherited Rules | Issue #082",
       "link": "https://nirantar.substack.com/p/the-inherited-rules-2026-07-13",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-09T03:39:39.000Z",
       "dateLabel": "Issue #078 · Jul 09, 2026",
       "description": "GPT-5.6 and Grok 4.5 both launch as Alibaba bans Claude Code and the FTC moves to preempt state AI fairness laws"
-    },
-    {
-      "title": "The Skill Floor | Issue #077",
-      "link": "https://nirantar.substack.com/p/the-skill-floor-2026-07-08",
-      "pubDate": "2026-07-08T03:35:49.000Z",
-      "dateLabel": "Issue #077 · Jul 08, 2026",
-      "description": "AI ransomware, Chinese market capture, and a 30-day window in a weekly-release industry"
     }
   ]
 }
