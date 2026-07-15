@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-14T17:37:29.475Z",
+  "updatedAt": "2026-07-15T03:41:38.339Z",
   "posts": [
+    {
+      "title": "The Scrapped Model | Issue #084",
+      "link": "https://nirantar.substack.com/p/the-scrapped-model-2026-07-15",
+      "pubDate": "2026-07-15T03:39:28.000Z",
+      "dateLabel": "Issue #084 · Jul 15, 2026",
+      "description": "China's companion AI deadline arrives today. Google rebuilds Gemini 3.5 Pro from scratch. Agility Robotics files for public markets."
+    },
     {
       "title": "Below the Benchmark | Issue #083",
       "link": "https://nirantar.substack.com/p/below-the-benchmark-2026-07-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-10T03:38:22.000Z",
       "dateLabel": "Issue #079 · Jul 10, 2026",
       "description": "Meta's first paid model, Anthropic's biometric gate, and the institutional scaffolding of frontier AI"
-    },
-    {
-      "title": "The Race Condition | Issue #078",
-      "link": "https://nirantar.substack.com/p/the-race-condition-2026-07-09",
-      "pubDate": "2026-07-09T03:39:39.000Z",
-      "dateLabel": "Issue #078 · Jul 09, 2026",
-      "description": "GPT-5.6 and Grok 4.5 both launch as Alibaba bans Claude Code and the FTC moves to preempt state AI fairness laws"
     }
   ]
 }
