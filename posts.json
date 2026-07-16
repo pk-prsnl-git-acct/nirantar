@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-15T17:41:56.868Z",
+  "updatedAt": "2026-07-16T06:38:14.262Z",
   "posts": [
+    {
+      "title": "The Stress Test | Issue #085",
+      "link": "https://nirantar.substack.com/p/stress-test-2026-07-16",
+      "pubDate": "2026-07-16T03:45:23.000Z",
+      "dateLabel": "Issue #085 · Jul 16, 2026",
+      "description": "TSMC posts its biggest quarter ever. The AI safety industry posts a C+. Both measurements arrived today."
+    },
     {
       "title": "The Scrapped Model | Issue #084",
       "link": "https://nirantar.substack.com/p/the-scrapped-model-2026-07-15",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-11T03:35:55.000Z",
       "dateLabel": "Issue #080 · Jul 11, 2026",
       "description": "GPT-5.6 delayed by the government, Chinese models at 46% of enterprise traffic, JPMorgan going on-prem. The terms of AI deployment are being set by everyone except the labs."
-    },
-    {
-      "title": "The Access Terms | Issue #079",
-      "link": "https://nirantar.substack.com/p/the-access-terms-2026-07-10",
-      "pubDate": "2026-07-10T03:38:22.000Z",
-      "dateLabel": "Issue #079 · Jul 10, 2026",
-      "description": "Meta's first paid model, Anthropic's biometric gate, and the institutional scaffolding of frontier AI"
     }
   ]
 }
