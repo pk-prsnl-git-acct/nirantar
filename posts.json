@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-16T17:43:25.551Z",
+  "updatedAt": "2026-07-17T03:44:30.030Z",
   "posts": [
+    {
+      "title": "The Rival Architectures | Issue #086",
+      "link": "https://nirantar.substack.com/p/the-rival-architectures-2026-07-17",
+      "pubDate": "2026-07-17T03:38:50.000Z",
+      "dateLabel": "Issue #086 · Jul 17, 2026",
+      "description": "Gemini 3.5 Pro rebuilt, Xi at WAIC, FTC claims AI accuracy, and 261 models in four days."
+    },
     {
       "title": "The Stress Test | Issue #085",
       "link": "https://nirantar.substack.com/p/stress-test-2026-07-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-12T03:36:02.000Z",
       "dateLabel": "Issue #081 · Jul 12, 2026",
       "description": "Mathematical proofs, Chinese chips, and the end of the free frontier."
-    },
-    {
-      "title": "The Twelve Days | Issue #080",
-      "link": "https://nirantar.substack.com/p/the-twelve-days-2026-07-11",
-      "pubDate": "2026-07-11T03:35:55.000Z",
-      "dateLabel": "Issue #080 · Jul 11, 2026",
-      "description": "GPT-5.6 delayed by the government, Chinese models at 46% of enterprise traffic, JPMorgan going on-prem. The terms of AI deployment are being set by everyone except the labs."
     }
   ]
 }
