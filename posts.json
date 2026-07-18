@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-18T11:27:13.058Z",
+  "updatedAt": "2026-07-18T13:54:32.374Z",
   "posts": [
+    {
+      "title": "Below the Frontier | Issue #087",
+      "link": "https://nirantar.substack.com/p/below-the-frontier-2026-07-18",
+      "pubDate": "2026-07-18T10:56:12.000Z",
+      "dateLabel": "Issue #087 · Jul 18, 2026",
+      "description": "Kimi K3 at #3 globally. Fireworks AI's 95% specialization rate. Microsoft's model router. The frontier model is no longer the chokepoint."
+    },
     {
       "title": "The Rival Architectures | Issue #086",
       "link": "https://nirantar.substack.com/p/the-rival-architectures-2026-07-17",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-13T03:37:20.000Z",
       "dateLabel": "Issue #082 · Jul 13, 2026",
       "description": "Apple sues OpenAI over 400 engineers. Pentagon-listed firms access frontier AI legally. Agentic ransomware pivots in 31 seconds. The law wasn't designed for this."
-    },
-    {
-      "title": "Proof of Concept | Issue #081",
-      "link": "https://nirantar.substack.com/p/proof-of-concept-2026-07-12",
-      "pubDate": "2026-07-12T03:36:02.000Z",
-      "dateLabel": "Issue #081 · Jul 12, 2026",
-      "description": "Mathematical proofs, Chinese chips, and the end of the free frontier."
     }
   ]
 }
