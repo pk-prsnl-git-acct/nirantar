@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-18T17:26:45.557Z",
+  "updatedAt": "2026-07-19T07:02:26.598Z",
   "posts": [
+    {
+      "title": "The Only Vote | Issue #088",
+      "link": "https://nirantar.substack.com/p/the-only-vote-2026-07-19",
+      "pubDate": "2026-07-19T03:46:25.000Z",
+      "dateLabel": "Issue #088 · Jul 19, 2026",
+      "description": "DeepSeek's state governance, Fable 5's compute rationing, and the gap between announced control structures and operational reality."
+    },
     {
       "title": "Below the Frontier | Issue #087",
       "link": "https://nirantar.substack.com/p/below-the-frontier-2026-07-18",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-14T05:17:25.000Z",
       "dateLabel": "Issue #083 · Jul 14, 2026",
       "description": "The frontier model race is real. The conditions race is the one that determines it."
-    },
-    {
-      "title": "The Inherited Rules | Issue #082",
-      "link": "https://nirantar.substack.com/p/the-inherited-rules-2026-07-13",
-      "pubDate": "2026-07-13T03:37:20.000Z",
-      "dateLabel": "Issue #082 · Jul 13, 2026",
-      "description": "Apple sues OpenAI over 400 engineers. Pentagon-listed firms access frontier AI legally. Agentic ransomware pivots in 31 seconds. The law wasn't designed for this."
     }
   ]
 }
