@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-19T17:29:19.257Z",
+  "updatedAt": "2026-07-20T11:18:17.569Z",
   "posts": [
+    {
+      "title": "The Dependency Layer | Issue #089",
+      "link": "https://nirantar.substack.com/p/the-dependency-layer-2026-07-20",
+      "pubDate": "2026-07-20T03:38:12.000Z",
+      "dateLabel": "Issue #089 · Jul 20, 2026",
+      "description": "When the layer below the model matters more than the model itself"
+    },
     {
       "title": "The Only Vote | Issue #088",
       "link": "https://nirantar.substack.com/p/the-only-vote-2026-07-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-15T03:39:28.000Z",
       "dateLabel": "Issue #084 · Jul 15, 2026",
       "description": "China's companion AI deadline arrives today. Google rebuilds Gemini 3.5 Pro from scratch. Agility Robotics files for public markets."
-    },
-    {
-      "title": "Below the Benchmark | Issue #083",
-      "link": "https://nirantar.substack.com/p/below-the-benchmark-2026-07-14",
-      "pubDate": "2026-07-14T05:17:25.000Z",
-      "dateLabel": "Issue #083 · Jul 14, 2026",
-      "description": "The frontier model race is real. The conditions race is the one that determines it."
     }
   ]
 }
