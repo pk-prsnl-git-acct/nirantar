@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-21T06:45:26.493Z",
+  "updatedAt": "2026-07-21T10:35:32.897Z",
   "posts": [
+    {
+      "title": "The Approval Layer | Issue #090",
+      "link": "https://nirantar.substack.com/p/the-approval-layer-2026-07-21",
+      "pubDate": "2026-07-21T05:06:21.000Z",
+      "dateLabel": "Issue #090 · Jul 21, 2026",
+      "description": "The White House is now in the AI distribution chain. Hugging Face's defenders switched to a Chinese model because US models refused exploit payloads. And a $25 prompt found a $500,000 bug."
+    },
     {
       "title": "The Dependency Layer | Issue #089",
       "link": "https://nirantar.substack.com/p/the-dependency-layer-2026-07-20",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-16T03:45:23.000Z",
       "dateLabel": "Issue #085 · Jul 16, 2026",
       "description": "TSMC posts its biggest quarter ever. The AI safety industry posts a C+. Both measurements arrived today."
-    },
-    {
-      "title": "The Scrapped Model | Issue #084",
-      "link": "https://nirantar.substack.com/p/the-scrapped-model-2026-07-15",
-      "pubDate": "2026-07-15T03:39:28.000Z",
-      "dateLabel": "Issue #084 · Jul 15, 2026",
-      "description": "China's companion AI deadline arrives today. Google rebuilds Gemini 3.5 Pro from scratch. Agility Robotics files for public markets."
     }
   ]
 }
