@@ -14,17 +14,20 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Fetch Substack RSS
+        id: fetch-rss
         run: node scripts/fetch-substack-rss.mjs
+        continue-on-error: true
 
       - name: Commit updated posts
+        if: steps.fetch-rss.outcome == 'success'
         run: |
           if [[ -n "$(git status --porcelain posts.json)" ]]; then
             git config user.name "github-actions[bot]"

@@ -1,5 +1,24 @@
 import { writeFile } from "node:fs/promises";
 
+async function fetchWithRetry(url, options = {}, retries = 4, initialDelayMs = 5000) {
+  let delayMs = initialDelayMs;
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await fetch(url, options);
+      if (response.ok) return response;
+      if (attempt === retries) {
+        throw new Error(`Failed to fetch RSS JSON after ${retries} attempts: ${response.status} ${response.statusText}`);
+      }
+      console.warn(`Attempt ${attempt} failed with ${response.status} ${response.statusText}. Retrying in ${delayMs}ms...`);
+    } catch (err) {
+      if (attempt === retries) throw err;
+      console.warn(`Attempt ${attempt} threw: ${err.message}. Retrying in ${delayMs}ms...`);
+    }
+    await new Promise(r => setTimeout(r, delayMs));
+    delayMs *= 2; // exponential backoff: 5s → 10s → 20s → 40s
+  }
+}
+
 const FEED_URL = "https://nirantar.substack.com/feed";
 const RSS_JSON_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(FEED_URL)}`;
 const OUTPUT_FILE = "posts.json";
@@ -52,16 +71,12 @@ function issueNumber(title = "", link = "") {
   return match ? `Issue #${match[1].padStart(3, "0")}` : "";
 }
 
-const response = await fetch(RSS_JSON_URL, {
+const response = await fetchWithRetry(RSS_JSON_URL, {
   headers: {
     accept: "application/json,text/plain,*/*",
     "user-agent": "Mozilla/5.0 (compatible; NirantarRSSBot/1.0; +https://nirantar.xyz)",
   },
 });
-
-if (!response.ok) {
-  throw new Error(`Failed to fetch RSS JSON: ${response.status} ${response.statusText}`);
-}
 
 const data = await response.json();
 
