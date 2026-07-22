@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-21T17:49:04.475Z",
+  "updatedAt": "2026-07-22T03:52:44.908Z",
   "posts": [
+    {
+      "title": "The Long Horizon | Issue #091",
+      "link": "https://nirantar.substack.com/p/the-long-horizon-2026-07-22",
+      "pubDate": "2026-07-22T03:39:02.000Z",
+      "dateLabel": "Issue #091 · Jul 22, 2026",
+      "description": "OpenAI pauses its best model. AMD ships 2nm. The governance layer is still catching up."
+    },
     {
       "title": "The Approval Layer | Issue #090",
       "link": "https://nirantar.substack.com/p/the-approval-layer-2026-07-21",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-17T03:38:50.000Z",
       "dateLabel": "Issue #086 · Jul 17, 2026",
       "description": "Gemini 3.5 Pro rebuilt, Xi at WAIC, FTC claims AI accuracy, and 261 models in four days."
-    },
-    {
-      "title": "The Stress Test | Issue #085",
-      "link": "https://nirantar.substack.com/p/stress-test-2026-07-16",
-      "pubDate": "2026-07-16T03:45:23.000Z",
-      "dateLabel": "Issue #085 · Jul 16, 2026",
-      "description": "TSMC posts its biggest quarter ever. The AI safety industry posts a C+. Both measurements arrived today."
     }
   ]
 }
