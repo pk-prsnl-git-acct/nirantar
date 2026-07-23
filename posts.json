@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-22T17:45:18.869Z",
+  "updatedAt": "2026-07-23T03:51:04.074Z",
   "posts": [
+    {
+      "title": "The Sovereign Stack | Issue #092",
+      "link": "https://nirantar.substack.com/p/the-sovereign-stack-2026-07-23",
+      "pubDate": "2026-07-23T03:37:08.000Z",
+      "dateLabel": "Issue #092 · Jul 23, 2026",
+      "description": "Microsoft-Mistral's sovereignty deal, AMD's software admission, Anthropic outspends Nvidia in Washington, and the Physical Intelligence acquisition signal."
+    },
     {
       "title": "The Long Horizon | Issue #091",
       "link": "https://nirantar.substack.com/p/the-long-horizon-2026-07-22",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-18T10:56:12.000Z",
       "dateLabel": "Issue #087 · Jul 18, 2026",
       "description": "Kimi K3 at #3 globally. Fireworks AI's 95% specialization rate. Microsoft's model router. The frontier model is no longer the chokepoint."
-    },
-    {
-      "title": "The Rival Architectures | Issue #086",
-      "link": "https://nirantar.substack.com/p/the-rival-architectures-2026-07-17",
-      "pubDate": "2026-07-17T03:38:50.000Z",
-      "dateLabel": "Issue #086 · Jul 17, 2026",
-      "description": "Gemini 3.5 Pro rebuilt, Xi at WAIC, FTC claims AI accuracy, and 261 models in four days."
     }
   ]
 }
