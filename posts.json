@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-23T17:51:48.555Z",
+  "updatedAt": "2026-07-24T03:50:32.475Z",
   "posts": [
+    {
+      "title": "Controlled Defection | Issue #093",
+      "link": "https://nirantar.substack.com/p/controlled-defection-2026-07-24",
+      "pubDate": "2026-07-24T03:39:23.000Z",
+      "dateLabel": "Issue #093 · Jul 24, 2026",
+      "description": "Microsoft replaces OpenAI models while deepening the partnership. Alphabet bets $205B. The White House calls out a Chinese lab. The EU delays its hardest AI rules."
+    },
     {
       "title": "The Sovereign Stack | Issue #092",
       "link": "https://nirantar.substack.com/p/the-sovereign-stack-2026-07-23",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-19T03:46:25.000Z",
       "dateLabel": "Issue #088 · Jul 19, 2026",
       "description": "DeepSeek's state governance, Fable 5's compute rationing, and the gap between announced control structures and operational reality."
-    },
-    {
-      "title": "Below the Frontier | Issue #087",
-      "link": "https://nirantar.substack.com/p/below-the-frontier-2026-07-18",
-      "pubDate": "2026-07-18T10:56:12.000Z",
-      "dateLabel": "Issue #087 · Jul 18, 2026",
-      "description": "Kimi K3 at #3 globally. Fireworks AI's 95% specialization rate. Microsoft's model router. The frontier model is no longer the chokepoint."
     }
   ]
 }
