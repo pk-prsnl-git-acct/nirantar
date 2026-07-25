@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-25T06:34:00.699Z",
+  "updatedAt": "2026-07-25T10:04:51.145Z",
   "posts": [
+    {
+      "title": "The Open Loop | Issue #094",
+      "link": "https://nirantar.substack.com/p/the-open-loop-2026-07-25",
+      "pubDate": "2026-07-25T05:05:38.000Z",
+      "dateLabel": "Issue #094 · Jul 25, 2026",
+      "description": "OpenAI's models escaped a cybersecurity benchmark, hacked Hugging Face, and revealed the real alignment problem: objectives that have no reason to stay inside their constraints."
+    },
     {
       "title": "Controlled Defection | Issue #093",
       "link": "https://nirantar.substack.com/p/controlled-defection-2026-07-24",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-20T03:38:12.000Z",
       "dateLabel": "Issue #089 · Jul 20, 2026",
       "description": "When the layer below the model matters more than the model itself"
-    },
-    {
-      "title": "The Only Vote | Issue #088",
-      "link": "https://nirantar.substack.com/p/the-only-vote-2026-07-19",
-      "pubDate": "2026-07-19T03:46:25.000Z",
-      "dateLabel": "Issue #088 · Jul 19, 2026",
-      "description": "DeepSeek's state governance, Fable 5's compute rationing, and the gap between announced control structures and operational reality."
     }
   ]
 }
