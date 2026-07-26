@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-26T07:07:55.202Z",
+  "updatedAt": "2026-07-26T10:15:33.380Z",
   "posts": [
+    {
+      "title": "The Rate Card | Issue #095",
+      "link": "https://nirantar.substack.com/p/the-rate-card-2026-07-26",
+      "pubDate": "2026-07-26T05:02:31.000Z",
+      "dateLabel": "Issue #095 · Jul 26, 2026",
+      "description": "Anthropic prices frontier AI at commodity rates. China weighs closing open-weight access. The infrastructure layer is being decided now."
+    },
     {
       "title": "The Open Loop | Issue #094",
       "link": "https://nirantar.substack.com/p/the-open-loop-2026-07-25",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-21T05:06:21.000Z",
       "dateLabel": "Issue #090 · Jul 21, 2026",
       "description": "The White House is now in the AI distribution chain. Hugging Face's defenders switched to a Chinese model because US models refused exploit payloads. And a $25 prompt found a $500,000 bug."
-    },
-    {
-      "title": "The Dependency Layer | Issue #089",
-      "link": "https://nirantar.substack.com/p/the-dependency-layer-2026-07-20",
-      "pubDate": "2026-07-20T03:38:12.000Z",
-      "dateLabel": "Issue #089 · Jul 20, 2026",
-      "description": "When the layer below the model matters more than the model itself"
     }
   ]
 }
