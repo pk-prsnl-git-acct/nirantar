@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-27T07:58:27.493Z",
+  "updatedAt": "2026-07-27T11:46:25.510Z",
   "posts": [
+    {
+      "title": "The Containment Problem | Issue #096",
+      "link": "https://nirantar.substack.com/p/the-containment-problem-2026-07-27",
+      "pubDate": "2026-07-27T04:18:20.000Z",
+      "dateLabel": "Issue #096 · Jul 27, 2026",
+      "description": "Open weights, sandbox escapes, and the federal preemption bet: three breakdowns of three containment structures, in the same week."
+    },
     {
       "title": "The Rate Card | Issue #095",
       "link": "https://nirantar.substack.com/p/the-rate-card-2026-07-26",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-22T03:39:02.000Z",
       "dateLabel": "Issue #091 · Jul 22, 2026",
       "description": "OpenAI pauses its best model. AMD ships 2nm. The governance layer is still catching up."
-    },
-    {
-      "title": "The Approval Layer | Issue #090",
-      "link": "https://nirantar.substack.com/p/the-approval-layer-2026-07-21",
-      "pubDate": "2026-07-21T05:06:21.000Z",
-      "dateLabel": "Issue #090 · Jul 21, 2026",
-      "description": "The White House is now in the AI distribution chain. Hugging Face's defenders switched to a Chinese model because US models refused exploit payloads. And a $25 prompt found a $500,000 bug."
     }
   ]
 }
