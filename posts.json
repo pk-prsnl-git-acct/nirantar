@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-28T17:48:54.625Z",
+  "updatedAt": "2026-07-29T03:47:08.427Z",
   "posts": [
+    {
+      "title": "The Sixty-Hour Review | Issue #098",
+      "link": "https://nirantar.substack.com/p/the-sixty-hour-review-2026-07-29",
+      "pubDate": "2026-07-29T03:37:32.000Z",
+      "dateLabel": "Issue #098 · Jul 29, 2026",
+      "description": "Anthropic's unreleased model found what two years of expert review missed. The rest is context."
+    },
     {
       "title": "The Underwriting | Issue #097",
       "link": "https://nirantar.substack.com/p/the-underwriting-2026-07-28",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-24T03:39:23.000Z",
       "dateLabel": "Issue #093 · Jul 24, 2026",
       "description": "Microsoft replaces OpenAI models while deepening the partnership. Alphabet bets $205B. The White House calls out a Chinese lab. The EU delays its hardest AI rules."
-    },
-    {
-      "title": "The Sovereign Stack | Issue #092",
-      "link": "https://nirantar.substack.com/p/the-sovereign-stack-2026-07-23",
-      "pubDate": "2026-07-23T03:37:08.000Z",
-      "dateLabel": "Issue #092 · Jul 23, 2026",
-      "description": "Microsoft-Mistral's sovereignty deal, AMD's software admission, Anthropic outspends Nvidia in Washington, and the Physical Intelligence acquisition signal."
     }
   ]
 }
