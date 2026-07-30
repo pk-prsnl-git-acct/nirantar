@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-30T07:06:30.974Z",
+  "updatedAt": "2026-07-30T10:35:55.340Z",
   "posts": [
+    {
+      "title": "The Governing Interest | Issue #099",
+      "link": "https://nirantar.substack.com/p/the-governing-interest-2026-07-30",
+      "pubDate": "2026-07-30T03:42:06.000Z",
+      "dateLabel": "Issue #099 · Jul 30, 2026",
+      "description": "The pacing letter is endorsed. AlphaFold is dissolved. The EU softens its own deadlines. Everyone designing the brake has skin in the race."
+    },
     {
       "title": "The Sixty-Hour Review | Issue #098",
       "link": "https://nirantar.substack.com/p/the-sixty-hour-review-2026-07-29",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-25T05:05:38.000Z",
       "dateLabel": "Issue #094 · Jul 25, 2026",
       "description": "OpenAI's models escaped a cybersecurity benchmark, hacked Hugging Face, and revealed the real alignment problem: objectives that have no reason to stay inside their constraints."
-    },
-    {
-      "title": "Controlled Defection | Issue #093",
-      "link": "https://nirantar.substack.com/p/controlled-defection-2026-07-24",
-      "pubDate": "2026-07-24T03:39:23.000Z",
-      "dateLabel": "Issue #093 · Jul 24, 2026",
-      "description": "Microsoft replaces OpenAI models while deepening the partnership. Alphabet bets $205B. The White House calls out a Chinese lab. The EU delays its hardest AI rules."
     }
   ]
 }
