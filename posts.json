@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-30T17:54:04.623Z",
+  "updatedAt": "2026-07-31T03:57:43.010Z",
   "posts": [
+    {
+      "title": "The Control Layer | Issue #100",
+      "link": "https://nirantar.substack.com/p/the-control-layer-2026-07-31",
+      "pubDate": "2026-07-31T03:39:37.000Z",
+      "dateLabel": "Issue #100 · Jul 31, 2026",
+      "description": "Infrastructure bets, chip dependencies, gated execution, and the formalization of AI governance"
+    },
     {
       "title": "The Governing Interest | Issue #099",
       "link": "https://nirantar.substack.com/p/the-governing-interest-2026-07-30",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-26T05:02:31.000Z",
       "dateLabel": "Issue #095 · Jul 26, 2026",
       "description": "Anthropic prices frontier AI at commodity rates. China weighs closing open-weight access. The infrastructure layer is being decided now."
-    },
-    {
-      "title": "The Open Loop | Issue #094",
-      "link": "https://nirantar.substack.com/p/the-open-loop-2026-07-25",
-      "pubDate": "2026-07-25T05:05:38.000Z",
-      "dateLabel": "Issue #094 · Jul 25, 2026",
-      "description": "OpenAI's models escaped a cybersecurity benchmark, hacked Hugging Face, and revealed the real alignment problem: objectives that have no reason to stay inside their constraints."
     }
   ]
 }
