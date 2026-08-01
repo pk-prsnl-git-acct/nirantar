@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-07-31T17:58:43.538Z",
+  "updatedAt": "2026-08-01T03:57:45.253Z",
   "posts": [
+    {
+      "title": "The Voluntary Option | Issue #101",
+      "link": "https://nirantar.substack.com/p/the-voluntary-option-2026-08-01",
+      "pubDate": "2026-08-01T03:37:47.000Z",
+      "dateLabel": "Issue #101 · Aug 01, 2026",
+      "description": "DeepSeek V4-Flash beats its own Pro on agent benchmarks, Amazon scraps Nova, Anthropic confirms three containment breaches, and the NSA's voluntary pre-release AI framework goes live."
+    },
     {
       "title": "The Control Layer | Issue #100",
       "link": "https://nirantar.substack.com/p/the-control-layer-2026-07-31",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-27T04:18:20.000Z",
       "dateLabel": "Issue #096 · Jul 27, 2026",
       "description": "Open weights, sandbox escapes, and the federal preemption bet: three breakdowns of three containment structures, in the same week."
-    },
-    {
-      "title": "The Rate Card | Issue #095",
-      "link": "https://nirantar.substack.com/p/the-rate-card-2026-07-26",
-      "pubDate": "2026-07-26T05:02:31.000Z",
-      "dateLabel": "Issue #095 · Jul 26, 2026",
-      "description": "Anthropic prices frontier AI at commodity rates. China weighs closing open-weight access. The infrastructure layer is being decided now."
     }
   ]
 }
