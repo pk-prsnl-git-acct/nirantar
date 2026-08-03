@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-02T17:29:29.052Z",
+  "updatedAt": "2026-08-03T04:03:17.313Z",
   "posts": [
+    {
+      "title": "The Soft Perimeter | Issue #103",
+      "link": "https://nirantar.substack.com/p/the-soft-perimeter-2026-08-03",
+      "pubDate": "2026-08-03T03:43:07.000Z",
+      "dateLabel": "Issue #103 · Aug 03, 2026",
+      "description": "AI agent platforms shipping exposed by default. Open-source models weaponized against 460 targets via Telegram. California enforcing AI provenance law while Washington misses its own…"
+    },
     {
       "title": "The Open Cage | Issue #102",
       "link": "https://nirantar.substack.com/p/the-open-cage-2026-08-02",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-29T03:37:32.000Z",
       "dateLabel": "Issue #098 · Jul 29, 2026",
       "description": "Anthropic's unreleased model found what two years of expert review missed. The rest is context."
-    },
-    {
-      "title": "The Underwriting | Issue #097",
-      "link": "https://nirantar.substack.com/p/the-underwriting-2026-07-28",
-      "pubDate": "2026-07-28T03:57:36.000Z",
-      "dateLabel": "Issue #097 · Jul 28, 2026",
-      "description": "Nvidia backstops OpenAI's uranium campus, bets on SSI, Kimi K3 goes open, Microsoft rations Azure, and the humanoid conference opens without Tesla's robot in production."
     }
   ]
 }
