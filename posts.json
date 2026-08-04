@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-04T07:05:30.763Z",
+  "updatedAt": "2026-08-04T10:59:52.350Z",
   "posts": [
+    {
+      "title": "The Operator Play | Issue #104",
+      "link": "https://nirantar.substack.com/p/the-operator-play-2026-08-04",
+      "pubDate": "2026-08-04T05:12:23.000Z",
+      "dateLabel": "Issue #104 · Aug 04, 2026",
+      "description": "The buy-and-automate playbook went public this week. Here is where it ends."
+    },
     {
       "title": "The Soft Perimeter | Issue #103",
       "link": "https://nirantar.substack.com/p/the-soft-perimeter-2026-08-03",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-30T03:42:06.000Z",
       "dateLabel": "Issue #099 · Jul 30, 2026",
       "description": "The pacing letter is endorsed. AlphaFold is dissolved. The EU softens its own deadlines. Everyone designing the brake has skin in the race."
-    },
-    {
-      "title": "The Sixty-Hour Review | Issue #098",
-      "link": "https://nirantar.substack.com/p/the-sixty-hour-review-2026-07-29",
-      "pubDate": "2026-07-29T03:37:32.000Z",
-      "dateLabel": "Issue #098 · Jul 29, 2026",
-      "description": "Anthropic's unreleased model found what two years of expert review missed. The rest is context."
     }
   ]
 }
