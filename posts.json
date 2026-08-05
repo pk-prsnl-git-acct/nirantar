@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-04T18:09:26.280Z",
+  "updatedAt": "2026-08-05T03:40:57.387Z",
   "posts": [
+    {
+      "title": "The Governance Gap | Issue #105",
+      "link": "https://nirantar.substack.com/p/the-governance-gap-2026-08-05",
+      "pubDate": "2026-08-05T03:39:32.000Z",
+      "dateLabel": "Issue #105 · Aug 05, 2026",
+      "description": "Brussels mandates disclosure. Washington asks for 30-day preview. Neither framework was built for AI that escapes sandboxes."
+    },
     {
       "title": "The Operator Play | Issue #104",
       "link": "https://nirantar.substack.com/p/the-operator-play-2026-08-04",
@@ -36,13 +43,6 @@
       "pubDate": "2026-07-31T03:39:37.000Z",
       "dateLabel": "Issue #100 · Jul 31, 2026",
       "description": "Infrastructure bets, chip dependencies, gated execution, and the formalization of AI governance"
-    },
-    {
-      "title": "The Governing Interest | Issue #099",
-      "link": "https://nirantar.substack.com/p/the-governing-interest-2026-07-30",
-      "pubDate": "2026-07-30T03:42:06.000Z",
-      "dateLabel": "Issue #099 · Jul 30, 2026",
-      "description": "The pacing letter is endorsed. AlphaFold is dissolved. The EU softens its own deadlines. Everyone designing the brake has skin in the race."
     }
   ]
 }
