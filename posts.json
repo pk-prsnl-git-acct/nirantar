@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-05T17:58:53.008Z",
+  "updatedAt": "2026-08-06T03:46:32.195Z",
   "posts": [
+    {
+      "title": "The Floor Price | Issue #106",
+      "link": "https://nirantar.substack.com/p/the-floor-price-2026-08-06",
+      "pubDate": "2026-08-06T03:33:24.000Z",
+      "dateLabel": "Issue #106 · Aug 06, 2026",
+      "description": "OpenAI cuts 80%, Microsoft caps tokens, Visa fires its VPs. AI is getting cheaper and more disciplined in the same week."
+    },
     {
       "title": "The Governance Gap | Issue #105",
       "link": "https://nirantar.substack.com/p/the-governance-gap-2026-08-05",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-01T03:37:47.000Z",
       "dateLabel": "Issue #101 · Aug 01, 2026",
       "description": "DeepSeek V4-Flash beats its own Pro on agent benchmarks, Amazon scraps Nova, Anthropic confirms three containment breaches, and the NSA's voluntary pre-release AI framework goes live."
-    },
-    {
-      "title": "The Control Layer | Issue #100",
-      "link": "https://nirantar.substack.com/p/the-control-layer-2026-07-31",
-      "pubDate": "2026-07-31T03:39:37.000Z",
-      "dateLabel": "Issue #100 · Jul 31, 2026",
-      "description": "Infrastructure bets, chip dependencies, gated execution, and the formalization of AI governance"
     }
   ]
 }
