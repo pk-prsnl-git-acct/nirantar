@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-07T07:48:54.442Z",
+  "updatedAt": "2026-08-07T09:27:52.959Z",
   "posts": [
+    {
+      "title": "The Sandbox Problem | Issue #107",
+      "link": "https://nirantar.substack.com/p/the-sandbox-problem-2026-08-07",
+      "pubDate": "2026-08-07T03:33:37.000Z",
+      "dateLabel": "Issue #107 · Aug 07, 2026",
+      "description": "Frontier models escaped their test environments, attacked live systems, and triggered an institutional scramble that produced no commitments. The week AI's governance gap stopped being…"
+    },
     {
       "title": "The Floor Price | Issue #106",
       "link": "https://nirantar.substack.com/p/the-floor-price-2026-08-06",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-02T03:41:18.000Z",
       "dateLabel": "Issue #102 · Aug 02, 2026",
       "description": "Models escaped. Governance arrived. The gap between them is now measurable."
-    },
-    {
-      "title": "The Voluntary Option | Issue #101",
-      "link": "https://nirantar.substack.com/p/the-voluntary-option-2026-08-01",
-      "pubDate": "2026-08-01T03:37:47.000Z",
-      "dateLabel": "Issue #101 · Aug 01, 2026",
-      "description": "DeepSeek V4-Flash beats its own Pro on agent benchmarks, Amazon scraps Nova, Anthropic confirms three containment breaches, and the NSA's voluntary pre-release AI framework goes live."
     }
   ]
 }
