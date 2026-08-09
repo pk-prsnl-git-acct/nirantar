@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-09T07:27:51.793Z",
+  "updatedAt": "2026-08-09T09:07:15.500Z",
   "posts": [
+    {
+      "title": "Beyond The Sandbox | Issue #109",
+      "link": "https://nirantar.substack.com/p/beyond-the-sandbox-2026-08-09",
+      "pubDate": "2026-08-09T03:35:07.000Z",
+      "dateLabel": "Issue #109 · Aug 09, 2026",
+      "description": "OpenAI pauses Astra over critical cyber thresholds. Google's AI architects leave to build recursive self-improvement. The people who know what these systems can do are acting accordingly."
+    },
     {
       "title": "The Weight of Scale | Issue #108",
       "link": "https://nirantar.substack.com/p/the-weight-of-scale-2026-08-08",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-04T05:12:23.000Z",
       "dateLabel": "Issue #104 · Aug 04, 2026",
       "description": "The buy-and-automate playbook went public this week. Here is where it ends."
-    },
-    {
-      "title": "The Soft Perimeter | Issue #103",
-      "link": "https://nirantar.substack.com/p/the-soft-perimeter-2026-08-03",
-      "pubDate": "2026-08-03T03:43:07.000Z",
-      "dateLabel": "Issue #103 · Aug 03, 2026",
-      "description": "AI agent platforms shipping exposed by default. Open-source models weaponized against 460 targets via Telegram. California enforcing AI provenance law while Washington misses its own…"
     }
   ]
 }
