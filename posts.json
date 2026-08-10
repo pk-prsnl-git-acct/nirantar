@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-10T08:10:08.781Z",
+  "updatedAt": "2026-08-10T09:53:08.314Z",
   "posts": [
+    {
+      "title": "The Audit | Issue #110",
+      "link": "https://nirantar.substack.com/p/the-audit-2026-08-10",
+      "pubDate": "2026-08-10T03:36:05.000Z",
+      "dateLabel": "Issue #110 · Aug 10, 2026",
+      "description": "From EU enforcement to UK safety findings to Google's succession, this week AI was asked to account for itself."
+    },
     {
       "title": "Beyond The Sandbox | Issue #109",
       "link": "https://nirantar.substack.com/p/beyond-the-sandbox-2026-08-09",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-05T03:39:32.000Z",
       "dateLabel": "Issue #105 · Aug 05, 2026",
       "description": "Brussels mandates disclosure. Washington asks for 30-day preview. Neither framework was built for AI that escapes sandboxes."
-    },
-    {
-      "title": "The Operator Play | Issue #104",
-      "link": "https://nirantar.substack.com/p/the-operator-play-2026-08-04",
-      "pubDate": "2026-08-04T05:12:23.000Z",
-      "dateLabel": "Issue #104 · Aug 04, 2026",
-      "description": "The buy-and-automate playbook went public this week. Here is where it ends."
     }
   ]
 }
