@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-11T07:43:14.996Z",
+  "updatedAt": "2026-08-11T09:25:39.625Z",
   "posts": [
+    {
+      "title": "The Weight of Proof | Issue #111",
+      "link": "https://nirantar.substack.com/p/the-weight-of-proof-2026-08-11",
+      "pubDate": "2026-08-11T05:17:26.000Z",
+      "dateLabel": "Issue #111 · Aug 11, 2026",
+      "description": "OpenAI's math claims meet the mathematicians. Meanwhile, every major player is staking out a different layer of the AI stack."
+    },
     {
       "title": "The Audit | Issue #110",
       "link": "https://nirantar.substack.com/p/the-audit-2026-08-10",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-06T03:33:24.000Z",
       "dateLabel": "Issue #106 · Aug 06, 2026",
       "description": "OpenAI cuts 80%, Microsoft caps tokens, Visa fires its VPs. AI is getting cheaper and more disciplined in the same week."
-    },
-    {
-      "title": "The Governance Gap | Issue #105",
-      "link": "https://nirantar.substack.com/p/the-governance-gap-2026-08-05",
-      "pubDate": "2026-08-05T03:39:32.000Z",
-      "dateLabel": "Issue #105 · Aug 05, 2026",
-      "description": "Brussels mandates disclosure. Washington asks for 30-day preview. Neither framework was built for AI that escapes sandboxes."
     }
   ]
 }
