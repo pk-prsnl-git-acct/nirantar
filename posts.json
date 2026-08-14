@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-14T07:54:50.772Z",
+  "updatedAt": "2026-08-14T09:31:15.295Z",
   "posts": [
+    {
+      "title": "The Measurement Problem | Issue #114",
+      "link": "https://nirantar.substack.com/p/measurement-problem-2026-08-14",
+      "pubDate": "2026-08-14T03:37:00.000Z",
+      "dateLabel": "Issue #114 · Aug 14, 2026",
+      "description": "The instruments we use to verify AI progress are all under optimization pressure simultaneously."
+    },
     {
       "title": "The Accountability Audit | Issue #113",
       "link": "https://nirantar.substack.com/p/accountability-audit-2026-08-13",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-09T03:35:07.000Z",
       "dateLabel": "Issue #109 · Aug 09, 2026",
       "description": "OpenAI pauses Astra over critical cyber thresholds. Google's AI architects leave to build recursive self-improvement. The people who know what these systems can do are acting accordingly."
-    },
-    {
-      "title": "The Weight of Scale | Issue #108",
-      "link": "https://nirantar.substack.com/p/the-weight-of-scale-2026-08-08",
-      "pubDate": "2026-08-08T03:36:16.000Z",
-      "dateLabel": "Issue #108 · Aug 08, 2026",
-      "description": "Anthropic eclipses OpenAI on revenue, AMD buys inference chips, ByteDance reaches for 10 trillion parameters, and nuclear plants get funded for AI power."
     }
   ]
 }
