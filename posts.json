@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-15T07:03:14.686Z",
+  "updatedAt": "2026-08-15T08:50:05.421Z",
   "posts": [
+    {
+      "title": "The Dual Stack | Issue #115",
+      "link": "https://nirantar.substack.com/p/the-dual-stack-2026-08-15",
+      "pubDate": "2026-08-15T03:34:22.000Z",
+      "dateLabel": "Issue #115 · Aug 15, 2026",
+      "description": "DeepSeek's price pivot, Apple's hidden Anthropic dependency, India's sovereign AI serving US clouds, Uber's 2,000 unnamed robotaxis, and what the EU's first AI fines reveal about…"
+    },
     {
       "title": "The Measurement Problem | Issue #114",
       "link": "https://nirantar.substack.com/p/measurement-problem-2026-08-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-10T03:36:05.000Z",
       "dateLabel": "Issue #110 · Aug 10, 2026",
       "description": "From EU enforcement to UK safety findings to Google's succession, this week AI was asked to account for itself."
-    },
-    {
-      "title": "Beyond The Sandbox | Issue #109",
-      "link": "https://nirantar.substack.com/p/beyond-the-sandbox-2026-08-09",
-      "pubDate": "2026-08-09T03:35:07.000Z",
-      "dateLabel": "Issue #109 · Aug 09, 2026",
-      "description": "OpenAI pauses Astra over critical cyber thresholds. Google's AI architects leave to build recursive self-improvement. The people who know what these systems can do are acting accordingly."
     }
   ]
 }
