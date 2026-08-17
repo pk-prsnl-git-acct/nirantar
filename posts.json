@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-17T07:28:23.525Z",
+  "updatedAt": "2026-08-17T09:04:33.796Z",
   "posts": [
+    {
+      "title": "The Settlement | Issue #117",
+      "link": "https://nirantar.substack.com/p/the-settlement-2026-08-17",
+      "pubDate": "2026-08-17T03:36:43.000Z",
+      "dateLabel": "Issue #117 · Aug 17, 2026",
+      "description": "AI economics are normalizing. Anthropic posts a discounted profit. DeepSeek raises prices 1,100%. Tesla's robots cost twice the asking price. The settlement has started."
+    },
     {
       "title": "The Default Layer | Issue #116",
       "link": "https://nirantar.substack.com/p/the-default-layer-2026-08-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-12T03:36:32.000Z",
       "dateLabel": "Issue #112 · Aug 12, 2026",
       "description": "Nvidia turns compute into Wall Street's newest asset class. Anthropic marks every sentence its models write. China's Unitree closes a 5,526x oversubscribed robotics IPO. The week's action…"
-    },
-    {
-      "title": "The Weight of Proof | Issue #111",
-      "link": "https://nirantar.substack.com/p/the-weight-of-proof-2026-08-11",
-      "pubDate": "2026-08-11T05:17:26.000Z",
-      "dateLabel": "Issue #111 · Aug 11, 2026",
-      "description": "OpenAI's math claims meet the mathematicians. Meanwhile, every major player is staking out a different layer of the AI stack."
     }
   ]
 }
