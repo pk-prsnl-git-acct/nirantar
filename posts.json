@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-18T07:10:26.749Z",
+  "updatedAt": "2026-08-18T08:58:56.415Z",
   "posts": [
+    {
+      "title": "The Architects | Issue #118",
+      "link": "https://nirantar.substack.com/p/the-architects-2026-08-18",
+      "pubDate": "2026-08-18T03:42:58.000Z",
+      "dateLabel": "Issue #118 · Aug 18, 2026",
+      "description": "The infrastructure layer of AI is being acquired and institutionalized at every level simultaneously. The trust survey explains what is not keeping pace."
+    },
     {
       "title": "The Settlement | Issue #117",
       "link": "https://nirantar.substack.com/p/the-settlement-2026-08-17",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-13T03:38:28.000Z",
       "dateLabel": "Issue #113 · Aug 13, 2026",
       "description": "Hidden reasoning exposed. Leadership thinning. Supply chains compromised. California votes."
-    },
-    {
-      "title": "The New Asset Class | Issue #112",
-      "link": "https://nirantar.substack.com/p/the-new-asset-class-2026-08-12",
-      "pubDate": "2026-08-12T03:36:32.000Z",
-      "dateLabel": "Issue #112 · Aug 12, 2026",
-      "description": "Nvidia turns compute into Wall Street's newest asset class. Anthropic marks every sentence its models write. China's Unitree closes a 5,526x oversubscribed robotics IPO. The week's action…"
     }
   ]
 }
