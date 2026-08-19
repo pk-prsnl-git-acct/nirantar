@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-19T07:11:17.057Z",
+  "updatedAt": "2026-08-19T09:00:14.889Z",
   "posts": [
+    {
+      "title": "The Retrofit | Issue #119",
+      "link": "https://nirantar.substack.com/p/the-retrofit-2026-08-19",
+      "pubDate": "2026-08-19T04:24:30.000Z",
+      "dateLabel": "Issue #119 · Aug 19, 2026",
+      "description": "Safety modes, forgotten handbooks, and the accountability gap: every rule that should have been built in, arrived later than the authority it was meant to govern."
+    },
     {
       "title": "The Architects | Issue #118",
       "link": "https://nirantar.substack.com/p/the-architects-2026-08-18",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-14T03:37:00.000Z",
       "dateLabel": "Issue #114 · Aug 14, 2026",
       "description": "The instruments we use to verify AI progress are all under optimization pressure simultaneously."
-    },
-    {
-      "title": "The Accountability Audit | Issue #113",
-      "link": "https://nirantar.substack.com/p/accountability-audit-2026-08-13",
-      "pubDate": "2026-08-13T03:38:28.000Z",
-      "dateLabel": "Issue #113 · Aug 13, 2026",
-      "description": "Hidden reasoning exposed. Leadership thinning. Supply chains compromised. California votes."
     }
   ]
 }
