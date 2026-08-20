@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-20T07:12:46.321Z",
+  "updatedAt": "2026-08-20T09:01:23.052Z",
   "posts": [
+    {
+      "title": "The Access Premium | Issue #120",
+      "link": "https://nirantar.substack.com/p/the-access-premium-2026-08-20",
+      "pubDate": "2026-08-20T03:34:39.000Z",
+      "dateLabel": "Issue #120 · Aug 20, 2026",
+      "description": "What Anthropic's $65B run rate, the UK's dependency audit, and a Chinese robot ban share: access to the frontier is now a geopolitical asset."
+    },
     {
       "title": "The Retrofit | Issue #119",
       "link": "https://nirantar.substack.com/p/the-retrofit-2026-08-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-15T03:34:22.000Z",
       "dateLabel": "Issue #115 · Aug 15, 2026",
       "description": "DeepSeek's price pivot, Apple's hidden Anthropic dependency, India's sovereign AI serving US clouds, Uber's 2,000 unnamed robotaxis, and what the EU's first AI fines reveal about…"
-    },
-    {
-      "title": "The Measurement Problem | Issue #114",
-      "link": "https://nirantar.substack.com/p/measurement-problem-2026-08-14",
-      "pubDate": "2026-08-14T03:37:00.000Z",
-      "dateLabel": "Issue #114 · Aug 14, 2026",
-      "description": "The instruments we use to verify AI progress are all under optimization pressure simultaneously."
     }
   ]
 }
