@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-21T07:13:24.990Z",
+  "updatedAt": "2026-08-21T09:03:44.875Z",
   "posts": [
+    {
+      "title": "The Control Layer | Issue #121",
+      "link": "https://nirantar.substack.com/p/the-control-layer-2026-08-21",
+      "pubDate": "2026-08-21T03:36:28.000Z",
+      "dateLabel": "Issue #121 · Aug 21, 2026",
+      "description": "Google buys a chip supply chain. Pennsylvania makes data center power rules binding. OpenAI prepares to take governance-locked equity public. The ownership race is the story."
+    },
     {
       "title": "The Access Premium | Issue #120",
       "link": "https://nirantar.substack.com/p/the-access-premium-2026-08-20",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-16T03:37:55.000Z",
       "dateLabel": "Issue #116 · Aug 16, 2026",
       "description": "Qwen's 3B downloads eclipse Meta and Google. OpenAI releases a hacking model. The Pentagon directs $244M to Palantir with no justification. Google encrypts the inference layer."
-    },
-    {
-      "title": "The Dual Stack | Issue #115",
-      "link": "https://nirantar.substack.com/p/the-dual-stack-2026-08-15",
-      "pubDate": "2026-08-15T03:34:22.000Z",
-      "dateLabel": "Issue #115 · Aug 15, 2026",
-      "description": "DeepSeek's price pivot, Apple's hidden Anthropic dependency, India's sovereign AI serving US clouds, Uber's 2,000 unnamed robotaxis, and what the EU's first AI fines reveal about…"
     }
   ]
 }
