@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-22T07:05:22.307Z",
+  "updatedAt": "2026-08-22T08:52:43.174Z",
   "posts": [
+    {
+      "title": "The Permission Slip | Issue #122",
+      "link": "https://nirantar.substack.com/p/the-permission-slip-2026-08-22",
+      "pubDate": "2026-08-22T03:37:17.000Z",
+      "dateLabel": "Issue #122 · Aug 22, 2026",
+      "description": "Permission granted, accountability deferred: autonomous AI is operating in transportation, finance, and cyberspace before the rules exist."
+    },
     {
       "title": "The Control Layer | Issue #121",
       "link": "https://nirantar.substack.com/p/the-control-layer-2026-08-21",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-17T03:36:43.000Z",
       "dateLabel": "Issue #117 · Aug 17, 2026",
       "description": "AI economics are normalizing. Anthropic posts a discounted profit. DeepSeek raises prices 1,100%. Tesla's robots cost twice the asking price. The settlement has started."
-    },
-    {
-      "title": "The Default Layer | Issue #116",
-      "link": "https://nirantar.substack.com/p/the-default-layer-2026-08-16",
-      "pubDate": "2026-08-16T03:37:55.000Z",
-      "dateLabel": "Issue #116 · Aug 16, 2026",
-      "description": "Qwen's 3B downloads eclipse Meta and Google. OpenAI releases a hacking model. The Pentagon directs $244M to Palantir with no justification. Google encrypts the inference layer."
     }
   ]
 }
