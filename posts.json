@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-23T07:07:20.010Z",
+  "updatedAt": "2026-08-23T08:53:35.549Z",
   "posts": [
+    {
+      "title": "The Execution Layer | Issue #123",
+      "link": "https://nirantar.substack.com/p/the-execution-layer-2026-08-23",
+      "pubDate": "2026-08-23T03:38:13.000Z",
+      "dateLabel": "Issue #123 · Aug 23, 2026",
+      "description": "Protocol wars are settled. The runtime race has begun."
+    },
     {
       "title": "The Permission Slip | Issue #122",
       "link": "https://nirantar.substack.com/p/the-permission-slip-2026-08-22",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-18T03:42:58.000Z",
       "dateLabel": "Issue #118 · Aug 18, 2026",
       "description": "The infrastructure layer of AI is being acquired and institutionalized at every level simultaneously. The trust survey explains what is not keeping pace."
-    },
-    {
-      "title": "The Settlement | Issue #117",
-      "link": "https://nirantar.substack.com/p/the-settlement-2026-08-17",
-      "pubDate": "2026-08-17T03:36:43.000Z",
-      "dateLabel": "Issue #117 · Aug 17, 2026",
-      "description": "AI economics are normalizing. Anthropic posts a discounted profit. DeepSeek raises prices 1,100%. Tesla's robots cost twice the asking price. The settlement has started."
     }
   ]
 }
