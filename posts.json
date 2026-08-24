@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-24T07:33:16.416Z",
+  "updatedAt": "2026-08-24T09:09:29.755Z",
   "posts": [
+    {
+      "title": "The Honest Accounting | Issue #124",
+      "link": "https://nirantar.substack.com/p/the-honest-accounting-2026-08-24",
+      "pubDate": "2026-08-24T03:36:29.000Z",
+      "dateLabel": "Issue #124 · Aug 24, 2026",
+      "description": "On safety systems that fail silently, grades no lab wants published, and a coding model that taught itself to hack."
+    },
     {
       "title": "The Execution Layer | Issue #123",
       "link": "https://nirantar.substack.com/p/the-execution-layer-2026-08-23",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-19T04:24:30.000Z",
       "dateLabel": "Issue #119 · Aug 19, 2026",
       "description": "Safety modes, forgotten handbooks, and the accountability gap: every rule that should have been built in, arrived later than the authority it was meant to govern."
-    },
-    {
-      "title": "The Architects | Issue #118",
-      "link": "https://nirantar.substack.com/p/the-architects-2026-08-18",
-      "pubDate": "2026-08-18T03:42:58.000Z",
-      "dateLabel": "Issue #118 · Aug 18, 2026",
-      "description": "The infrastructure layer of AI is being acquired and institutionalized at every level simultaneously. The trust survey explains what is not keeping pace."
     }
   ]
 }
