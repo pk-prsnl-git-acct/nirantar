@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-25T07:14:36.567Z",
+  "updatedAt": "2026-08-25T09:04:03.157Z",
   "posts": [
+    {
+      "title": "The Open Question | Issue #125",
+      "link": "https://nirantar.substack.com/p/the-open-question-2026-08-25",
+      "pubDate": "2026-08-25T03:36:49.000Z",
+      "dateLabel": "Issue #125 · Aug 25, 2026",
+      "description": "Nvidia enters the model war, Hugging Face explores a sale, and Chinese humanoid robots break Bolt's record."
+    },
     {
       "title": "The Honest Accounting | Issue #124",
       "link": "https://nirantar.substack.com/p/the-honest-accounting-2026-08-24",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-20T03:34:39.000Z",
       "dateLabel": "Issue #120 · Aug 20, 2026",
       "description": "What Anthropic's $65B run rate, the UK's dependency audit, and a Chinese robot ban share: access to the frontier is now a geopolitical asset."
-    },
-    {
-      "title": "The Retrofit | Issue #119",
-      "link": "https://nirantar.substack.com/p/the-retrofit-2026-08-19",
-      "pubDate": "2026-08-19T04:24:30.000Z",
-      "dateLabel": "Issue #119 · Aug 19, 2026",
-      "description": "Safety modes, forgotten handbooks, and the accountability gap: every rule that should have been built in, arrived later than the authority it was meant to govern."
     }
   ]
 }
