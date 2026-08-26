@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-26T07:14:36.532Z",
+  "updatedAt": "2026-08-26T09:07:04.151Z",
   "posts": [
+    {
+      "title": "The Oversight Gap | Issue #126",
+      "link": "https://nirantar.substack.com/p/the-oversight-gap-2026-08-26",
+      "pubDate": "2026-08-26T03:35:37.000Z",
+      "dateLabel": "Issue #126 · Aug 26, 2026",
+      "description": "Anthropic expands its most restricted model, EU fines €47M for missing oversight paperwork, and 80% of developers report AI dependency over advantage."
+    },
     {
       "title": "The Open Question | Issue #125",
       "link": "https://nirantar.substack.com/p/the-open-question-2026-08-25",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-21T03:36:28.000Z",
       "dateLabel": "Issue #121 · Aug 21, 2026",
       "description": "Google buys a chip supply chain. Pennsylvania makes data center power rules binding. OpenAI prepares to take governance-locked equity public. The ownership race is the story."
-    },
-    {
-      "title": "The Access Premium | Issue #120",
-      "link": "https://nirantar.substack.com/p/the-access-premium-2026-08-20",
-      "pubDate": "2026-08-20T03:34:39.000Z",
-      "dateLabel": "Issue #120 · Aug 20, 2026",
-      "description": "What Anthropic's $65B run rate, the UK's dependency audit, and a Chinese robot ban share: access to the frontier is now a geopolitical asset."
     }
   ]
 }
