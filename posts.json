@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-26T18:09:13.167Z",
+  "updatedAt": "2026-08-27T10:01:39.600Z",
   "posts": [
+    {
+      "title": "The Receipt | Issue #127",
+      "link": "https://nirantar.substack.com/p/the-receipt-2026-08-27",
+      "pubDate": "2026-08-27T03:33:35.000Z",
+      "dateLabel": "Issue #127 · Aug 27, 2026",
+      "description": "OpenAI builds chips, Thomson Reuters trains models, Amazon closes Mechanical Turk. The AI stack is being claimed, layer by layer."
+    },
     {
       "title": "The Oversight Gap | Issue #126",
       "link": "https://nirantar.substack.com/p/the-oversight-gap-2026-08-26",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-22T03:37:17.000Z",
       "dateLabel": "Issue #122 · Aug 22, 2026",
       "description": "Permission granted, accountability deferred: autonomous AI is operating in transportation, finance, and cyberspace before the rules exist."
-    },
-    {
-      "title": "The Control Layer | Issue #121",
-      "link": "https://nirantar.substack.com/p/the-control-layer-2026-08-21",
-      "pubDate": "2026-08-21T03:36:28.000Z",
-      "dateLabel": "Issue #121 · Aug 21, 2026",
-      "description": "Google buys a chip supply chain. Pennsylvania makes data center power rules binding. OpenAI prepares to take governance-locked equity public. The ownership race is the story."
     }
   ]
 }
