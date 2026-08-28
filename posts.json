@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-27T20:36:35.875Z",
+  "updatedAt": "2026-08-28T11:33:05.047Z",
   "posts": [
+    {
+      "title": "The Commons Premium | Issue #128",
+      "link": "https://nirantar.substack.com/p/the-commons-premium-2026-08-28",
+      "pubDate": "2026-08-28T04:36:57.000Z",
+      "dateLabel": "Issue #128 · Aug 28, 2026",
+      "description": "Nvidia's $12.9B open-source bet, $150B in Anthropic compute contracts, 116 companies warn about AI attacks, and robot brains at their GPT-2 moment."
+    },
     {
       "title": "The Receipt | Issue #127",
       "link": "https://nirantar.substack.com/p/the-receipt-2026-08-27",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-23T03:38:13.000Z",
       "dateLabel": "Issue #123 · Aug 23, 2026",
       "description": "Protocol wars are settled. The runtime race has begun."
-    },
-    {
-      "title": "The Permission Slip | Issue #122",
-      "link": "https://nirantar.substack.com/p/the-permission-slip-2026-08-22",
-      "pubDate": "2026-08-22T03:37:17.000Z",
-      "dateLabel": "Issue #122 · Aug 22, 2026",
-      "description": "Permission granted, accountability deferred: autonomous AI is operating in transportation, finance, and cyberspace before the rules exist."
     }
   ]
 }
