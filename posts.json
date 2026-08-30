@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-29T17:45:14.992Z",
+  "updatedAt": "2026-08-30T05:33:29.024Z",
   "posts": [
+    {
+      "title": "The Material Bet | Issue #130",
+      "link": "https://nirantar.substack.com/p/the-material-bet-2026-08-30",
+      "pubDate": "2026-08-30T03:33:48.000Z",
+      "dateLabel": "Issue #130 · Aug 30, 2026",
+      "description": "On hardware as the new moat, contaminated training data, and what 34% of Americans are quietly consulting for healthcare"
+    },
     {
       "title": "The Safety Dividend | Issue #129",
       "link": "https://nirantar.substack.com/p/the-safety-dividend-2026-08-29",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-25T03:36:49.000Z",
       "dateLabel": "Issue #125 · Aug 25, 2026",
       "description": "Nvidia enters the model war, Hugging Face explores a sale, and Chinese humanoid robots break Bolt's record."
-    },
-    {
-      "title": "The Honest Accounting | Issue #124",
-      "link": "https://nirantar.substack.com/p/the-honest-accounting-2026-08-24",
-      "pubDate": "2026-08-24T03:36:29.000Z",
-      "dateLabel": "Issue #124 · Aug 24, 2026",
-      "description": "On safety systems that fail silently, grades no lab wants published, and a coding model that taught itself to hack."
     }
   ]
 }
