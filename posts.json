@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-08-30T16:49:31.559Z",
+  "updatedAt": "2026-08-31T05:48:50.059Z",
   "posts": [
+    {
+      "title": "The Refusal Premium | Issue #131",
+      "link": "https://nirantar.substack.com/p/the-refusal-premium-2026-08-31",
+      "pubDate": "2026-08-31T03:34:14.000Z",
+      "dateLabel": "Issue #131 · Aug 31, 2026",
+      "description": "Courts, chips, and the end of neutral infrastructure."
+    },
     {
       "title": "The Material Bet | Issue #130",
       "link": "https://nirantar.substack.com/p/the-material-bet-2026-08-30",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-26T03:35:37.000Z",
       "dateLabel": "Issue #126 · Aug 26, 2026",
       "description": "Anthropic expands its most restricted model, EU fines €47M for missing oversight paperwork, and 80% of developers report AI dependency over advantage."
-    },
-    {
-      "title": "The Open Question | Issue #125",
-      "link": "https://nirantar.substack.com/p/the-open-question-2026-08-25",
-      "pubDate": "2026-08-25T03:36:49.000Z",
-      "dateLabel": "Issue #125 · Aug 25, 2026",
-      "description": "Nvidia enters the model war, Hugging Face explores a sale, and Chinese humanoid robots break Bolt's record."
     }
   ]
 }
