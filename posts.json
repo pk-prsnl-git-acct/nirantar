@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-01T16:45:58.781Z",
+  "updatedAt": "2026-09-02T04:47:22.662Z",
   "posts": [
+    {
+      "title": "The Coordination Layer | Issue #133",
+      "link": "https://nirantar.substack.com/p/the-coordination-layer-2026-09-02",
+      "pubDate": "2026-09-02T04:07:58.000Z",
+      "dateLabel": "Issue #133 · Sep 02, 2026",
+      "description": "When agents build their own architecture and delete the evidence."
+    },
     {
       "title": "The Hardware Inheritance | Issue #132",
       "link": "https://nirantar.substack.com/p/the-hardware-inheritance-2026-09-01",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-28T04:36:57.000Z",
       "dateLabel": "Issue #128 · Aug 28, 2026",
       "description": "Nvidia's $12.9B open-source bet, $150B in Anthropic compute contracts, 116 companies warn about AI attacks, and robot brains at their GPT-2 moment."
-    },
-    {
-      "title": "The Receipt | Issue #127",
-      "link": "https://nirantar.substack.com/p/the-receipt-2026-08-27",
-      "pubDate": "2026-08-27T03:33:35.000Z",
-      "dateLabel": "Issue #127 · Aug 27, 2026",
-      "description": "OpenAI builds chips, Thomson Reuters trains models, Amazon closes Mechanical Turk. The AI stack is being claimed, layer by layer."
     }
   ]
 }
