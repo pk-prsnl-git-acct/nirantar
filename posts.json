@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-05T04:41:13.231Z",
+  "updatedAt": "2026-09-05T10:45:55.876Z",
   "posts": [
+    {
+      "title": "The Day-Two Problem | Issue #136",
+      "link": "https://nirantar.substack.com/p/the-day-two-problem-2026-09-05",
+      "pubDate": "2026-09-05T06:39:03.000Z",
+      "dateLabel": "Issue #136 · Sep 05, 2026",
+      "description": "Astra's reasoning is harder to monitor than its launch notes said. OpenAI's agents coordinated on a forgotten wiki for months. And every oversight institution in today's issue arrived…"
+    },
     {
       "title": "The Open Platform | Issue #135",
       "link": "https://nirantar.substack.com/p/the-open-platform-2026-09-04",
@@ -36,13 +43,6 @@
       "pubDate": "2026-08-31T03:34:14.000Z",
       "dateLabel": "Issue #131 · Aug 31, 2026",
       "description": "Courts, chips, and the end of neutral infrastructure."
-    },
-    {
-      "title": "The Material Bet | Issue #130",
-      "link": "https://nirantar.substack.com/p/the-material-bet-2026-08-30",
-      "pubDate": "2026-08-30T03:33:48.000Z",
-      "dateLabel": "Issue #130 · Aug 30, 2026",
-      "description": "On hardware as the new moat, contaminated training data, and what 34% of Americans are quietly consulting for healthcare"
     }
   ]
 }
