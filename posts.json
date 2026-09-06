@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-06T04:50:44.007Z",
+  "updatedAt": "2026-09-06T11:07:45.995Z",
   "posts": [
+    {
+      "title": "The Verification Layer | Issue #137",
+      "link": "https://nirantar.substack.com/p/the-verification-layer-2026-09-06",
+      "pubDate": "2026-09-06T06:15:43.000Z",
+      "dateLabel": "Issue #137 · Sep 06, 2026",
+      "description": "Claude proved Fermat. Token prices fell below a dollar. Gimlet raised $300M above the chip layer. These are the same story."
+    },
     {
       "title": "The Day-Two Problem | Issue #136",
       "link": "https://nirantar.substack.com/p/the-day-two-problem-2026-09-05",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-01T03:35:46.000Z",
       "dateLabel": "Issue #132 · Sep 01, 2026",
       "description": "Apple's new CEO inherits Siri on Google's foundation; Anthropic hands AI the keys to the physical world"
-    },
-    {
-      "title": "The Refusal Premium | Issue #131",
-      "link": "https://nirantar.substack.com/p/the-refusal-premium-2026-08-31",
-      "pubDate": "2026-08-31T03:34:14.000Z",
-      "dateLabel": "Issue #131 · Aug 31, 2026",
-      "description": "Courts, chips, and the end of neutral infrastructure."
     }
   ]
 }
