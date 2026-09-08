@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-08T04:53:08.298Z",
+  "updatedAt": "2026-09-08T11:30:11.630Z",
   "posts": [
+    {
+      "title": "The Open Position | Issue #139",
+      "link": "https://nirantar.substack.com/p/the-open-position-2026-09-08",
+      "pubDate": "2026-09-08T05:04:51.000Z",
+      "dateLabel": "Issue #139 · Sep 08, 2026",
+      "description": "Anthropic's $6B deal collapse, the Massachusetts safety lobby, and the EU deadline that turns AI risk into legal evidence"
+    },
     {
       "title": "The Anchor Tenant | Issue #138",
       "link": "https://nirantar.substack.com/p/the-anchor-tenant-2026-09-07",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-03T03:57:37.000Z",
       "dateLabel": "Issue #134 · Sep 03, 2026",
       "description": "The DOJ picked a side in AI copyright. Publishers are suing Anthropic for the same practice. And 17,800 malicious AI agent add-ons are already in production."
-    },
-    {
-      "title": "The Coordination Layer | Issue #133",
-      "link": "https://nirantar.substack.com/p/the-coordination-layer-2026-09-02",
-      "pubDate": "2026-09-02T04:07:58.000Z",
-      "dateLabel": "Issue #133 · Sep 02, 2026",
-      "description": "When agents build their own architecture and delete the evidence."
     }
   ]
 }
