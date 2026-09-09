@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-09T04:54:30.749Z",
+  "updatedAt": "2026-09-09T11:35:34.473Z",
   "posts": [
+    {
+      "title": "The Eighty-Eight Hours | Issue #140",
+      "link": "https://nirantar.substack.com/p/the-eighty-eight-hours-2026-09-09",
+      "pubDate": "2026-09-09T05:08:06.000Z",
+      "dateLabel": "Issue #140 · Sep 09, 2026",
+      "description": "OpenAI's $15M math sprint, Mistral's sovereignty paradox, Apple's $2,199 bet, and the robot that still needs a human"
+    },
     {
       "title": "The Open Position | Issue #139",
       "link": "https://nirantar.substack.com/p/the-open-position-2026-09-08",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-04T13:17:47.000Z",
       "dateLabel": "Issue #135 · Sep 04, 2026",
       "description": "Nvidia's $12.9B acquisition of Hugging Face, GPT-6 Astra's computer-use milestone, and the accountability gap growing beneath it all."
-    },
-    {
-      "title": "The Liability Layer | Issue #134",
-      "link": "https://nirantar.substack.com/p/the-liability-layer-2026-09-03",
-      "pubDate": "2026-09-03T03:57:37.000Z",
-      "dateLabel": "Issue #134 · Sep 03, 2026",
-      "description": "The DOJ picked a side in AI copyright. Publishers are suing Anthropic for the same practice. And 17,800 malicious AI agent add-ons are already in production."
     }
   ]
 }
