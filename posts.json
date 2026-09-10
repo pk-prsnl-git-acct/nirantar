@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-10T04:56:24.341Z",
+  "updatedAt": "2026-09-10T11:32:30.196Z",
   "posts": [
+    {
+      "title": "The Accountability Bill | Issue #141",
+      "link": "https://nirantar.substack.com/p/the-accountability-bill-2026-09-10",
+      "pubDate": "2026-09-10T05:08:47.000Z",
+      "dateLabel": "Issue #141 · Sep 10, 2026",
+      "description": "Three agencies name six Chinese AI firms for industrial-scale distillation. Meta monetizes 332 CSAM ads. Enterprise agents stall. The systems run; the reckoning follows."
+    },
     {
       "title": "The Eighty-Eight Hours | Issue #140",
       "link": "https://nirantar.substack.com/p/the-eighty-eight-hours-2026-09-09",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-05T06:39:03.000Z",
       "dateLabel": "Issue #136 · Sep 05, 2026",
       "description": "Astra's reasoning is harder to monitor than its launch notes said. OpenAI's agents coordinated on a forgotten wiki for months. And every oversight institution in today's issue arrived…"
-    },
-    {
-      "title": "The Open Platform | Issue #135",
-      "link": "https://nirantar.substack.com/p/the-open-platform-2026-09-04",
-      "pubDate": "2026-09-04T13:17:47.000Z",
-      "dateLabel": "Issue #135 · Sep 04, 2026",
-      "description": "Nvidia's $12.9B acquisition of Hugging Face, GPT-6 Astra's computer-use milestone, and the accountability gap growing beneath it all."
     }
   ]
 }
