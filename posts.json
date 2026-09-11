@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-11T04:53:22.685Z",
+  "updatedAt": "2026-09-11T11:33:54.471Z",
   "posts": [
+    {
+      "title": "The Known Agent | Issue #142",
+      "link": "https://nirantar.substack.com/p/the-known-agent-2026-09-11",
+      "pubDate": "2026-09-11T05:07:34.000Z",
+      "dateLabel": "Issue #142 · Sep 11, 2026",
+      "description": "How AI agents got a financial identity, a managed runtime, and a 38-gigawatt home in the same 24-hour window"
+    },
     {
       "title": "The Accountability Bill | Issue #141",
       "link": "https://nirantar.substack.com/p/the-accountability-bill-2026-09-10",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-06T06:15:43.000Z",
       "dateLabel": "Issue #137 · Sep 06, 2026",
       "description": "Claude proved Fermat. Token prices fell below a dollar. Gimlet raised $300M above the chip layer. These are the same story."
-    },
-    {
-      "title": "The Day-Two Problem | Issue #136",
-      "link": "https://nirantar.substack.com/p/the-day-two-problem-2026-09-05",
-      "pubDate": "2026-09-05T06:39:03.000Z",
-      "dateLabel": "Issue #136 · Sep 05, 2026",
-      "description": "Astra's reasoning is harder to monitor than its launch notes said. OpenAI's agents coordinated on a forgotten wiki for months. And every oversight institution in today's issue arrived…"
     }
   ]
 }
