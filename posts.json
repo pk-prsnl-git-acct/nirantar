@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-12T04:45:43.117Z",
+  "updatedAt": "2026-09-12T10:58:35.276Z",
   "posts": [
+    {
+      "title": "The Extraction Method | Issue #143",
+      "link": "https://nirantar.substack.com/p/the-extraction-method-2026-09-12",
+      "pubDate": "2026-09-12T05:52:23.000Z",
+      "dateLabel": "Issue #143 · Sep 12, 2026",
+      "description": "Anthropic names six Chinese AI labs for industrial-scale distillation, Oracle reports a $664bn cloud backlog, and the Pentagon formalizes AI infrastructure as a national security asset."
+    },
     {
       "title": "The Known Agent | Issue #142",
       "link": "https://nirantar.substack.com/p/the-known-agent-2026-09-11",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-07T05:05:06.000Z",
       "dateLabel": "Issue #138 · Sep 07, 2026",
       "description": "Anthropic, Nscale, and the capital loop that powers both."
-    },
-    {
-      "title": "The Verification Layer | Issue #137",
-      "link": "https://nirantar.substack.com/p/the-verification-layer-2026-09-06",
-      "pubDate": "2026-09-06T06:15:43.000Z",
-      "dateLabel": "Issue #137 · Sep 06, 2026",
-      "description": "Claude proved Fermat. Token prices fell below a dollar. Gimlet raised $300M above the chip layer. These are the same story."
     }
   ]
 }
