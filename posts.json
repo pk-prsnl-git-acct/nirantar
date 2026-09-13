@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-12T18:30:36.037Z",
+  "updatedAt": "2026-09-13T05:00:53.436Z",
   "posts": [
+    {
+      "title": "The Pacing Problem | Issue #144",
+      "link": "https://nirantar.substack.com/p/the-pacing-problem-2026-09-13",
+      "pubDate": "2026-09-13T05:00:08.000Z",
+      "dateLabel": "Issue #144 · Sep 13, 2026",
+      "description": "Three CEOs call for a pause. AI agents breach 395 organizations in 26 seconds. The tools are already in the field."
+    },
     {
       "title": "The Extraction Method | Issue #143",
       "link": "https://nirantar.substack.com/p/the-extraction-method-2026-09-12",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-08T05:04:51.000Z",
       "dateLabel": "Issue #139 · Sep 08, 2026",
       "description": "Anthropic's $6B deal collapse, the Massachusetts safety lobby, and the EU deadline that turns AI risk into legal evidence"
-    },
-    {
-      "title": "The Anchor Tenant | Issue #138",
-      "link": "https://nirantar.substack.com/p/the-anchor-tenant-2026-09-07",
-      "pubDate": "2026-09-07T05:05:06.000Z",
-      "dateLabel": "Issue #138 · Sep 07, 2026",
-      "description": "Anthropic, Nscale, and the capital loop that powers both."
     }
   ]
 }
