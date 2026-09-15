@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-14T19:29:31.957Z",
+  "updatedAt": "2026-09-15T05:03:43.464Z",
   "posts": [
+    {
+      "title": "The Toll Gates | Issue #146",
+      "link": "https://nirantar.substack.com/p/the-toll-gates-2026-09-15",
+      "pubDate": "2026-09-15T03:39:10.000Z",
+      "dateLabel": "Issue #146 · Sep 15, 2026",
+      "description": "Cloudflare's crawler wall, NVIDIA's agent CPU, and GitHub's pipeline agents arrive on the same morning. The model wars are settled. The access layer is what's being built."
+    },
     {
       "title": "The Deliberate Sprint | Issue #145",
       "link": "https://nirantar.substack.com/p/the-deliberate-sprint-2026-09-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-10T05:08:47.000Z",
       "dateLabel": "Issue #141 · Sep 10, 2026",
       "description": "Three agencies name six Chinese AI firms for industrial-scale distillation. Meta monetizes 332 CSAM ads. Enterprise agents stall. The systems run; the reckoning follows."
-    },
-    {
-      "title": "The Eighty-Eight Hours | Issue #140",
-      "link": "https://nirantar.substack.com/p/the-eighty-eight-hours-2026-09-09",
-      "pubDate": "2026-09-09T05:08:06.000Z",
-      "dateLabel": "Issue #140 · Sep 09, 2026",
-      "description": "OpenAI's $15M math sprint, Mistral's sovereignty paradox, Apple's $2,199 bet, and the robot that still needs a human"
     }
   ]
 }
