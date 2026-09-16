@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-15T17:09:04.311Z",
+  "updatedAt": "2026-09-16T04:59:23.981Z",
   "posts": [
+    {
+      "title": "The Refused Gate | Issue #147",
+      "link": "https://nirantar.substack.com/p/the-refused-gate-2026-09-16",
+      "pubDate": "2026-09-16T03:42:32.000Z",
+      "dateLabel": "Issue #147 · Sep 16, 2026",
+      "description": "The labs asked for a gate. The government called it a hoax. AI is already inside the pipes."
+    },
     {
       "title": "The Toll Gates | Issue #146",
       "link": "https://nirantar.substack.com/p/the-toll-gates-2026-09-15",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-11T05:07:34.000Z",
       "dateLabel": "Issue #142 · Sep 11, 2026",
       "description": "How AI agents got a financial identity, a managed runtime, and a 38-gigawatt home in the same 24-hour window"
-    },
-    {
-      "title": "The Accountability Bill | Issue #141",
-      "link": "https://nirantar.substack.com/p/the-accountability-bill-2026-09-10",
-      "pubDate": "2026-09-10T05:08:47.000Z",
-      "dateLabel": "Issue #141 · Sep 10, 2026",
-      "description": "Three agencies name six Chinese AI firms for industrial-scale distillation. Meta monetizes 332 CSAM ads. Enterprise agents stall. The systems run; the reckoning follows."
     }
   ]
 }
