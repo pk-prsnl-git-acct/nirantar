@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-17T17:09:15.704Z",
+  "updatedAt": "2026-09-18T04:54:44.713Z",
   "posts": [
+    {
+      "title": "The Agency Vote | Issue #149",
+      "link": "https://nirantar.substack.com/p/the-agency-vote-2026-09-18",
+      "pubDate": "2026-09-17T18:56:29.000Z",
+      "dateLabel": "Issue #149 · Sep 17, 2026",
+      "description": "OpenAI recaptures enterprise. Bengio bets $300M on restraint. Congress stalls on who decides."
+    },
     {
       "title": "The Refused Gate | Issue #147",
       "link": "https://nirantar.substack.com/p/the-refused-gate-2026-09-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-12T05:52:23.000Z",
       "dateLabel": "Issue #143 · Sep 12, 2026",
       "description": "Anthropic names six Chinese AI labs for industrial-scale distillation, Oracle reports a $664bn cloud backlog, and the Pentagon formalizes AI infrastructure as a national security asset."
-    },
-    {
-      "title": "The Known Agent | Issue #142",
-      "link": "https://nirantar.substack.com/p/the-known-agent-2026-09-11",
-      "pubDate": "2026-09-11T05:07:34.000Z",
-      "dateLabel": "Issue #142 · Sep 11, 2026",
-      "description": "How AI agents got a financial identity, a managed runtime, and a 38-gigawatt home in the same 24-hour window"
     }
   ]
 }
