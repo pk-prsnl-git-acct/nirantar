@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-19T04:46:19.616Z",
+  "updatedAt": "2026-09-19T11:13:35.468Z",
   "posts": [
+    {
+      "title": "The Dependency Audit | Issue #150",
+      "link": "https://nirantar.substack.com/p/the-dependency-audit-2026-09-19",
+      "pubDate": "2026-09-19T05:02:04.000Z",
+      "dateLabel": "Issue #150 · Sep 19, 2026",
+      "description": "Z.ai runs 62T tokens on 100K Chinese chips. Three labs design their own governance. Claude writes a quarter of the next Claude."
+    },
     {
       "title": "The Agency Vote | Issue #149",
       "link": "https://nirantar.substack.com/p/the-agency-vote-2026-09-18",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-13T05:00:08.000Z",
       "dateLabel": "Issue #144 · Sep 13, 2026",
       "description": "Three CEOs call for a pause. AI agents breach 395 organizations in 26 seconds. The tools are already in the field."
-    },
-    {
-      "title": "The Extraction Method | Issue #143",
-      "link": "https://nirantar.substack.com/p/the-extraction-method-2026-09-12",
-      "pubDate": "2026-09-12T05:52:23.000Z",
-      "dateLabel": "Issue #143 · Sep 12, 2026",
-      "description": "Anthropic names six Chinese AI labs for industrial-scale distillation, Oracle reports a $664bn cloud backlog, and the Pentagon formalizes AI infrastructure as a national security asset."
     }
   ]
 }
