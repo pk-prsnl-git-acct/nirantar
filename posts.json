@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-19T18:39:33.698Z",
+  "updatedAt": "2026-09-20T11:37:38.526Z",
   "posts": [
+    {
+      "title": "The Two-Month Clock | Issue #151",
+      "link": "https://nirantar.substack.com/p/the-two-month-clock-2026-09-20",
+      "pubDate": "2026-09-20T03:38:15.000Z",
+      "dateLabel": "Issue #151 · Sep 20, 2026",
+      "description": "California's kill-switch order, Anthropic's $175B compute bet, Figure AI's robot brain race, and why everyone is writing commitments against a future nobody has verified."
+    },
     {
       "title": "The Dependency Audit | Issue #150",
       "link": "https://nirantar.substack.com/p/the-dependency-audit-2026-09-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-14T03:33:38.000Z",
       "dateLabel": "Issue #145 · Sep 14, 2026",
       "description": "The pacing consensus forms. The $11.5 billion quarter arrives. These are the same story."
-    },
-    {
-      "title": "The Pacing Problem | Issue #144",
-      "link": "https://nirantar.substack.com/p/the-pacing-problem-2026-09-13",
-      "pubDate": "2026-09-13T05:00:08.000Z",
-      "dateLabel": "Issue #144 · Sep 13, 2026",
-      "description": "Three CEOs call for a pause. AI agents breach 395 organizations in 26 seconds. The tools are already in the field."
     }
   ]
 }
