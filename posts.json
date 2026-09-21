@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-20T18:55:10.280Z",
+  "updatedAt": "2026-09-21T05:09:04.821Z",
   "posts": [
+    {
+      "title": "The Drawn Lines | Issue #152",
+      "link": "https://nirantar.substack.com/p/drawn-lines-2026-09-21",
+      "pubDate": "2026-09-21T04:36:09.000Z",
+      "dateLabel": "Issue #152 · Sep 21, 2026",
+      "description": "Western governance frameworks are being redrawn by the actors they were designed to constrain."
+    },
     {
       "title": "The Two-Month Clock | Issue #151",
       "link": "https://nirantar.substack.com/p/the-two-month-clock-2026-09-20",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-15T03:39:10.000Z",
       "dateLabel": "Issue #146 · Sep 15, 2026",
       "description": "Cloudflare's crawler wall, NVIDIA's agent CPU, and GitHub's pipeline agents arrive on the same morning. The model wars are settled. The access layer is what's being built."
-    },
-    {
-      "title": "The Deliberate Sprint | Issue #145",
-      "link": "https://nirantar.substack.com/p/the-deliberate-sprint-2026-09-14",
-      "pubDate": "2026-09-14T03:33:38.000Z",
-      "dateLabel": "Issue #145 · Sep 14, 2026",
-      "description": "The pacing consensus forms. The $11.5 billion quarter arrives. These are the same story."
     }
   ]
 }
