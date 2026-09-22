@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-21T19:36:01.425Z",
+  "updatedAt": "2026-09-22T05:10:11.497Z",
   "posts": [
+    {
+      "title": "The Exit Door | Issue #153",
+      "link": "https://nirantar.substack.com/p/the-exit-door-2026-09-22",
+      "pubDate": "2026-09-22T03:36:28.000Z",
+      "dateLabel": "Issue #153 · Sep 22, 2026",
+      "description": "Enterprise AI's pricing model built the escape route. Customers are using it."
+    },
     {
       "title": "The Drawn Lines | Issue #152",
       "link": "https://nirantar.substack.com/p/drawn-lines-2026-09-21",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-16T03:42:32.000Z",
       "dateLabel": "Issue #147 · Sep 16, 2026",
       "description": "The labs asked for a gate. The government called it a hoax. AI is already inside the pipes."
-    },
-    {
-      "title": "The Toll Gates | Issue #146",
-      "link": "https://nirantar.substack.com/p/the-toll-gates-2026-09-15",
-      "pubDate": "2026-09-15T03:39:10.000Z",
-      "dateLabel": "Issue #146 · Sep 15, 2026",
-      "description": "Cloudflare's crawler wall, NVIDIA's agent CPU, and GitHub's pipeline agents arrive on the same morning. The model wars are settled. The access layer is what's being built."
     }
   ]
 }
