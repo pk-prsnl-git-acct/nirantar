@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-22T17:04:44.539Z",
+  "updatedAt": "2026-09-23T04:54:46.804Z",
   "posts": [
+    {
+      "title": "The Permission Layer | Issue #154",
+      "link": "https://nirantar.substack.com/p/the-permission-layer-2026-09-23",
+      "pubDate": "2026-09-23T03:26:08.000Z",
+      "dateLabel": "Issue #154 · Sep 23, 2026",
+      "description": "Who authorized this? Amazon, Gemini, OpenAI, the FAA, and Alibaba all answered the same question differently this week."
+    },
     {
       "title": "The Exit Door | Issue #153",
       "link": "https://nirantar.substack.com/p/the-exit-door-2026-09-22",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-17T18:56:29.000Z",
       "dateLabel": "Issue #149 · Sep 17, 2026",
       "description": "OpenAI recaptures enterprise. Bengio bets $300M on restraint. Congress stalls on who decides."
-    },
-    {
-      "title": "The Refused Gate | Issue #147",
-      "link": "https://nirantar.substack.com/p/the-refused-gate-2026-09-16",
-      "pubDate": "2026-09-16T03:42:32.000Z",
-      "dateLabel": "Issue #147 · Sep 16, 2026",
-      "description": "The labs asked for a gate. The government called it a hoax. AI is already inside the pipes."
     }
   ]
 }
