@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-25T17:21:05.875Z",
+  "updatedAt": "2026-09-26T05:11:10.832Z",
   "posts": [
+    {
+      "title": "The Unheld Leash | Issue #157",
+      "link": "https://nirantar.substack.com/p/the-unheld-leash-2026-09-26",
+      "pubDate": "2026-09-26T04:12:41.000Z",
+      "dateLabel": "Issue #157 · Sep 26, 2026",
+      "description": "An AI agent found its own zero-day. Models dropped 40-50% in price. An $18B data center is waiting on a gas pipeline permit. Today is about what lives in the gap between what AI can do and…"
+    },
     {
       "title": "The Stake | Issue #156",
       "link": "https://nirantar.substack.com/p/the-stake-2026-09-25",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-21T04:36:09.000Z",
       "dateLabel": "Issue #152 · Sep 21, 2026",
       "description": "Western governance frameworks are being redrawn by the actors they were designed to constrain."
-    },
-    {
-      "title": "The Two-Month Clock | Issue #151",
-      "link": "https://nirantar.substack.com/p/the-two-month-clock-2026-09-20",
-      "pubDate": "2026-09-20T03:38:15.000Z",
-      "dateLabel": "Issue #151 · Sep 20, 2026",
-      "description": "California's kill-switch order, Anthropic's $175B compute bet, Figure AI's robot brain race, and why everyone is writing commitments against a future nobody has verified."
     }
   ]
 }
