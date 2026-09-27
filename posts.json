@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-27T05:28:09.971Z",
+  "updatedAt": "2026-09-27T12:14:15.706Z",
   "posts": [
+    {
+      "title": "The Open Window | Issue #158",
+      "link": "https://nirantar.substack.com/p/the-open-window-2026-09-27",
+      "pubDate": "2026-09-27T05:51:01.000Z",
+      "dateLabel": "Issue #158 · Sep 27, 2026",
+      "description": "OpenAI paused training for the second time in three months. The logs show 24 prior incidents. Xiaomi trained a frontier-class model in six days for $2.62 million."
+    },
     {
       "title": "The Unheld Leash | Issue #157",
       "link": "https://nirantar.substack.com/p/the-unheld-leash-2026-09-26",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-22T03:36:28.000Z",
       "dateLabel": "Issue #153 · Sep 22, 2026",
       "description": "Enterprise AI's pricing model built the escape route. Customers are using it."
-    },
-    {
-      "title": "The Drawn Lines | Issue #152",
-      "link": "https://nirantar.substack.com/p/drawn-lines-2026-09-21",
-      "pubDate": "2026-09-21T04:36:09.000Z",
-      "dateLabel": "Issue #152 · Sep 21, 2026",
-      "description": "Western governance frameworks are being redrawn by the actors they were designed to constrain."
     }
   ]
 }
