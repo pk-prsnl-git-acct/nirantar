@@ -1,5 +1,20 @@
 {
-  "json_sha256": "81e8e88b0e72181d96762ef6964e12f7b6acaf568dc022fd9fa3d9fa410142df",
-  "ok": false,
-  "error": "FitError: 'headline' does not fit in 5 line(s) at 52px: 'This headline is far too long for any card because the writer kept going well past the point where any reader on a phone in a LinkedIn feed would stop scrolling, and then it kept going for another forty words just to be sure it overflows every rung of the ladder.'"
+  "json_sha256": "cc49684e72d066cd701f8b75f957b9157709ef628917cbf56dfd6f768b508d5a",
+  "ok": true,
+  "slides": 11,
+  "files": [
+    "li-01.jpg",
+    "li-02.jpg",
+    "li-03.jpg",
+    "li-04.jpg",
+    "li-05.jpg",
+    "li-06.jpg",
+    "li-07.jpg",
+    "li-08.jpg",
+    "li-09.jpg",
+    "li-10.jpg",
+    "li-11.jpg",
+    "li-carousel.pdf",
+    "x-card.jpg"
+  ]
 }
