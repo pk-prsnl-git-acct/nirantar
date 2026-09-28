@@ -1,2 +1,8 @@
 .DS_Store
 __pycache__/
+# rendered at deploy time by deploy-site.yml; never commit images (git history keeps them forever)
+social/**/*.jpg
+social/**/*.png
+social/**/*.pdf
+social/**/status.json
+_site/

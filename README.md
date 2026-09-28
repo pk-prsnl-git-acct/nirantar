@@ -22,7 +22,7 @@ The site links to the Substack publication, highlights recent dispatches, and pr
 ├── assets/             # Logo and social preview images
 ├── scripts/            # Utility scripts for post/feed updates
 ├── cards/              # Social card renderer (Broadsheet house style)
-├── social/             # Daily social.json + rendered carousel/X card per issue
+├── social/             # Daily social.json per issue (images render at deploy)
 ├── .github/workflows/  # GitHub Actions workflows
 ├── CNAME               # Custom domain configuration
 └── README.md
@@ -38,17 +38,22 @@ The website at https://nirantar.xyz acts as the branded home page and latest-pos
 
 ## Social cards
 
-The daily newsletter task commits `social/YYYY-MM-DD/social.json`. The
-`Render social cards` workflow renders it with `cards/broadsheet.py` and commits,
-next to the JSON:
+The daily newsletter task commits `social/YYYY-MM-DD/social.json` (a few KB).
+The site is deployed by the `Deploy site` workflow, which renders the last 5 days
+of cards with `cards/broadsheet.py` straight into the published site:
 
-- `li-01.jpg` ... `li-NN.jpg` and `li-carousel.pdf`: 1080x1350 LinkedIn carousel
-- `x-card.jpg`: 1200x675 card for X and the Substack cover
-- `status.json`: `{"ok": true}` or the exact fit error, which the task polls
+- `/social/YYYY-MM-DD/li-01.jpg` ... `li-NN.jpg` and `li-carousel.pdf`: LinkedIn carousel
+- `/social/YYYY-MM-DD/x-card.jpg`: card for X and the Substack cover
+- `/social/YYYY-MM-DD/status.json`: `{"ok": true}` or the exact fit error, polled by the task
+
+Images are never committed: git keeps every committed file in history forever, so
+daily images would grow the repo ~1 GB a year even with cleanup. `.gitignore`
+blocks them. Cards older than 5 days simply stop being rendered; LinkedIn and X
+keep their own copies once posted.
 
 Every text slot auto-fits from a size ladder and never breaks words. Copy that
-cannot fit fails with a named field rather than rendering unreadably. Images older
-than 30 days are pruned; the JSON is kept.
+cannot fit fails with a named field rather than rendering unreadably, and never
+blocks the site deploy.
 
 Render locally:
 
