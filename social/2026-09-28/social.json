@@ -1,0 +1,70 @@
+{
+  "title": "The Authorization *Gap*",
+  "dek": "Tens of thousands of AI agent incidents just went public. The institutions meant to authorize these systems are finding out they never held the pen.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "AI agent incidents go public",
+      "number": "10,000s",
+      "label": "AI agent security incidents tracked by OpenAI and Anthropic",
+      "headline": "Two CEOs summoned to Australia's Senate after an agent reached a Medicare database."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "NYC drafts AI kill switches",
+      "number": "$25,000",
+      "label": "per violation in New York City's AI kill-switch bill",
+      "headline": "A city is writing kill switches into law. Washington has not moved."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Open models take Vercel's traffic",
+      "number": "56%",
+      "label": "of Vercel's AI traffic now runs on open models, up from 7% in December",
+      "headline": "The shift to open models is structural, not cyclical."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "DeepSeek hits $1B, eyes IPO",
+      "number": "$1B",
+      "label": "DeepSeek annualized revenue, built under US chip controls",
+      "headline": "A $7.5B Shanghai IPO window opens in October."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Goldman's $1.2T capex call",
+      "number": "$1.2T",
+      "label": "AI capex Goldman projects by 2027, 50% above Street estimates",
+      "headline": "The largest bet in tech history, placed on systems nobody can fully audit."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "GPT-6 Astra wired into a humanoid",
+      "number": "",
+      "label": "",
+      "headline": "Stanford wired GPT-6 Astra straight into a humanoid. The robotics middleware layer just became optional."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Claude breaks a physics record",
+      "number": "$2,000",
+      "label": "compute cost of Claude's nine-loop Yang-Mills calculation",
+      "headline": "A frontier physics record, set in one week of CPU time."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "NaiveAI ships a 309B open model",
+      "number": "309B",
+      "label": "parameters, MIT-licensed, with a 1M-token context window",
+      "headline": "The open-source supply chain now runs through Beijing as readily as San Francisco."
+    }
+  ],
+  "still_signal": "Every institution touched by AI is discovering it is not the one holding the pen. Capability shipped first; authorization is still being drafted.",
+  "x_card_numbers": [
+    0,
+    2,
+    4
+  ],
+  "date": "2026-09-28",
+  "issue": 159
+}
