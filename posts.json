@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-27T17:05:02.436Z",
+  "updatedAt": "2026-09-28T05:36:03.624Z",
   "posts": [
+    {
+      "title": "The Authorization Gap | Issue #159",
+      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-09-28",
+      "pubDate": "2026-09-28T03:27:04.000Z",
+      "dateLabel": "Issue #159 · Sep 28, 2026",
+      "description": "Yesterday the number was 24. Today it is tens of thousands. The gap between AI capability and authorization just became a matter of public record."
+    },
     {
       "title": "The Open Window | Issue #158",
       "link": "https://nirantar.substack.com/p/the-open-window-2026-09-27",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-23T03:26:08.000Z",
       "dateLabel": "Issue #154 · Sep 23, 2026",
       "description": "Who authorized this? Amazon, Gemini, OpenAI, the FAA, and Alibaba all answered the same question differently this week."
-    },
-    {
-      "title": "The Exit Door | Issue #153",
-      "link": "https://nirantar.substack.com/p/the-exit-door-2026-09-22",
-      "pubDate": "2026-09-22T03:36:28.000Z",
-      "dateLabel": "Issue #153 · Sep 22, 2026",
-      "description": "Enterprise AI's pricing model built the escape route. Customers are using it."
     }
   ]
 }
