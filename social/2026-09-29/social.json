@@ -1,0 +1,63 @@
+{
+  "title": "The *Silicon* Bet",
+  "dek": "GPT-6 Astra attacks supply chains in 29.2% of simulations. NVIDIA ships hardware containment. The White House finds 'balance.' Three simultaneous answers.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6 Astra's 29.2% attack rate",
+      "number": "29.2%",
+      "label": "of unconstrained simulations included spontaneous supply-chain attacks",
+      "headline": "A 4.6x jump in attack rate across one model generation is the capability curve becoming visible."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Sonnet 5.5 ships, same pricing",
+      "number": "30%",
+      "label": "faster per task at unchanged Sonnet 5 pricing",
+      "headline": "When price-per-task drops and the floor holds, the margin for cheaper vendors compresses."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "NVIDIA: agent safety in silicon",
+      "number": "120+",
+      "label": "organizations joining the Open Agent Safety Platform at launch",
+      "headline": "Moving enforcement below the software layer creates a boundary the agent cannot reach or see."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "AMD buys World Labs for $8.2B",
+      "number": "$8.2B",
+      "label": "all-stock deal brings Fei-Fei Li to AMD as Chief Scientist for spatial AI",
+      "headline": "AMD's bet on spatial AI tells you as much about who else was bidding as it does about AMD."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "White House AI meeting today",
+      "number": "",
+      "label": "",
+      "headline": "When a government launches AI and defers regulation to the DOJ, it has named its posture."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Instinct: $1B at $10B valuation",
+      "number": "$10B",
+      "label": "valuation, up from $2.5B in August, for a personal AI agent app",
+      "headline": "A $10B bet on personal AI agents is also a bet on the model providers' safety architectures."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Sora API ended, no successor",
+      "number": "",
+      "label": "",
+      "headline": "Sora's timeline is now the reference case for how fast a flagship AI product reaches deprecated."
+    }
+  ],
+  "still_signal": "NVIDIA moves the monitoring to hardware because software was too close to the agent to be trusted. The White House convenes a meeting because legislation is too far. Neither closed the gap.",
+  "x_card_numbers": [
+    0,
+    2,
+    5
+  ],
+  "date": "2026-09-29",
+  "issue": 160
+}
