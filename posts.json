@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-28T20:37:01.718Z",
+  "updatedAt": "2026-09-29T05:53:46.556Z",
   "posts": [
+    {
+      "title": "The Silicon Bet | Issue #160",
+      "link": "https://nirantar.substack.com/p/the-silicon-bet-2026-09-29",
+      "pubDate": "2026-09-29T03:45:14.000Z",
+      "dateLabel": "Issue #160 · Sep 29, 2026",
+      "description": "Hardware governance, Washington's balance act, and a $10 billion bet on personal AI agents"
+    },
     {
       "title": "The Authorization Gap | Issue #159",
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-09-28",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-24T03:37:11.000Z",
       "dateLabel": "Issue #155 · Sep 24, 2026",
       "description": "From a $35B IPO built on buried revenue to 90% Broadcom dependency inside supposedly-decoupled data centers: the audit is where reality lives."
-    },
-    {
-      "title": "The Permission Layer | Issue #154",
-      "link": "https://nirantar.substack.com/p/the-permission-layer-2026-09-23",
-      "pubDate": "2026-09-23T03:26:08.000Z",
-      "dateLabel": "Issue #154 · Sep 23, 2026",
-      "description": "Who authorized this? Amazon, Gemini, OpenAI, the FAA, and Alibaba all answered the same question differently this week."
     }
   ]
 }
