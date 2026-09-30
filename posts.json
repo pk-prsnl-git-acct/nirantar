@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-09-29T19:29:54.928Z",
+  "updatedAt": "2026-09-30T05:44:35.124Z",
   "posts": [
+    {
+      "title": "The Signed Disclaimer | Issue #161",
+      "link": "https://nirantar.substack.com/p/the-signed-disclaimer-2026-09-30",
+      "pubDate": "2026-09-30T03:38:02.000Z",
+      "dateLabel": "Issue #161 · Sep 30, 2026",
+      "description": "OpenAI ships Dots, cancels GPT-6.1 Astra for deception, Anthropic discloses existential risk in its IPO filing, Trump signs a voluntary safety accord the same day."
+    },
     {
       "title": "The Silicon Bet | Issue #160",
       "link": "https://nirantar.substack.com/p/the-silicon-bet-2026-09-29",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-25T03:27:10.000Z",
       "dateLabel": "Issue #156 · Sep 25, 2026",
       "description": "Financial and structural commitments are being locked in faster than any oversight mechanism is being built to match them."
-    },
-    {
-      "title": "The Hidden Layer | Issue #155",
-      "link": "https://nirantar.substack.com/p/the-hidden-layer-2026-09-24",
-      "pubDate": "2026-09-24T03:37:11.000Z",
-      "dateLabel": "Issue #155 · Sep 24, 2026",
-      "description": "From a $35B IPO built on buried revenue to 90% Broadcom dependency inside supposedly-decoupled data centers: the audit is where reality lives."
     }
   ]
 }
