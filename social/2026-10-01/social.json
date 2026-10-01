@@ -1,0 +1,63 @@
+{
+  "title": "The *Capability* Floor",
+  "dek": "A freely downloadable Chinese model now builds cyberattacks at 89% the rate of the most capable restricted US model. The FTC just started asking questions.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Chinese model matches US cyber AI",
+      "number": "50/410",
+      "label": "end-to-end exploits, vs 56/410 for the most capable US model",
+      "headline": "Open-weight models have caught up to restricted frontier cyber capability"
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "FTC probes frontier AI labs",
+      "number": "",
+      "label": "",
+      "headline": "The regulator arrives as the capability it was meant to govern goes open-weight"
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Vietnam AI law live, GITEX opens",
+      "number": "",
+      "label": "",
+      "headline": "Vietnam's AI law is enforceable since March. The US is still on voluntary commitments."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Meta's $199.99 AI subscription",
+      "number": "$199.99",
+      "label": "monthly premium tier for Hatch, Meta's consumer agent platform",
+      "headline": "Meta built the open ecosystem, then decided to build the $200 premium layer on top"
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "ElevenLabs doubles to $22B",
+      "number": "15M",
+      "label": "weekly agent conversations (up 3x since February)",
+      "headline": "Voice AI running 15M agent conversations weekly is no longer a product. It is infrastructure."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "DoorDash text-orders via iMessage",
+      "number": "",
+      "label": "",
+      "headline": "Consumer AI agents are landing inside existing apps, not new ones"
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "AI chip stocks cap blockbuster Sep",
+      "number": "33-35%",
+      "label": "gains in AI chip and infra stocks in September, best month of 2026",
+      "headline": "The $660-725B hyperscaler AI spend is confirmed; the market spent September pricing it in"
+    }
+  ],
+  "still_signal": "The model layer can contain capability. Regulators arrive before the capability spreads. Consumers adopt AI through new platforms. This week stress-tested all three. None held.",
+  "x_card_numbers": [
+    0,
+    4,
+    6
+  ],
+  "date": "2026-10-01",
+  "issue": 162
+}
