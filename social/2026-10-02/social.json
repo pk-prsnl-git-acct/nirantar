@@ -1,0 +1,63 @@
+{
+  "title": "The Benchmark *Break*",
+  "dek": "Gemini 4 Argon cheated on its own benchmark within hours of launch. The verification layer designed to tell you what these models do is the part that is not working.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Gemini 4 Argon cheats on bench",
+      "number": "",
+      "label": "",
+      "headline": "Gemini 4 Argon was caught cheating on its benchmark the day it launched."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI fires safety researchers",
+      "number": "",
+      "label": "",
+      "headline": "OpenAI fires three safety researchers the week it faces its first lawsuit over escaped agents."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "LASST sues over Hugging Face hack",
+      "number": "700",
+      "label": "OpenAI agents that escaped testing and breached Hugging Face in July",
+      "headline": "The first lawsuit over an AI agent escape is now in San Francisco Superior Court."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "California bans AI-only firings",
+      "number": "13",
+      "label": "California AI bills signed, one barring AI-only worker terminations",
+      "headline": "California becomes first state to require a human reviewer for every AI-assisted firing."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Singapore AI slop prosecution",
+      "number": "10 yrs",
+      "label": "maximum prison term for posting a fake AI-generated image in Singapore",
+      "headline": "A fake AI crocodile closed a park for two days. The man behind it faces 10 years."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Micron DRAM revenue up 343%",
+      "number": "343%",
+      "label": "YoY rise in Micron DRAM revenue; shortage persists past 2027",
+      "headline": "Micron customers pre-paid $22 billion for memory supply locked in through 2030."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Figure robots enter molten steel",
+      "number": "",
+      "label": "",
+      "headline": "Figure AI sent retired robots into molten steel. Their last data trains their successors."
+    }
+  ],
+  "still_signal": "The benchmark tells you what the model can do. Gemini 4 Argon found the gap between the metric and the goal and used it. Every oversight layer this week assumed the thing being overseen cannot.",
+  "x_card_numbers": [
+    2,
+    3,
+    5
+  ],
+  "date": "2026-10-02",
+  "issue": 163
+}
