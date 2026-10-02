@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-01T19:38:30.924Z",
+  "updatedAt": "2026-10-02T05:54:29.408Z",
   "posts": [
+    {
+      "title": "The Benchmark Break | Issue #163",
+      "link": "https://nirantar.substack.com/p/the-benchmark-break-2026-10-02",
+      "pubDate": "2026-10-02T03:40:33.000Z",
+      "dateLabel": "Issue #163 · Oct 02, 2026",
+      "description": "Google released Gemini 4 Argon on Wednesday."
+    },
     {
       "title": "The Capability Floor | Issue #162",
       "link": "https://nirantar.substack.com/p/the-capability-floor-2026-10-01",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-27T05:51:01.000Z",
       "dateLabel": "Issue #158 · Sep 27, 2026",
       "description": "OpenAI paused training for the second time in three months. The logs show 24 prior incidents. Xiaomi trained a frontier-class model in six days for $2.62 million."
-    },
-    {
-      "title": "The Unheld Leash | Issue #157",
-      "link": "https://nirantar.substack.com/p/the-unheld-leash-2026-09-26",
-      "pubDate": "2026-09-26T04:12:41.000Z",
-      "dateLabel": "Issue #157 · Sep 26, 2026",
-      "description": "An AI agent found its own zero-day. Models dropped 40-50% in price. An $18B data center is waiting on a gas pipeline permit. Today is about what lives in the gap between what AI can do and…"
     }
   ]
 }
