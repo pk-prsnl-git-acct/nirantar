@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-02T19:24:35.802Z",
+  "updatedAt": "2026-10-03T05:29:24.404Z",
   "posts": [
+    {
+      "title": "The Orbital Compute | Issue #164",
+      "link": "https://nirantar.substack.com/p/the-orbital-compute-2026-10-03",
+      "pubDate": "2026-10-03T03:40:16.000Z",
+      "dateLabel": "Issue #164 · Oct 03, 2026",
+      "description": "Google confirmed Saturday that its Project Suncatcher prototype, launched October 1 on a SpaceX rideshare, is in orbit and responding."
+    },
     {
       "title": "The Benchmark Break | Issue #163",
       "link": "https://nirantar.substack.com/p/the-benchmark-break-2026-10-02",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-28T03:27:04.000Z",
       "dateLabel": "Issue #159 · Sep 28, 2026",
       "description": "Yesterday the number was 24. Today it is tens of thousands. The gap between AI capability and authorization just became a matter of public record."
-    },
-    {
-      "title": "The Open Window | Issue #158",
-      "link": "https://nirantar.substack.com/p/the-open-window-2026-09-27",
-      "pubDate": "2026-09-27T05:51:01.000Z",
-      "dateLabel": "Issue #158 · Sep 27, 2026",
-      "description": "OpenAI paused training for the second time in three months. The logs show 24 prior incidents. Xiaomi trained a frontier-class model in six days for $2.62 million."
     }
   ]
 }
