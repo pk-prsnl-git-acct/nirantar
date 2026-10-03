@@ -1,0 +1,49 @@
+{
+  "title": "The Orbital *Compute*",
+  "dek": "Google confirmed four AI chips are alive in orbit. Microsoft gave every enterprise agent its own email address. The datacenter containment perimeter is breaking on every vector at once.",
+  "stories": [
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Google AI satellite confirms contact",
+      "number": "4",
+      "label": "Trillium TPUs now in low Earth orbit after SpaceX rideshare launch Oct 1",
+      "headline": "Google's Project Suncatcher confirmed contact. AI inference hardware is in orbit."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SiMa.ai $150M for edge AI chips",
+      "number": "1,000",
+      "label": "dense TOPS of edge inference on SiMa's next chip (H1 2028), no cloud required",
+      "headline": "SiMa.ai raised $150M to build AI silicon for robots that never need a cloud connection."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Microsoft agents get own email address",
+      "number": "30M",
+      "label": "existing Copilot seats getting agents with their own Entra identity and email address",
+      "headline": "Microsoft gave every enterprise AI agent its own email address. That is the governance story."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "FieldAI seeking $700M at $10B",
+      "number": "5x",
+      "label": "valuation jump in 13 months: $2B to reportedly $10B for GPS-denied robotics",
+      "headline": "FieldAI is reportedly seeking $700M at $10B. A year ago it was worth $2B."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Apple restricts AI agent disk access",
+      "number": "",
+      "label": "",
+      "headline": "Apple restricts AI agent disk access as Microsoft expands agent identity. Opposite answers to the same authorization question."
+    }
+  ],
+  "still_signal": "The capital committed this week in orbit, edge silicon, and GPS-denied terrain is solving a 2026 infrastructure bottleneck. The governance responses from Apple and Microsoft are solving a 2025 authorization problem. The gap between those timescales is where the next incidents occur.",
+  "x_card_numbers": [
+    0,
+    2,
+    3
+  ],
+  "date": "2026-10-03",
+  "issue": 164
+}
