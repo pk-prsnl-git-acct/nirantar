@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-03T16:32:15.190Z",
+  "updatedAt": "2026-10-04T06:04:00.268Z",
   "posts": [
+    {
+      "title": "The Blueprint Exit | Issue #165",
+      "link": "https://nirantar.substack.com/p/the-blueprint-exit-2026-10-04",
+      "pubDate": "2026-10-04T03:48:42.000Z",
+      "dateLabel": "Issue #165 · Oct 04, 2026",
+      "description": "AMD paid $8.2B to claim the silicon layer. OpenAI's safety framework architect resigned. Florida asked a court to freeze model development. Every other layer is being claimed."
+    },
     {
       "title": "The Orbital Compute | Issue #164",
       "link": "https://nirantar.substack.com/p/the-orbital-compute-2026-10-03",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-29T03:45:14.000Z",
       "dateLabel": "Issue #160 · Sep 29, 2026",
       "description": "Hardware governance, Washington's balance act, and a $10 billion bet on personal AI agents"
-    },
-    {
-      "title": "The Authorization Gap | Issue #159",
-      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-09-28",
-      "pubDate": "2026-09-28T03:27:04.000Z",
-      "dateLabel": "Issue #159 · Sep 28, 2026",
-      "description": "Yesterday the number was 24. Today it is tens of thousands. The gap between AI capability and authorization just became a matter of public record."
     }
   ]
 }
