@@ -1,0 +1,63 @@
+{
+  "title": "The Blueprint *Exit*",
+  "dek": "AMD paid $8.2B to claim the silicon layer. The engineer who wrote OpenAI's safety reports resigned. Florida asked a court to freeze model development.",
+  "still_signal": "Every layer of the AI stack is being claimed by acquisition or deployment. The safety layer is being vacated by the people who built it.",
+  "x_card_numbers": [
+    0,
+    5,
+    6
+  ],
+  "stories": [
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "AMD acquires World Labs for $8.2B",
+      "number": "$8.2B",
+      "number_label": "all-stock deal for Fei-Fei Li's spatial intelligence lab",
+      "headline": "AMD is buying the research that will define what its next chips must compute."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI safety architect quits",
+      "number": "",
+      "number_label": "",
+      "headline": "The engineer who co-designed OpenAI's Preparedness Framework resigned and called the culture broken."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Claude Code opens to mods",
+      "number": "",
+      "number_label": "",
+      "headline": "Anthropic lets developers rewrite Claude Code's own agent loop with TypeScript hooks."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Alibaba launches AgentCore",
+      "number": "70%",
+      "number_label": "claimed TCO reduction for enterprise agent management",
+      "headline": "Alibaba ships full-stack enterprise agent management as the US governance debate continues."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "FieldAI closes $700M round",
+      "number": "$10B",
+      "number_label": "FieldAI valuation, up from $2B in 2025, for its universal robot brain",
+      "headline": "The universal robot brain is now worth ten times what it was thirteen months ago."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Florida seeks to freeze OpenAI",
+      "number": "",
+      "number_label": "",
+      "headline": "Florida asked a court to freeze OpenAI's model development over child safety."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Google ARDA screens 1M patients",
+      "number": "1M",
+      "number_label": "diabetic retinopathy patients screened in India, Thailand, and Australia",
+      "headline": "Google's retinopathy AI reached 1 million screened patients across three non-Western health systems."
+    }
+  ],
+  "date": "2026-10-04",
+  "issue": 165
+}
