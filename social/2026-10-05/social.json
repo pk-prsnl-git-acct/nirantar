@@ -1,0 +1,56 @@
+{
+  "title": "The Obligation *Structure*",
+  "dek": "Anthropic heads to market at $2 trillion carrying $518 billion in locked obligations. Every story today is about claiming position before the window closes.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic's $2T IPO gamble",
+      "number": "$518B",
+      "label": "in non-cancellable obligations behind Anthropic's $2T IPO",
+      "headline": "The margin for a revenue miss is essentially zero."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Argon: too dangerous to release",
+      "number": "77.9%",
+      "label": "on DeepSWE v1.1 for long-horizon software engineering",
+      "headline": "Google's best model ships first to cyber defenders, not developers."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "FieldAI: $10B for a robot brain",
+      "number": "$10B",
+      "label": "valuation for a 3-year-old company that does not build robots",
+      "headline": "The robotics bet has shifted from best robot to most portable brain."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia backs rival GPU cloud",
+      "number": "$668M",
+      "label": "total capital raised by GMI Cloud, with Nvidia as a backer",
+      "headline": "Nvidia investing in GPU cloud providers is Nvidia investing in its own customers."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Labs write their own audit rules",
+      "number": "",
+      "label": "",
+      "headline": "The companies being audited are proposing the auditing methodology."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Abu Dhabi hosts sovereign AI push",
+      "number": "$91B",
+      "label": "in AUM represented at Ai Everything summit in Abu Dhabi",
+      "headline": "The Gulf states now host the room where AI companies pitch sovereign relationships."
+    }
+  ],
+  "still_signal": "The window for voluntary positioning closes when someone else decides the structure for you.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-05",
+  "issue": 166
+}
