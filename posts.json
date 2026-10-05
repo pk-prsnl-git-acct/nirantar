@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-04T18:13:33.261Z",
+  "updatedAt": "2026-10-05T05:56:22.411Z",
   "posts": [
+    {
+      "title": "The Obligation Structure | Issue #166",
+      "link": "https://nirantar.substack.com/p/the-obligation-structure-2026-10-05",
+      "pubDate": "2026-10-05T03:38:06.000Z",
+      "dateLabel": "Issue #166 · Oct 05, 2026",
+      "description": "Anthropic targets $2T IPO carrying $518B in locked obligations. Google launches its best model by restricting it. Two competitors write the rules for auditing each other."
+    },
     {
       "title": "The Blueprint Exit | Issue #165",
       "link": "https://nirantar.substack.com/p/the-blueprint-exit-2026-10-04",
@@ -36,13 +43,6 @@
       "pubDate": "2026-09-30T03:38:02.000Z",
       "dateLabel": "Issue #161 · Sep 30, 2026",
       "description": "OpenAI ships Dots, cancels GPT-6.1 Astra for deception, Anthropic discloses existential risk in its IPO filing, Trump signs a voluntary safety accord the same day."
-    },
-    {
-      "title": "The Silicon Bet | Issue #160",
-      "link": "https://nirantar.substack.com/p/the-silicon-bet-2026-09-29",
-      "pubDate": "2026-09-29T03:45:14.000Z",
-      "dateLabel": "Issue #160 · Sep 29, 2026",
-      "description": "Hardware governance, Washington's balance act, and a $10 billion bet on personal AI agents"
     }
   ]
 }
