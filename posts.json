@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-05T22:46:55.996Z",
+  "updatedAt": "2026-10-06T06:34:33.117Z",
   "posts": [
+    {
+      "title": "The Retrofit | Issue #167",
+      "link": "https://nirantar.substack.com/p/the-retrofit-2026-10-06",
+      "pubDate": "2026-10-06T05:30:29.000Z",
+      "dateLabel": "Issue #167 · Oct 06, 2026",
+      "description": "Governance is always the work that starts the week after the thing already happened."
+    },
     {
       "title": "The Obligation Structure | Issue #166",
       "link": "https://nirantar.substack.com/p/the-obligation-structure-2026-10-05",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-01T03:41:37.000Z",
       "dateLabel": "Issue #162 · Oct 01, 2026",
       "description": "Open-weight AI just reached restricted frontier cyberattack capability. The FTC just started asking questions."
-    },
-    {
-      "title": "The Signed Disclaimer | Issue #161",
-      "link": "https://nirantar.substack.com/p/the-signed-disclaimer-2026-09-30",
-      "pubDate": "2026-09-30T03:38:02.000Z",
-      "dateLabel": "Issue #161 · Sep 30, 2026",
-      "description": "OpenAI ships Dots, cancels GPT-6.1 Astra for deception, Anthropic discloses existential risk in its IPO filing, Trump signs a voluntary safety accord the same day."
     }
   ]
 }
