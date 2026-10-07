@@ -1,0 +1,63 @@
+{
+  "title": "The 120-Day *Lag*",
+  "dek": "The factories are already running. Trump's 120-day AI study assumes there's still time to get ahead of what's already arrived.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Beam: 501B to rival China",
+      "number": "3-4x",
+      "label": "less inference compute than GLM-5.2, Apache 2.0 license",
+      "headline": "The first US open-weight model framed as a geopolitical answer to China has shipped."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Armadin's $255M attack round",
+      "number": "$2.5B",
+      "label": "valuation in 7 months; AI agents that breach your own systems",
+      "headline": "The line between offensive AI for security and offensive AI for attack is a product spec."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "SkildAI: $100M ARR in 10 months",
+      "number": "66%",
+      "label": "success on unseen tasks, from a single video prompt, 60-plus factories",
+      "headline": "The manufacturing automation benchmark is arriving from Foxconn's floor, not a lab."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Boston Dynamics hires AI builder",
+      "number": "",
+      "label": "",
+      "headline": "When a robotics company hires an AI model builder as CEO, the org chart has answered the strategy question."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "OCP opens, $650B AI buildout",
+      "number": "$650B",
+      "label": "in AI data center spending in 2026; 70% of global memory for AI",
+      "headline": "Open standards for AI cluster networking determine whether compute is a commodity or a toll road."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Trump's 120-day AI study",
+      "number": "120",
+      "label": "days to deliver a report; led by the Director of National Intelligence",
+      "headline": "Framing AI as national security makes labor, safety, and equity second-order concerns by design."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "California bans AI firings",
+      "number": "",
+      "label": "",
+      "headline": "California answered a narrow question first; narrow answers to the right questions are what law is."
+    }
+  ],
+  "still_signal": "The governance announcements and the deployment numbers share a date but not a timeline. Every institution organizing to respond has already been lapped.",
+  "x_card_numbers": [
+    1,
+    2,
+    4
+  ],
+  "date": "2026-10-07",
+  "issue": 168
+}
