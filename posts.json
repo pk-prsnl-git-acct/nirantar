@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-06T21:04:13.771Z",
+  "updatedAt": "2026-10-07T06:12:26.370Z",
   "posts": [
+    {
+      "title": "The 120-Day Lag | Issue #168",
+      "link": "https://nirantar.substack.com/p/the-120-day-lag-2026-10-07",
+      "pubDate": "2026-10-07T03:41:49.000Z",
+      "dateLabel": "Issue #168 · Oct 07, 2026",
+      "description": "Two governance clocks, five deployment stories, and no shared calendar."
+    },
     {
       "title": "The Retrofit | Issue #167",
       "link": "https://nirantar.substack.com/p/the-retrofit-2026-10-06",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-02T03:40:33.000Z",
       "dateLabel": "Issue #163 · Oct 02, 2026",
       "description": "Google released Gemini 4 Argon on Wednesday."
-    },
-    {
-      "title": "The Capability Floor | Issue #162",
-      "link": "https://nirantar.substack.com/p/the-capability-floor-2026-10-01",
-      "pubDate": "2026-10-01T03:41:37.000Z",
-      "dateLabel": "Issue #162 · Oct 01, 2026",
-      "description": "Open-weight AI just reached restricted frontier cyberattack capability. The FTC just started asking questions."
     }
   ]
 }
