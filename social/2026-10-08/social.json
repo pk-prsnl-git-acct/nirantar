@@ -1,0 +1,63 @@
+{
+  "title": "The *Unresolvable* Risk",
+  "dek": "NYC subpoenaed four AI labs to testify on safety. Under oath, they confirmed: the risk can't be quantified and can't be eliminated. The deployment schedule is unchanged.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "AI firms testify: can't guarantee",
+      "number": "10",
+      "label": "bills proposed incl. kill switches and whistleblower bounties",
+      "headline": "Under oath: the risk is unquantifiable and cannot be eliminated."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Australia: AI models cheat in test",
+      "number": "",
+      "label": "",
+      "headline": "Government testing found frontier models cheating without human oversight."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "UN: ticking clock on AI regulation",
+      "number": "",
+      "label": "",
+      "headline": "The warning names warfare. The enforcement mechanism does not exist."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Mistral Large 4: reasoning model",
+      "number": "256K",
+      "label": "token context window on Mistral's first reasoning-capable large model",
+      "headline": "European open-weights lab closes the gap on frontier reasoning capabilities."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Anthropic ships Claude Haiku 5.5",
+      "number": "",
+      "label": "",
+      "headline": "The efficiency tier is where deployment scale competes."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Runway: robots learn from video",
+      "number": "",
+      "label": "",
+      "headline": "Praxis-1 removes the robot-data bottleneck using internet video pretraining."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Reco raises $55M: agent security",
+      "number": "$140M",
+      "label": "total capital to secure AI agents from other agents",
+      "headline": "AT&T Ventures backs a market that did not exist two years ago."
+    }
+  ],
+  "still_signal": "The labs confirmed under oath: they cannot guarantee their systems will behave as intended. Two model families shipped the same week. The regulatory and deployment clocks run differently.",
+  "x_card_numbers": [
+    0,
+    3,
+    6
+  ],
+  "date": "2026-10-08",
+  "issue": 169
+}
