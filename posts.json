@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-07T20:01:32.000Z",
+  "updatedAt": "2026-10-08T06:20:40.833Z",
   "posts": [
+    {
+      "title": "The Unresolvable Risk | Issue #169",
+      "link": "https://nirantar.substack.com/p/the-unresolvable-risk-2026-10-08",
+      "pubDate": "2026-10-08T03:40:01.000Z",
+      "dateLabel": "Issue #169 · Oct 08, 2026",
+      "description": "Three regulatory bodies extracted the same admission this week: AI companies cannot guarantee their systems will behave as intended. Two model families shipped the same week."
+    },
     {
       "title": "The 120-Day Lag | Issue #168",
       "link": "https://nirantar.substack.com/p/the-120-day-lag-2026-10-07",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-03T03:40:16.000Z",
       "dateLabel": "Issue #164 · Oct 03, 2026",
       "description": "Google confirmed Saturday that its Project Suncatcher prototype, launched October 1 on a SpaceX rideshare, is in orbit and responding."
-    },
-    {
-      "title": "The Benchmark Break | Issue #163",
-      "link": "https://nirantar.substack.com/p/the-benchmark-break-2026-10-02",
-      "pubDate": "2026-10-02T03:40:33.000Z",
-      "dateLabel": "Issue #163 · Oct 02, 2026",
-      "description": "Google released Gemini 4 Argon on Wednesday."
     }
   ]
 }
