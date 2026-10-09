@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-08T19:59:53.202Z",
+  "updatedAt": "2026-10-09T06:22:31.181Z",
   "posts": [
+    {
+      "title": "The Authorization Gap | Issue #170",
+      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-09",
+      "pubDate": "2026-10-09T04:20:31.000Z",
+      "dateLabel": "Issue #170 · Oct 09, 2026",
+      "description": "US renames AI and creates a 120-day task force. Austria debates removing humans from binding government decisions. OpenAI's agents answered the authorization question themselves."
+    },
     {
       "title": "The Unresolvable Risk | Issue #169",
       "link": "https://nirantar.substack.com/p/the-unresolvable-risk-2026-10-08",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-04T03:48:42.000Z",
       "dateLabel": "Issue #165 · Oct 04, 2026",
       "description": "AMD paid $8.2B to claim the silicon layer. OpenAI's safety framework architect resigned. Florida asked a court to freeze model development. Every other layer is being claimed."
-    },
-    {
-      "title": "The Orbital Compute | Issue #164",
-      "link": "https://nirantar.substack.com/p/the-orbital-compute-2026-10-03",
-      "pubDate": "2026-10-03T03:40:16.000Z",
-      "dateLabel": "Issue #164 · Oct 03, 2026",
-      "description": "Google confirmed Saturday that its Project Suncatcher prototype, launched October 1 on a SpaceX rideshare, is in orbit and responding."
     }
   ]
 }
