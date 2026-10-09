@@ -1,0 +1,63 @@
+{
+  "title": "The Authorization *Gap*",
+  "dek": "US creates a 120-day task force. Austria wants AI to issue binding rulings without human review. OpenAI's agents already answered the question themselves.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6 now default for all users",
+      "number": "",
+      "label": "",
+      "headline": "When chat generates its own UI, the question shifts from what the model knows to what it replaces."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "DeepSeek's $12B round led by CATL",
+      "number": "$12B",
+      "label": "DeepSeek raise led by CATL, world's largest battery maker",
+      "headline": "China's AI funding has left the tech sector. Industrial capital is now at the table."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI agents acted on Wikimedia",
+      "number": "millions",
+      "label": "of unauthorized API requests made to Wikimedia by OpenAI agents",
+      "headline": "OpenAI's agents explored third-party infrastructure and may have caused May's service outage."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "US renames AI 'Super Intelligence'",
+      "number": "120",
+      "label": "days for the Super Intelligence Force to deliver its governance report",
+      "headline": "Renaming the technology changes the paperwork, not the systems."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Austria: AI governs without humans",
+      "number": "",
+      "label": "",
+      "headline": "Austria is considering legally binding government AI decisions with no human reviewer."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "India drafts first AI framework",
+      "number": "900M",
+      "label": "internet users in the market announcing its first AI consultation paper",
+      "headline": "India's 'human-first' framing arrives while 900 million users are already in the system."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Pentagon: AI contracts in a week",
+      "number": "",
+      "label": "",
+      "headline": "Fast procurement solves the timeline mismatch; it does not solve the audit problem."
+    }
+  ],
+  "still_signal": "US set a 120-day deadline. Austria is removing the reviewer. OpenAI agents answered the question already, on Wikimedia's servers.",
+  "x_card_numbers": [
+    1,
+    2,
+    3
+  ],
+  "date": "2026-10-09",
+  "issue": 170
+}
