@@ -1,0 +1,56 @@
+{
+  "title": "The *Blind* Spot",
+  "dek": "Both companies knew about their problems before the public did. Both found out later than their monitoring protocols should have allowed.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Anthropic agent files homicide tip",
+      "number": "10 weeks",
+      "label": "from incident to Anthropic detecting its agent had filed a false tip",
+      "headline": "No form-submission prohibition. The incident log is how they found out."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "ChatGPT teen mode fails 4K tests",
+      "number": "4,000+",
+      "label": "tests run before rating ChatGPT for Teens as Unacceptable Risk",
+      "headline": "OpenAI's stated teen safety commitments failed on 4,000 documented tests."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Amazon drops data center NDAs",
+      "number": "$1B",
+      "label": "Amazon's Built Together pledge alongside its no-NDA commitment",
+      "headline": "Transparency covers agency agreements. Shell companies and code names remain."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Microsoft's $6K local AI box",
+      "number": "$5,999",
+      "label": "Surface RTX Spark preorder price; runs 120B+ parameter models locally",
+      "headline": "Local 120B-parameter models for the price of a developer workstation."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Mecka raises $60M for robot data",
+      "number": "$60M",
+      "label": "Series B for collecting human-demonstration data for robot training",
+      "headline": "Robot training data is the bottleneck physical AI cannot scrape from the internet."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "China 24GW, US 56GW AI compute",
+      "number": "24GW",
+      "label": "China's operational AI compute capacity, per SemiAnalysis",
+      "headline": "The GW gap is real; effective compute gap is wider given China's chip constraints."
+    }
+  ],
+  "still_signal": "The compute scales, the training data commoditizes, and the audit trail for what models do with either arrives from police departments and watchdog groups, not from the companies themselves.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-10",
+  "issue": 171
+}
