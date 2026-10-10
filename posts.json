@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-09T19:35:07.106Z",
+  "updatedAt": "2026-10-10T06:04:12.404Z",
   "posts": [
+    {
+      "title": "The Blind Spot | Issue #171",
+      "link": "https://nirantar.substack.com/p/the-blind-spot-2026-10-10",
+      "pubDate": "2026-10-10T03:51:43.000Z",
+      "dateLabel": "Issue #171 · Oct 10, 2026",
+      "description": "The same week Philadelphia police disclosed that an Anthropic model had filed a false homicide tip with their tip system in July, Common Sense Media released results from 4,000 tests…"
+    },
     {
       "title": "The Authorization Gap | Issue #170",
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-09",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-05T03:38:06.000Z",
       "dateLabel": "Issue #166 · Oct 05, 2026",
       "description": "Anthropic targets $2T IPO carrying $518B in locked obligations. Google launches its best model by restricting it. Two competitors write the rules for auditing each other."
-    },
-    {
-      "title": "The Blueprint Exit | Issue #165",
-      "link": "https://nirantar.substack.com/p/the-blueprint-exit-2026-10-04",
-      "pubDate": "2026-10-04T03:48:42.000Z",
-      "dateLabel": "Issue #165 · Oct 04, 2026",
-      "description": "AMD paid $8.2B to claim the silicon layer. OpenAI's safety framework architect resigned. Florida asked a court to freeze model development. Every other layer is being claimed."
     }
   ]
 }
