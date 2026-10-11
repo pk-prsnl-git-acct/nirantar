@@ -1,0 +1,63 @@
+{
+  "title": "The Voluntary *Standard*",
+  "dek": "Ten AI firms pledged compliance with rules the regulator is still writing. The benchmark leader nobody can access. The $40B chip with no audited performance figure.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "UK ICO: pledges, then inquiry",
+      "number": "10",
+      "label": "AI firms pledged data changes; ICO opened agentic inquiry next day",
+      "headline": "The regulator secured pledges it cannot verify, for standards it has not yet written."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "White House AI accord: no auditor",
+      "number": "",
+      "label": "",
+      "headline": "The self-policing AI accord names no auditor and requires no public disclosure."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Gemini 4 Argon ties GPT-6",
+      "number": "13/19",
+      "label": "benchmark categories Google claims Argon leads; tied at 53 on AA Index",
+      "headline": "The benchmark winner is locked behind a security program. No developer API exists."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI pulls 3 math papers",
+      "number": "3",
+      "label": "math manuscripts pulled after sign error; one claimed 372 results",
+      "headline": "A proof-shaped document is not a proof. It took a retraction to establish this."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Etched: $5B to $40-50B",
+      "number": "$40-50B",
+      "label": "in talks at $40-50B, up from $21B in August; no independent benchmark",
+      "headline": "The transformer ASIC bet is a one-way door. The valuation prices lock-in as a feature."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Nvidia eyes $1B in Figure AI",
+      "number": "$38B",
+      "label": "pre-money valuation; Nvidia reportedly in $1B Figure AI talks",
+      "headline": "If Nvidia is buying into the physical AI stack, control of the pipeline is in play."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "AI infrastructure: $344B bonds",
+      "number": "$344B",
+      "label": "AI-linked bonds issued by August 2026; Nvidia in $750B infra talks",
+      "headline": "Venture capital is no longer the primary funding mechanism for AI infrastructure."
+    }
+  ],
+  "still_signal": "Every major commitment in today's issue rests on a standard the committing party wrote itself. The field has not agreed on what good looks like. It has agreed to price as if it already knows.",
+  "x_card_numbers": [
+    0,
+    4,
+    5
+  ],
+  "date": "2026-10-11",
+  "issue": 172
+}
