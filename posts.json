@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-10T18:43:14.082Z",
+  "updatedAt": "2026-10-11T06:01:58.550Z",
   "posts": [
+    {
+      "title": "The Voluntary Standard | Issue #172",
+      "link": "https://nirantar.substack.com/p/the-voluntary-standard-2026-10-11",
+      "pubDate": "2026-10-11T03:47:36.000Z",
+      "dateLabel": "Issue #172 · Oct 11, 2026",
+      "description": "Ten AI firms pledged compliance with rules a regulator is still writing. The benchmark leader nobody can use. The $40B chip with no audited performance figure."
+    },
     {
       "title": "The Blind Spot | Issue #171",
       "link": "https://nirantar.substack.com/p/the-blind-spot-2026-10-10",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-06T05:30:29.000Z",
       "dateLabel": "Issue #167 · Oct 06, 2026",
       "description": "Governance is always the work that starts the week after the thing already happened."
-    },
-    {
-      "title": "The Obligation Structure | Issue #166",
-      "link": "https://nirantar.substack.com/p/the-obligation-structure-2026-10-05",
-      "pubDate": "2026-10-05T03:38:06.000Z",
-      "dateLabel": "Issue #166 · Oct 05, 2026",
-      "description": "Anthropic targets $2T IPO carrying $518B in locked obligations. Google launches its best model by restricting it. Two competitors write the rules for auditing each other."
     }
   ]
 }
