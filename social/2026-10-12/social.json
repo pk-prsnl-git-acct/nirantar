@@ -1,0 +1,63 @@
+{
+  "title": "The *Decision* Layer",
+  "dek": "The most-funded new AI company this week skips language entirely. Meanwhile $90B+ in AI compute debt moves into private credit no one can read.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Jev: $7.5B, no language output",
+      "number": "$7.5B",
+      "label": "valuation for a 3-week-old model that outputs decisions, not text",
+      "headline": "The most valuable AI insight this week: your model was generating words you were discarding."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Haiku 5.5: 75% cost drop",
+      "number": "75%",
+      "label": "cheaper than Haiku 4.5, with per-request effort tuning added",
+      "headline": "Anthropic compressed the small-model cost floor again, and added per-request effort tuning."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Broadcom: $50B private credit",
+      "number": "$50B+",
+      "label": "for Broadcom's OpenAI chip program; Oracle and SpaceX negotiating too",
+      "headline": "AI compute moves from public bonds to private credit with no disclosure floor."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Ultra + Pi: robots by subscription",
+      "number": "$62M",
+      "label": "raised; Ultra leases Pi-powered robots to warehouses monthly",
+      "headline": "Robots by subscription: Ultra removes the capex, Pi provides the brains."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "FieldAI raising $700M",
+      "number": "$700M",
+      "label": "reportedly raising at $10B for unstructured-environment robotics",
+      "headline": "A 10x valuation for unstructured robots, pricing a thesis the data hasn't confirmed."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Senate bill: data centers pay power",
+      "number": "",
+      "label": "",
+      "headline": "Senate deal: data centers must pay for their own power. Vote waits for November."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "World Bank: AI for developing world",
+      "number": "40%",
+      "label": "yield increase for Indian sugarcane farmers using AI in Baramati",
+      "headline": "The World Bank's main recommendation: don't become a single-vendor AI client."
+    }
+  ],
+  "still_signal": "The benchmark race draws the analysis. The ownership structure is what determines what the analysis is actually for.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-12",
+  "issue": 173
+}
