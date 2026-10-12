@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-11T19:01:15.274Z",
+  "updatedAt": "2026-10-12T06:12:11.860Z",
   "posts": [
+    {
+      "title": "The Decision Layer | Issue #173",
+      "link": "https://nirantar.substack.com/p/the-decision-layer-2026-10-12",
+      "pubDate": "2026-10-12T03:38:18.000Z",
+      "dateLabel": "Issue #173 · Oct 12, 2026",
+      "description": "The most-funded new AI company this week doesn't output language. It outputs decisions."
+    },
     {
       "title": "The Voluntary Standard | Issue #172",
       "link": "https://nirantar.substack.com/p/the-voluntary-standard-2026-10-11",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-07T03:41:49.000Z",
       "dateLabel": "Issue #168 · Oct 07, 2026",
       "description": "Two governance clocks, five deployment stories, and no shared calendar."
-    },
-    {
-      "title": "The Retrofit | Issue #167",
-      "link": "https://nirantar.substack.com/p/the-retrofit-2026-10-06",
-      "pubDate": "2026-10-06T05:30:29.000Z",
-      "dateLabel": "Issue #167 · Oct 06, 2026",
-      "description": "Governance is always the work that starts the week after the thing already happened."
     }
   ]
 }
