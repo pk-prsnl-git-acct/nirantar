@@ -1,0 +1,49 @@
+{
+  "title": "The *Locked* Frontier",
+  "dek": "Meta reached the frontier and gated it behind a subscription. Meanwhile the CEO prescribing AI containment sells the containment tools, and hardware shortages run 2-3 more years.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Wonder Full: frontier, $50/month",
+      "number": "56",
+      "label": "on AA Intelligence Index, tying Claude Sonnet 5.5, but locked to $50/month Muse Code",
+      "headline": "Meta reached the frontier. Access is $50/month. The public API gets the smaller model."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Nadella: assume AI compromised",
+      "number": "",
+      "label": "",
+      "headline": "Nadella: treat models as assumed compromised. His company sells the containment architecture."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Nous Research: $90M from Nvidia",
+      "number": "$90M",
+      "label": "Series B at $1.5B; Nvidia and Samsung in the round for the anti-centralization AI company",
+      "headline": "Founded to resist centralized AI. Now funded by Nvidia and Samsung."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Intel: shortages 2-3 more years",
+      "number": "2-3",
+      "label": "more years of hardware shortages, per Intel CEO, despite $745B committed to AI buildout",
+      "headline": "Intel's CEO: the supply chain won't close the gap the financing models require."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "NSF: AI is now Super Intelligence",
+      "number": "$6B",
+      "label": "in White House science initiatives, announced the same week NSF rewrites AI to SI in grants",
+      "headline": "NSF rewrites AI as Super Intelligence in grants. $6B in science funding announced the same day."
+    }
+  ],
+  "still_signal": "The benchmark is public. The access is negotiated separately.",
+  "x_card_numbers": [
+    0,
+    1,
+    3
+  ],
+  "date": "2026-10-13",
+  "issue": 174
+}
