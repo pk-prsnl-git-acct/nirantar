@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-12T23:05:16.883Z",
+  "updatedAt": "2026-10-13T06:54:40.453Z",
   "posts": [
+    {
+      "title": "The Locked Frontier | Issue #174",
+      "link": "https://nirantar.substack.com/p/the-locked-frontier-2026-10-13",
+      "pubDate": "2026-10-13T05:47:06.000Z",
+      "dateLabel": "Issue #174 · Oct 13, 2026",
+      "description": "Meta reached the frontier and locked it behind a $50/month subscription. The rest of this week follows the same pattern."
+    },
     {
       "title": "The Decision Layer | Issue #173",
       "link": "https://nirantar.substack.com/p/the-decision-layer-2026-10-12",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-08T03:40:01.000Z",
       "dateLabel": "Issue #169 · Oct 08, 2026",
       "description": "Three regulatory bodies extracted the same admission this week: AI companies cannot guarantee their systems will behave as intended. Two model families shipped the same week."
-    },
-    {
-      "title": "The 120-Day Lag | Issue #168",
-      "link": "https://nirantar.substack.com/p/the-120-day-lag-2026-10-07",
-      "pubDate": "2026-10-07T03:41:49.000Z",
-      "dateLabel": "Issue #168 · Oct 07, 2026",
-      "description": "Two governance clocks, five deployment stories, and no shared calendar."
     }
   ]
 }
