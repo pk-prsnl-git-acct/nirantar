@@ -1,0 +1,77 @@
+{
+  "title": "The *Working* Rate",
+  "dek": "China shipped 19,100 humanoids in H1 2026. The industry estimate for how many of 2025's 20,000 installations are actually working: a few thousand.",
+  "stories": [
+    {
+      "section": "Robotics & Physical AI",
+      "short": "20K installed, few thousand work",
+      "number": "97%",
+      "label": "of H1 2026 humanoid shipments came from Chinese makers",
+      "headline": "The industry says it's a data problem. The hands say otherwise."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Mecka, Ultra raise for robot data",
+      "number": "$60M",
+      "label": "Mecka raised from Sequoia, Nvidia, and Microsoft M12",
+      "headline": "Capital is chasing the data layer. The constraint might be below it."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Yaskawa enters humanoid race",
+      "number": "",
+      "label": "",
+      "headline": "When Yaskawa enters a category, the experimental phase is ending."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Boston Dynamics hires AI-first CEO",
+      "number": "30,000",
+      "label": "humanoid units per year Hyundai plans to produce by 2028",
+      "headline": "The world's best robot company just hired a language model architect to run it."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "UBTECH scales with FAW-Volkswagen",
+      "number": "",
+      "label": "",
+      "headline": "Factory logistics is the softest target. If humanoids can't work there, revise the projections."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia falls to 34% in China",
+      "number": "34%",
+      "label": "Nvidia's China AI chip share after a 44% YoY shipment decline",
+      "headline": "Huawei is at 28%, the supply gap is 1.5 million units, and chip stocks are falling."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "EU enforcement and ECB deadline",
+      "number": "110",
+      "label": "banks the ECB gave until October 31 to file AI cyber threat plans",
+      "headline": "October's two AI governance deadlines are the first test of whether European coordination works."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "FDA generative AI deadline Oct 19",
+      "number": "",
+      "label": "",
+      "headline": "Five days to shape the framework for AI systems that change after deployment."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "RoboBusiness 2026, Oct 20-21",
+      "number": "",
+      "label": "",
+      "headline": "Watch for how the industry defines 'working,' not how many units it ships."
+    }
+  ],
+  "still_signal": "Physical hardware, chip supply, and regulatory frameworks are all discovering structural constraints this week. The industry keeps treating them as coordination problems. They resolve on different timelines.",
+  "x_card_numbers": [
+    0,
+    5,
+    3
+  ],
+  "date": "2026-10-14",
+  "issue": 175
+}
