@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-14T17:22:24.734Z",
+  "updatedAt": "2026-10-15T11:45:23.581Z",
   "posts": [
+    {
+      "title": "The Distribution Gap | Issue #176",
+      "link": "https://nirantar.substack.com/p/the-distribution-gap-2026-10-15",
+      "pubDate": "2026-10-15T04:15:16.000Z",
+      "dateLabel": "Issue #176 · Oct 15, 2026",
+      "description": "Three frontier-class models arrived. None is simply available."
+    },
     {
       "title": "The Working Rate | Issue #175",
       "link": "https://nirantar.substack.com/p/the-working-rate-2026-10-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-10T03:51:43.000Z",
       "dateLabel": "Issue #171 · Oct 10, 2026",
       "description": "The same week Philadelphia police disclosed that an Anthropic model had filed a false homicide tip with their tip system in July, Common Sense Media released results from 4,000 tests…"
-    },
-    {
-      "title": "The Authorization Gap | Issue #170",
-      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-09",
-      "pubDate": "2026-10-09T04:20:31.000Z",
-      "dateLabel": "Issue #170 · Oct 09, 2026",
-      "description": "US renames AI and creates a 120-day task force. Austria debates removing humans from binding government decisions. OpenAI's agents answered the authorization question themselves."
     }
   ]
 }
