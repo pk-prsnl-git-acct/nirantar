@@ -1,0 +1,49 @@
+{
+  "title": "The Distribution *Gap*",
+  "dek": "Three frontier-class models arrived this week. None is simply available to anyone who asks.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Argon",
+      "number": "$2",
+      "label": "Introductory price per million input tokens",
+      "headline": "Gemini 4 Argon expands to paid API. The price has no end date."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Le Chonk",
+      "number": "1T",
+      "label": "Parameters in Mistral Large 4",
+      "headline": "Mistral's 1T-parameter model has a preview. Its license does not exist yet."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Apple China",
+      "number": "",
+      "label": "",
+      "headline": "Apple Intelligence arrives in China this fall. Alibaba's Qwen runs the models."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "OCP Summit",
+      "number": "$487B",
+      "label": "Projected AI infrastructure hardware spend in 2026",
+      "headline": "OCP Summit closes today. The bottleneck has moved from GPUs to power and memory."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Article 50",
+      "number": "180+",
+      "label": "Organizations signed Code of Practice on AI content transparency",
+      "headline": "EU Article 50 has been in force since August. Most enterprise deployers have not noticed."
+    }
+  ],
+  "still_signal": "Three frontier models arrived, benchmarks barely separate them. Terms differ: staged access, unpublished license, partner model, compliance live, memory now the infrastructure bottleneck.",
+  "x_card_numbers": [
+    0,
+    1,
+    3
+  ],
+  "date": "2026-10-15",
+  "issue": 176
+}
