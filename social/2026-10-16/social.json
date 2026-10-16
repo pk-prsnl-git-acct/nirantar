@@ -1,0 +1,70 @@
+{
+  "title": "The *Paper* Pledge",
+  "dek": "The FTC sent 50-page subpoenas to OpenAI and Anthropic days after the White House got their executives to sign a one-page voluntary pledge.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "FTC sends 50+ page subpoenas",
+      "number": "50+",
+      "label": "pages in each FTC civil investigative demand to OpenAI and Anthropic",
+      "headline": "Voluntary pledges are intentions. A 50-page subpoena is a request for evidence."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Character.AI files Chapter 11",
+      "number": "$20M",
+      "label": "Disney's stalking-horse bid for a company once valued above $1 billion",
+      "headline": "The three-year cost of consumer AI without a safety model, now collectible."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic IPO circles $1.5T",
+      "number": "$1.5T",
+      "label": "Anthropic investor day valuation, down from the $2T roadshow estimate",
+      "headline": "The first visible test of whether AI valuations survive the move from private to public markets."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI engineer arrested",
+      "number": "",
+      "label": "",
+      "headline": "A company whose primary asset is unpublished knowledge is a high-value physical intelligence target."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Meta's 816B open-weight model",
+      "number": "816B",
+      "label": "parameters in Meta's open-weight release, running on two Mac Studios",
+      "headline": "Open means yesterday's frontier. The current frontier requires a $50 subscription."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Microsoft MAI-Base-2 efficiency",
+      "number": "12.3x",
+      "label": "compute efficiency gain vs. DeepSeek-V4-Pro-Base, per Microsoft",
+      "headline": "Training efficiency and deployed performance are related but distinct claims."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Chicago Fed: AI is overheating",
+      "number": "",
+      "label": "",
+      "headline": "A Fed official named the AI buildout as a source of 'aggregate overheating.'"
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Stryker's $400M CMR Surgical deal",
+      "number": "$400M",
+      "label": "Stryker buys into CMR Surgical, gaining exclusive U.S. Versius rights",
+      "headline": "Entering Intuitive Surgical's market via investment limits exposure while testing the claim."
+    }
+  ],
+  "still_signal": "Every institution that touched AI this week discovered it was holding a bill it had not budgeted for. The voluntary pledge is the document from the meeting where none of those bills were discussed.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-16",
+  "issue": 177
+}
