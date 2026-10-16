@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-15T17:11:44.257Z",
+  "updatedAt": "2026-10-16T04:44:49.658Z",
   "posts": [
+    {
+      "title": "The Paper Pledge | Issue #177",
+      "link": "https://nirantar.substack.com/p/the-paper-pledge-2026-10-16",
+      "pubDate": "2026-10-16T03:51:06.000Z",
+      "dateLabel": "Issue #177 · Oct 16, 2026",
+      "description": "The FTC sends 50-page subpoenas the same week the White House collected voluntary AI pledges."
+    },
     {
       "title": "The Distribution Gap | Issue #176",
       "link": "https://nirantar.substack.com/p/the-distribution-gap-2026-10-15",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-11T03:47:36.000Z",
       "dateLabel": "Issue #172 · Oct 11, 2026",
       "description": "Ten AI firms pledged compliance with rules a regulator is still writing. The benchmark leader nobody can use. The $40B chip with no audited performance figure."
-    },
-    {
-      "title": "The Blind Spot | Issue #171",
-      "link": "https://nirantar.substack.com/p/the-blind-spot-2026-10-10",
-      "pubDate": "2026-10-10T03:51:43.000Z",
-      "dateLabel": "Issue #171 · Oct 10, 2026",
-      "description": "The same week Philadelphia police disclosed that an Anthropic model had filed a false homicide tip with their tip system in July, Common Sense Media released results from 4,000 tests…"
     }
   ]
 }
