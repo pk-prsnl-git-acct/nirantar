@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-16T04:44:49.658Z",
+  "updatedAt": "2026-10-17T10:58:49.987Z",
   "posts": [
+    {
+      "title": "The Rights Layer | Issue #178",
+      "link": "https://nirantar.substack.com/p/the-rights-layer-2026-10-17",
+      "pubDate": "2026-10-17T04:07:47.000Z",
+      "dateLabel": "Issue #178 · Oct 17, 2026",
+      "description": "Microsoft's 2.8T training machine, Meta's scraping terms, and who claims the raw material of the next model."
+    },
     {
       "title": "The Paper Pledge | Issue #177",
       "link": "https://nirantar.substack.com/p/the-paper-pledge-2026-10-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-12T03:38:18.000Z",
       "dateLabel": "Issue #173 · Oct 12, 2026",
       "description": "The most-funded new AI company this week doesn't output language. It outputs decisions."
-    },
-    {
-      "title": "The Voluntary Standard | Issue #172",
-      "link": "https://nirantar.substack.com/p/the-voluntary-standard-2026-10-11",
-      "pubDate": "2026-10-11T03:47:36.000Z",
-      "dateLabel": "Issue #172 · Oct 11, 2026",
-      "description": "Ten AI firms pledged compliance with rules a regulator is still writing. The benchmark leader nobody can use. The $40B chip with no audited performance figure."
     }
   ]
 }
