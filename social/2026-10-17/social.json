@@ -1,0 +1,56 @@
+{
+  "title": "The *Rights* Layer",
+  "dek": "Microsoft's 2.8T training machine runs dark. Meta's new ToS claims the web. The race for the next model's raw material is here.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "2.8T MAI-Base-2: no product yet",
+      "number": "2.8T",
+      "label": "parameters in MAI-Base-2; no product, no date, no license yet",
+      "headline": "Efficiency without a product is a capability signal, not a market one."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Meta's Oct 30 scraping terms",
+      "number": "",
+      "label": "",
+      "headline": "A ToS update resolved more training data questions than six months of licensing deals."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Google AI pilot: CNN, Axios join",
+      "number": "",
+      "label": "",
+      "headline": "Google pays for data rights. Meta takes them. Publishers must choose which is worse."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "FF Nova humanoid at $2,490",
+      "number": "$2,490",
+      "label": "FF Nova price; Phase 1 limited to 100 units, Faraday Future spinoff",
+      "headline": "The price point matters more than Faraday Future's track record."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Labelbox $100M+ for RL agents",
+      "number": "$100M+",
+      "label": "Labelbox Series E for RL feedback infrastructure for enterprise agents",
+      "headline": "As foundation models commoditize, the feedback loop becomes the defensible layer."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "GitHub retires 6 models Oct 19",
+      "number": "6",
+      "label": "models retiring from GitHub Copilot on October 19, including GPT-5.5",
+      "headline": "State-of-the-art in early 2026. Deprecated infrastructure by October."
+    }
+  ],
+  "still_signal": "The race is not for the best model; it is for everything that feeds the next one: training efficiency, data rights, feedback loops, physical world data, distribution lock-in.",
+  "x_card_numbers": [
+    0,
+    3,
+    4
+  ],
+  "date": "2026-10-17",
+  "issue": 178
+}
