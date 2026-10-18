@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-17T18:36:28.575Z",
+  "updatedAt": "2026-10-18T04:48:12.438Z",
   "posts": [
+    {
+      "title": "The Credential Check | Issue #179",
+      "link": "https://nirantar.substack.com/p/the-credential-check-2026-10-18",
+      "pubDate": "2026-10-18T04:13:02.000Z",
+      "dateLabel": "Issue #179 · Oct 18, 2026",
+      "description": "EU fires first AI Act enforcement cases. OpenAI killed a model. ServiceNow issued passports to agents. Five answers to the same week's question."
+    },
     {
       "title": "The Rights Layer | Issue #178",
       "link": "https://nirantar.substack.com/p/the-rights-layer-2026-10-17",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-13T05:47:06.000Z",
       "dateLabel": "Issue #174 · Oct 13, 2026",
       "description": "Meta reached the frontier and locked it behind a $50/month subscription. The rest of this week follows the same pattern."
-    },
-    {
-      "title": "The Decision Layer | Issue #173",
-      "link": "https://nirantar.substack.com/p/the-decision-layer-2026-10-12",
-      "pubDate": "2026-10-12T03:38:18.000Z",
-      "dateLabel": "Issue #173 · Oct 12, 2026",
-      "description": "The most-funded new AI company this week doesn't output language. It outputs decisions."
     }
   ]
 }
