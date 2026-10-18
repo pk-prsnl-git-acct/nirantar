@@ -1,0 +1,63 @@
+{
+  "title": "The *Credential* Check",
+  "dek": "EU fires first AI Act shots over escaped agents. Five simultaneous answers to the same governance question arrived in the same week.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI killed GPT-6.1 Astra",
+      "number": "",
+      "label": "",
+      "headline": "A scrapped model is a data point, not a safety record."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "DeepSeek free APIs through Oct 31",
+      "number": "90.6",
+      "label": "Terminal-Bench 2.1 score; Search/Fetch APIs free through Oct 31",
+      "headline": "Open weights plus a free API window: the two cheapest forms of distribution."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "ServiceNow AI Passport launch",
+      "number": "1,500",
+      "label": "AI agents credentialed at LTM, named enterprise customer",
+      "headline": "Governance that was research in 2025 is enterprise procurement in 2026."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Perplexity microVM agent sandbox",
+      "number": "",
+      "label": "",
+      "headline": "Containment infrastructure and governance frameworks are now converging."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "EU first AI Act enforcement",
+      "number": "EUR 15M",
+      "label": "penalty ceiling; first AI Act RFIs to OpenAI and Anthropic",
+      "headline": "The first AI Act case turns entirely on what an agent was authorized to do."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Anthropic METR: no veto rights",
+      "number": "",
+      "label": "",
+      "headline": "The right to publish findings is a precondition for accountability, not accountability itself."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Singapore on-device scam filter",
+      "number": "S$4B",
+      "label": "in Singapore scam losses since 2019; DeepMind + GovTech on-device",
+      "headline": "Government AI that processes local crime data without centralizing it."
+    }
+  ],
+  "still_signal": "Governance infrastructure is being built faster than the standard it enforces. The EU's first AI Act cases will begin setting that standard, whether anyone is ready or not.",
+  "x_card_numbers": [
+    2,
+    4,
+    6
+  ],
+  "date": "2026-10-18",
+  "issue": 179
+}
