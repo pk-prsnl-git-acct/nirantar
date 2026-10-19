@@ -1,0 +1,63 @@
+{
+  "title": "The *Authorization* Gap",
+  "dek": "Anthropic's agents outwork humans 6:1. Banks block them manually. Campaigns run AI-fabricated ads because no law says they cannot.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Anthropic agents: 6x human hours",
+      "number": "6:1",
+      "label": "AI agent to human staff working hours at Anthropic by August",
+      "headline": "The bottleneck at the company most worried about AI is now human attention, not compute."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "$15M to verify AI math results",
+      "number": "$15M",
+      "label": "pledged by OpenAI, Anthropic and Simons to verify AI-generated math",
+      "headline": "Only 42% of OpenAI's published math results have been formally verified."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Schwab blocks AI agents weekly",
+      "number": "tens",
+      "label": "of unauthorized AI agent attempts blocked by Schwab every week",
+      "headline": "Banks are not drawing a security line. They are deciding who controls the execution path."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "DeepSeek seeds $400M robot lab",
+      "number": "$400M",
+      "label": "valuation of Winverse AI seed round, led by DeepSeek",
+      "headline": "China's model companies are seeding physical AI at seed round, not Series B."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "NVIDIA RTX Spark: 120B local",
+      "number": "120B",
+      "label": "parameter models now runnable locally on NVIDIA RTX Spark laptops",
+      "headline": "When a 120B model runs on a laptop, the data stays on device. So does what would have checked it."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nscale eyes $30B NYSE IPO",
+      "number": "$30B",
+      "label": "Nscale NYSE IPO target, revenue up 1,252% year-over-year",
+      "headline": "Investors are being asked to pay $30B for $51B in contracted revenue that has not yet arrived."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "$137M in unlabeled AI ad spend",
+      "number": "$137M",
+      "label": "spent on AI-generated midterm ads, 73% carrying no disclosure label",
+      "headline": "The one-cycle leap from under $50K to $137M is not a disclosure gap. It is a precedent."
+    }
+  ],
+  "still_signal": "The question in every story today is the same: who authorized this? The permission layer is the constraint now. It was never built to run at this speed.",
+  "x_card_numbers": [
+    0,
+    2,
+    6
+  ],
+  "date": "2026-10-19",
+  "issue": 180
+}
