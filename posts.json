@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-18T18:43:22.098Z",
+  "updatedAt": "2026-10-19T04:56:35.363Z",
   "posts": [
+    {
+      "title": "The Authorization Gap | Issue #180",
+      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-19",
+      "pubDate": "2026-10-19T03:47:17.000Z",
+      "dateLabel": "Issue #180 · Oct 19, 2026",
+      "description": "Today's tension is vertical: at one organization, AI agents already outwork humans 6:1, and the company that publishes this figure is the company most publicly worried about what AI will…"
+    },
     {
       "title": "The Credential Check | Issue #179",
       "link": "https://nirantar.substack.com/p/the-credential-check-2026-10-18",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-14T03:48:00.000Z",
       "dateLabel": "Issue #175 · Oct 14, 2026",
       "description": "China's humanoid shipments are quadrupling. The industry estimate of how many are actually working: a few thousand."
-    },
-    {
-      "title": "The Locked Frontier | Issue #174",
-      "link": "https://nirantar.substack.com/p/the-locked-frontier-2026-10-13",
-      "pubDate": "2026-10-13T05:47:06.000Z",
-      "dateLabel": "Issue #174 · Oct 13, 2026",
-      "description": "Meta reached the frontier and locked it behind a $50/month subscription. The rest of this week follows the same pattern."
     }
   ]
 }
