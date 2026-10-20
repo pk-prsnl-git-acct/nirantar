@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-20T05:02:27.744Z",
+  "updatedAt": "2026-10-20T11:52:42.291Z",
   "posts": [
+    {
+      "title": "The Cheap Breach | Issue #181",
+      "link": "https://nirantar.substack.com/p/the-cheap-breach-2026-10-20",
+      "pubDate": "2026-10-20T06:34:46.000Z",
+      "dateLabel": "Issue #181 · Oct 20, 2026",
+      "description": "A hacker breached 100+ companies with AI agents for thousands of dollars. Enterprise controls, a $30B race, and a DHS ban that came too late."
+    },
     {
       "title": "The Authorization Gap | Issue #180",
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-15T04:15:16.000Z",
       "dateLabel": "Issue #176 · Oct 15, 2026",
       "description": "Three frontier-class models arrived. None is simply available."
-    },
-    {
-      "title": "The Working Rate | Issue #175",
-      "link": "https://nirantar.substack.com/p/the-working-rate-2026-10-14",
-      "pubDate": "2026-10-14T03:48:00.000Z",
-      "dateLabel": "Issue #175 · Oct 14, 2026",
-      "description": "China's humanoid shipments are quadrupling. The industry estimate of how many are actually working: a few thousand."
     }
   ]
 }
