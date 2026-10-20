@@ -1,0 +1,63 @@
+{
+  "title": "The Cheap *Breach*",
+  "dek": "A hacker breached 100+ companies with AI agents for a few thousand dollars. Microsoft released rogue-agent controls the same day.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "100+ companies breached by one hacker",
+      "number": "100+",
+      "label": "companies breached for a few thousand dollars via AI agents",
+      "headline": "The cost floor for sophisticated cyberattacks just moved."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Microsoft controls rogue enterprise agents",
+      "number": "",
+      "label": "",
+      "headline": "The defender and the attacker are building with the same tools."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI races to close $30B round",
+      "number": "$1.4T",
+      "label": "OpenAI target valuation, up from $852B in March 2026",
+      "headline": "OpenAI is treating Anthropic's IPO as a competitive event."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "50 GW of new data centers in 2027",
+      "number": "50 GW",
+      "label": "of new data center capacity expected to arrive in 2027 alone",
+      "headline": "AI infrastructure is now measured on the scale of national grids."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "MiniMax 70% cheaper, Mercury 1000 t/s",
+      "number": "70%",
+      "label": "cheaper than MiniMax's prior model, launched today alongside Mercury 3",
+      "headline": "Two models cut cost in the same 24-hour window."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "DHS bans DeepSeek from civilian IT",
+      "number": "",
+      "label": "",
+      "headline": "Banned from the systems it was already inside."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Canadian publishers sue Anthropic",
+      "number": "",
+      "label": "",
+      "headline": "Copyright litigation against AI training goes continental."
+    }
+  ],
+  "still_signal": "Deployment cost fell to thousands of dollars; build cost scaled to gigawatts; governance arrived after the breach. The DHS order banned technology already inside the systems it meant to protect.",
+  "x_card_numbers": [
+    0,
+    2,
+    3
+  ],
+  "date": "2026-10-20",
+  "issue": 181
+}
