@@ -1,0 +1,63 @@
+{
+  "title": "The Provenance *Test*",
+  "dek": "Tenstorrent raised $1.5B, chose independence. Bloomberg linked Z.AI founders to CGTRI research. Anthropic pledged 5% with no governance details.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Nvidia Nemotron coalition launches",
+      "number": "120B",
+      "label": "param model via Nemotron Coalition: Mistral, Perplexity, BFL",
+      "headline": "The chip company is now the coalition that assembles the models."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic pledges 5% to fund",
+      "number": "5%",
+      "label": "of shares pledged to public benefit fund; governance TBD",
+      "headline": "A 5% pledge with no governance structure is a headline, not a commitment."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Otter.ai takes $320M non-dilutive",
+      "number": "$320M",
+      "label": "non-dilutive from General Catalyst at $100M ARR",
+      "headline": "General Catalyst is pricing cash flows over equity at current valuations."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Tenstorrent: $1.5B, stays solo",
+      "number": "$6.2B",
+      "label": "post-money valuation; Samsung, Hyundai, LG among backers",
+      "headline": "The alt-chip market is now geopolitically capitalized."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Eka Robotics: 1,500 objects/hour",
+      "number": "1,500",
+      "label": "objects per hour at 95% success, vs. about 600 for humans",
+      "headline": "Force-sensing may close the gap that vision alone cannot."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Z.AI founders linked to CGTRI",
+      "number": "",
+      "label": "",
+      "headline": "Research provenance is now a national security document."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "GSA AI clause live: 7-day clock",
+      "number": "7",
+      "label": "days federal contractors have to report material model changes",
+      "headline": "The government left undefined what it will enforce."
+    }
+  ],
+  "still_signal": "Every accountability structure built this week is overdue and incomplete. None of the institutions building them share a definition of what they are building for.",
+  "x_card_numbers": [
+    3,
+    4,
+    1
+  ],
+  "date": "2026-10-21",
+  "issue": 182
+}
