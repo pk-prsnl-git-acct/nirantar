@@ -1,0 +1,56 @@
+{
+  "title": "The Ambient *Layer*",
+  "dek": "Anthropic launched an agent that monitors your apps. OpenAI locked its model gateway. Nvidia said factories must precede software. Three moves, one claim.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Claude Duet watches your apps 24/7",
+      "number": "6,000+",
+      "label": "apps Duet connects to, watching and flagging before you ask",
+      "headline": "Anthropic's Duet has access to everything. It just asks before it acts."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI gates all model routers",
+      "number": "",
+      "label": "",
+      "headline": "OpenAI just decided who deserves to use its models as infrastructure."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia: 14-day AI factory deploy",
+      "number": "14 days",
+      "label": "to deploy an AI factory, down from six months, per NVIDIA DSX POD",
+      "headline": "Jensen Huang: the infrastructure has to exist before the AI models emerge."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Tenstorrent raises $1.5B",
+      "number": "$6.2B",
+      "label": "post-money valuation after Series E, doubling from prior round",
+      "headline": "Jim Keller picked independence over Intel and Qualcomm. Now he has $1.5B to prove it."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Anthropic pitches its safety bill",
+      "number": "50",
+      "label": "people threshold to suspend a model under Anthropic's draft bill",
+      "headline": "The company writing the most safety commitments is writing the rules for who can stop them."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Illinois creates state AI Cabinet",
+      "number": "",
+      "label": "",
+      "headline": "States are building AI governance patchworks because federal consensus has not arrived."
+    }
+  ],
+  "still_signal": "The ambient layer is being claimed while its definition is still open. Three actors are setting the terms of what AI touches, before most people know the layer exists.",
+  "x_card_numbers": [
+    0,
+    2,
+    3
+  ],
+  "date": "2026-10-22",
+  "issue": 183
+}
