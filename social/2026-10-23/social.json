@@ -1,0 +1,56 @@
+{
+  "title": "The Public *Ledger*",
+  "dek": "Anthropic's S-1 lands today with 15x revenue growth. SK Hyper wants $350B for Korean AI infrastructure. The numbers are public now.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic S-1 files today",
+      "number": "15x",
+      "label": "year-over-year revenue growth in H1 2026, from $1.1B to $16.3B",
+      "headline": "Public investors will now price the dependency on Amazon and Google that no S-1 can fully explain."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Claude Duet preview opens",
+      "number": "6,000+",
+      "label": "integrations in Anthropic's proactive agent, US waitlist only",
+      "headline": "A research preview in the IPO window is a legal category as much as a product stage."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SK Hyper's $350B Korea bet",
+      "number": "$350B",
+      "label": "proposed for first 5 GW phase in South Korea, including equipment",
+      "headline": "The CEO's own framing says the capital is not committed; demand must arrive first."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Tenstorrent raises $1.5B",
+      "number": "$1.5B",
+      "label": "Series E at $6.2B valuation, after turning down bids at up to $5B",
+      "headline": "Keller's bet: the open-weight chip market is worth more independent than sold."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Humanoid roadmaps all say 2027",
+      "number": "2027",
+      "label": "year all major humanoid deployment milestones now converge on",
+      "headline": "The industry has found that 2027 requires no specific commitment while maintaining credibility."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Korean chip stocks fall hard",
+      "number": "21%",
+      "label": "KOSPI drop through October as AI spending fears hit Samsung, SK Hynix",
+      "headline": "The semiconductor index is the AI economy's credit rating, and it is moving the wrong way."
+    }
+  ],
+  "still_signal": "The AI economy is being priced simultaneously on a stock exchange and in a Korean infrastructure pitch. The question underneath both is whether demand arrives at the price the math requires.",
+  "x_card_numbers": [
+    0,
+    2,
+    5
+  ],
+  "date": "2026-10-23",
+  "issue": 184
+}
