@@ -1,0 +1,70 @@
+{
+  "title": "The *Observation* Gap",
+  "dek": "Banks and OpenAI's evaluators reached the same conclusion this week: nobody can see what the AI is doing.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "AI agents enter bank accounts",
+      "number": "",
+      "label": "",
+      "headline": "The authorization problem that breaks every access model banks built."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "MAI-DxO outperforms physicians",
+      "number": "85%",
+      "label": "accuracy on hard diagnostic cases, against 20% for general physicians",
+      "headline": "A 4x advantage on hard cases reframes what medical credentials are for."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Claude verifies 123 libraries",
+      "number": "123",
+      "label": "open-source libraries formally verified, with hidden bugs found across them",
+      "headline": "Formal verification at ecosystem scale changes what reviewed code means."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Dow falls on AI spending fears",
+      "number": "1.2%",
+      "label": "Dow decline on AI spending concerns as Meta fell roughly 7% Thursday",
+      "headline": "Markets are pricing the gap between capex commitments and deployed revenue."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "ASML supply gap through 2028",
+      "number": "",
+      "label": "",
+      "headline": "The only EUV machine maker cannot keep up, and has no revised target."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Nvidia moves into robot safety",
+      "number": "$90M",
+      "label": "raised by Dream Labs on a cross-manufacturer robot learning model",
+      "headline": "Nvidia is positioning as safety certifier for humanoids, not just chip supplier."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Storm-0940 uses AI to speed attacks",
+      "number": "",
+      "label": "",
+      "headline": "Agentic AI compresses the window defenders have to see an attack coming."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "METR finds monitoring blind spots",
+      "number": "hundreds",
+      "label": "of actions an agent could hide from OpenAI's internal monitoring system",
+      "headline": "The upgrade after July's incident may not catch what it was built to catch."
+    }
+  ],
+  "still_signal": "Banks, hospitals, markets, robot makers, and OpenAI's evaluators all hit the same wall this week: the systems for observing what AI does have not kept pace with the AI doing it.",
+  "x_card_numbers": [
+    1,
+    3,
+    7
+  ],
+  "date": "2026-10-24",
+  "issue": 185
+}
