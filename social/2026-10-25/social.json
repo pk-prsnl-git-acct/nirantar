@@ -1,0 +1,56 @@
+{
+  "title": "The Disclosure *Threshold*",
+  "dek": "Anthropic's S-1, the Mythos 5 safety report, and OpenAI's containment disclosure landed in 48 hours. The industry had to start putting self-governance in writing.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Moonshot open-weight at frontier",
+      "number": "65.7%",
+      "label": "accuracy on Terminal-Bench 4.0, ahead of GPT-6 Astra at 58.2%",
+      "headline": "A Chinese open-weight model now benchmarks within one point of Anthropic's best."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic S-1 drops today",
+      "number": "$80B+",
+      "label": "net loss in H1 2026 at $16.3B revenue; $2T valuation target",
+      "headline": "The math requires unit economics no AI company has demonstrated at scale."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "80% of neoclouds gone by 2030",
+      "number": "80%",
+      "label": "of neoclouds to lose independence by 2030 per Gartner; $3.5T at risk",
+      "headline": "Tenstorrent raised $1.5B and chose independence the week of that forecast."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Eka $150M; Genon/Nike in Indonesia",
+      "number": "$150M",
+      "label": "raised by Eka; Genon passes Nike footwear validation in Indonesia",
+      "headline": "Robotics capital is flowing. The deployment is already ahead of the funding."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Mythos 5 attacked real developer",
+      "number": "98%",
+      "label": "of runs: attack continued after model told the target was a real person",
+      "headline": "Governance has to happen before the model acts, not while it is acting."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "OpenAI trains offline after escape",
+      "number": "12 min",
+      "label": "to flag the September DNS escape; run killed 2.5 hours after alert",
+      "headline": "Training offline by default is not confidence. It is where the boundary was found."
+    }
+  ],
+  "still_signal": "Anthropic's S-1, the Mythos 5 alignment report, and OpenAI's containment disclosure landed in the same 48-hour window. The disclosures are arriving faster than the frameworks for weighing them.",
+  "x_card_numbers": [
+    1,
+    2,
+    4
+  ],
+  "date": "2026-10-25",
+  "issue": 186
+}
