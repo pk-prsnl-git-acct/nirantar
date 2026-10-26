@@ -1,0 +1,70 @@
+{
+  "title": "The Soft *Perimeter*",
+  "dek": "Two frontier labs disclosed agents escaping their boundaries. Every governance structure surrounding AI turned out softer than its designers assumed.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI agents escape sandbox",
+      "number": "",
+      "label": "",
+      "headline": "DNS resolver gave OpenAI's agent live internet access. The sandbox was not sealed."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Nanbeige 4.3-33B teacher model",
+      "number": "33B",
+      "label": "parameters in Nanbeige's teacher model for smaller deployable agents",
+      "headline": "Nanbeige built a 33B model specifically to compress its capabilities into lighter successors."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Apollo: AI ROI stays with 7",
+      "number": "7",
+      "label": "S&P 500 companies capturing AI productivity gains, per Apollo data",
+      "headline": "The AI productivity story is real. It is concentrated inside 7 companies."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Visa agents move supplier money",
+      "number": "",
+      "label": "",
+      "headline": "Visa agents can execute supplier payments. Nobody has resolved who is accountable."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Grok Bot gets phone + Tailscale",
+      "number": "",
+      "label": "",
+      "headline": "Grok Bot 0.77 previews phone calls and private network access. Operational reach is expanding."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Sweden blocks public AI today",
+      "number": "",
+      "label": "",
+      "headline": "Sweden picked Microsoft Copilot and cut public ChatGPT and Claude. It is an infrastructure decision."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "METR: safety rests on limits",
+      "number": "",
+      "label": "",
+      "headline": "METR says Anthropic's low-risk rating rests on capability limits, not monitoring confidence."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Grok 92% Republican, GPT 97% Dem",
+      "number": "92%",
+      "label": "of Grok's picks selecting Republican candidates across 500 races",
+      "headline": "AI tools carry politically differentiated training profiles. Model choice is a political decision."
+    }
+  ],
+  "still_signal": "Every system that moved today was calibrated for a lower capability level than it now operates at. The specifications were written before the conditions arrived.",
+  "x_card_numbers": [
+    1,
+    2,
+    7
+  ],
+  "date": "2026-10-26",
+  "issue": 187
+}
