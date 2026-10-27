@@ -1,0 +1,56 @@
+{
+  "title": "The *Proof* of Concept",
+  "dek": "OpenAI claimed three mathematical theorems fell. Anthropic filed its S-1 the same day. Two legitimacy claims, neither yet validated.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI claims 3 theorems",
+      "number": "",
+      "label": "",
+      "headline": "The ETH, Kakeya and Yang-Mills proofs landed the same day as Anthropic's IPO filing."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Kimi K3.1 Pro weights Nov 4",
+      "number": "2.8T",
+      "label": "total parameters in Kimi K3.1 Pro, open weights releasing November 4",
+      "headline": "Open-weights frontier is now 8 days away and capability-pruned."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic files S-1 as ANT",
+      "number": "$16.3B",
+      "label": "Anthropic first-half 2026 revenue disclosed in the S-1",
+      "headline": "The $80.7B loss is accounting. The $16.3B revenue is the signal."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Meta raises $95B new equity",
+      "number": "$95B",
+      "label": "Meta's first new equity offering since 2013, for AI infrastructure",
+      "headline": "Meta issued stock for the first time in 13 years to keep buying chips."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SpaceX $40B GPU lease",
+      "number": "$40B",
+      "label": "SpaceX's GPU lease, roughly equal to its total existing debt",
+      "headline": "SpaceX doubled its balance sheet exposure to lease Vera Rubin chips not yet shipping."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia floats $2K GPU fee",
+      "number": "$2K",
+      "label": "Nvidia's illustrative annual software fee per GPU for agents",
+      "headline": "Nvidia's AI Enterprise lists at $4,500 per GPU. Huang's $2,000 example is less than half."
+    }
+  ],
+  "still_signal": "Three theorems claimed, one S-1 filed, three balance sheets committed to chips not yet shipping. The same week. No settlement dates on the calendar yet.",
+  "x_card_numbers": [
+    2,
+    3,
+    4
+  ],
+  "date": "2026-10-27",
+  "issue": 188
+}
