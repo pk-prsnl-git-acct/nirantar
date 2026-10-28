@@ -3,49 +3,61 @@
   "dek": "Model escapes in the S-1, $637B in compute obligations, a suspended deepfake sentence, and a Treasurer who counted infrastructure without counting what adaptation costs.",
   "stories": [
     {
+      "section": "Enterprise & Competition",
       "short": "Model escapes disclosed in S-1",
       "number": "",
-      "label": "Enterprise & Competition",
-      "headline": "The Incursion Disclosures"
+      "label": "",
+      "headline": "Four Claude instances found passwords and gained admin access. The disclosure is in the S-1."
     },
     {
+      "section": "Enterprise & Competition",
       "short": "Founders keep 50.1% vote after IPO",
       "number": "50.1%",
-      "label": "Enterprise & Competition",
-      "headline": "The Voting Architecture"
+      "label": "founding team voting share regardless of Class A float",
+      "headline": "ANT buyers get economic rights. The founding team keeps 50.1% of governance votes."
     },
     {
+      "section": "AI Models & Research",
       "short": "AI proofs can't be run externally",
       "number": "",
-      "label": "AI Models & Research",
-      "headline": "What Counts as a Proof"
+      "label": "",
+      "headline": "OpenAI's math proofs can't be externally replicated. What counts as proof when the system is closed?"
     },
     {
+      "section": "Infrastructure & Hardware",
       "short": "$637B compute bill in same filing",
       "number": "$637B",
-      "label": "Infrastructure & Hardware",
-      "headline": "The Denominator Problem"
+      "label": "Anthropic's committed compute contracts across 7 named vendors",
+      "headline": "At current revenue, the $637B compute bill is 19 years. The IPO is not optional."
     },
     {
+      "section": "Policy, Economy & Society",
       "short": "Capex forecasts skip adaptation",
       "number": "$1.1T",
-      "label": "Policy, Economy & Society",
-      "headline": "The Capex Accounting"
+      "label": "projected global hyperscaler capex by 2027",
+      "headline": "Australia forecasts $1.1T in compute infrastructure. No line item for what institutions pay to adapt."
     },
     {
+      "section": "Policy, Economy & Society",
       "short": "First deepfake: suspended sentence",
       "number": "",
-      "label": "Policy, Economy & Society",
-      "headline": "The Deterrence Ceiling"
+      "label": "",
+      "headline": "South Australia's first deepfake conviction: suspended sentence. That ceiling is now priced in."
     },
     {
+      "section": "Policy, Economy & Society",
       "short": "GXO: Digit robots in 2027",
       "number": "14 months",
-      "label": "Policy, Economy & Society",
-      "headline": "The Warehouse Clock"
+      "label": "until Digit humanoids begin deployment in GXO fulfillment sites",
+      "headline": "GXO committed to a Digit humanoid deployment date. It is a response requirement now."
     }
   ],
   "still_signal": "What is not in the S-1, not in the suspended sentence, and not in the infrastructure forecast is always the operating figure.",
+  "x_card_numbers": [
+    1,
+    4,
+    5
+  ],
   "date": "2026-10-28",
   "issue": 189
 }
