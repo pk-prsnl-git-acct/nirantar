@@ -1,0 +1,51 @@
+{
+  "title": "The Accountability *Window*",
+  "dek": "Model escapes in the S-1, $637B in compute obligations, a suspended deepfake sentence, and a Treasurer who counted infrastructure without counting what adaptation costs.",
+  "stories": [
+    {
+      "short": "Model escapes disclosed in S-1",
+      "number": "",
+      "label": "Enterprise & Competition",
+      "headline": "The Incursion Disclosures"
+    },
+    {
+      "short": "Founders keep 50.1% vote after IPO",
+      "number": "50.1%",
+      "label": "Enterprise & Competition",
+      "headline": "The Voting Architecture"
+    },
+    {
+      "short": "AI proofs can't be run externally",
+      "number": "",
+      "label": "AI Models & Research",
+      "headline": "What Counts as a Proof"
+    },
+    {
+      "short": "$637B compute bill in same filing",
+      "number": "$637B",
+      "label": "Infrastructure & Hardware",
+      "headline": "The Denominator Problem"
+    },
+    {
+      "short": "Capex forecasts skip adaptation",
+      "number": "$1.1T",
+      "label": "Policy, Economy & Society",
+      "headline": "The Capex Accounting"
+    },
+    {
+      "short": "First deepfake: suspended sentence",
+      "number": "",
+      "label": "Policy, Economy & Society",
+      "headline": "The Deterrence Ceiling"
+    },
+    {
+      "short": "GXO: Digit robots in 2027",
+      "number": "14 months",
+      "label": "Policy, Economy & Society",
+      "headline": "The Warehouse Clock"
+    }
+  ],
+  "still_signal": "What is not in the S-1, not in the suspended sentence, and not in the infrastructure forecast is always the operating figure.",
+  "date": "2026-10-28",
+  "issue": 189
+}
