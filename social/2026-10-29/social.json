@@ -1,0 +1,56 @@
+{
+  "title": "The Infrastructure *Dividend*",
+  "dek": "Alphabet's cloud revenue doubled in a year. Microsoft committed $255B in AI capex. The infrastructure bet paid off. The governance layer didn't get the memo.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Alphabet: first $100B quarter",
+      "number": "103%",
+      "label": "YoY Google Cloud growth, to $30.7B",
+      "headline": "Enterprise AI spend has locked in its first $100B winner."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Microsoft commits $255B in AI capex",
+      "number": "$255B",
+      "label": "in AI infrastructure committed for FY27",
+      "headline": "The price of catching Azure just went up by $255 billion."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic S-1: 25% from 2 customers",
+      "number": "25%",
+      "label": "of $16.3B H1 revenue from two unnamed customers",
+      "headline": "A $2 trillion IPO valuation on a B2B contract stack."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Genie 4: 2-minute world simulation",
+      "number": "",
+      "label": "",
+      "headline": "Real-time world simulation now holds coherence for two minutes. That crosses into training-pipeline territory."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Bedrock raises $600M for excavators",
+      "number": "$600M",
+      "label": "Series C, 12 weeks after first paid deployments",
+      "headline": "The construction labor gap has a $4.1B regulatory answer."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "AI deepfakes flood 2026 midterms",
+      "number": "28",
+      "label": "states with deepfake laws, zero federal framework",
+      "headline": "The accountability window for AI election interference closes November 3."
+    }
+  ],
+  "still_signal": "The infrastructure dividend has arrived. The accountability infrastructure hasn't.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-29",
+  "issue": 190
+}
