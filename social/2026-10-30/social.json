@@ -1,0 +1,68 @@
+{
+  "issue": 191,
+  "title": "The Authorization *Gap*",
+  "dek": "Five AI coding tools with the same trust-boundary flaw. A contractor's Claude agent on the Pentagon network for two months. Canada's $1.14B equity stake in Cohere. China sets frontier export thresholds at 10^26 FLOPs. CS enrollment down 18% in two years.",
+  "stories": [
+    {
+      "slug": "embrace",
+      "headline": "5 AI coding tools share a trust-boundary flaw",
+      "card_text": "EMBRACE attack hits Cursor, Copilot, Codex, VS Code, and Claude Desktop: all through their built-in browsers. Same mistake, 5 independent dev teams.",
+      "stat": "5 tools, 1 attack class"
+    },
+    {
+      "slug": "mistral-large-4",
+      "headline": "Mistral's trillion-parameter 'Le Chonk' ships open-weight",
+      "card_text": "Large 4 leads FrontierCode at 19.7%, tops Terminal-Bench at 41%, priced at $0.70 input per million tokens. Near-MIT license, weights on Hugging Face.",
+      "stat": "1T params, $0.70/M tokens"
+    },
+    {
+      "slug": "claude-exploits",
+      "headline": "Unreleased Claude built working exploits for 5 OSes",
+      "card_text": "Anthropic's Frontier Red Team: an unreleased model chained zero-days into working exploits for Linux, Chrome, Safari, Pixel 9, and Windows. All patched before disclosure.",
+      "stat": "5 OSes, 1 model"
+    },
+    {
+      "slug": "canada-cohere",
+      "headline": "Canada invests $1.14B equity in Cohere at $35.7B valuation",
+      "card_text": "First G7 government to take an equity stake in a frontier AI lab. Conditions: 1,000 Canadian tech jobs by 2030, $1.7B in Canadian compute. PM Carney: 'We are not waiting.'",
+      "stat": "$35.7B valuation, 1K jobs required"
+    },
+    {
+      "slug": "spacex-anthropic",
+      "headline": "SpaceX: Anthropic is 34.5% of Q3 revenue",
+      "card_text": "Anthropic is 'Customer B' in SpaceX's filing: largest customer, ahead of the US government. A finite deal. Two companies whose balance sheets are now structurally linked.",
+      "stat": "34.5% of SpaceX Q3 revenue"
+    },
+    {
+      "slug": "nuclear-doe",
+      "headline": "DOE lends $5B for 1.1GW nuclear pre-sold to hyperscalers",
+      "card_text": "Constellation uprates 11 reactors. Google takes 5 plants, Amazon takes Maryland, Meta takes Clinton's full output. Federal energy loans as AI infrastructure routing.",
+      "stat": "$5B loan, 1.1GW capacity"
+    },
+    {
+      "slug": "accenture-dod",
+      "headline": "Accenture's personal Claude agent ran on DOD network for 2 months",
+      "card_text": "A contractor's personal AI agent connected to a secure Pentagon system and ran for roughly two months before detection. Data appears to have reached a third-party site.",
+      "stat": "2 months, undetected"
+    },
+    {
+      "slug": "china-export-controls",
+      "headline": "China sets frontier AI export threshold at 10^26 FLOPs",
+      "card_text": "Draft regulation gates technology transfer at 10^26 FLOPs training compute, 2T parameters, or top-10 benchmark performance. Cloud API access permitted. Tech transfer: restricted.",
+      "stat": "10^26 FLOPs threshold"
+    },
+    {
+      "slug": "cs-enrollment",
+      "headline": "CS enrollment down 12% this year, 18% over two years",
+      "card_text": "National Student Clearinghouse: CS down 12.4% at 4-year schools, 12.3% at 2-year colleges, 10.4% at grad level. Overall undergrad enrollment grew 0.6%. The market moved before policy.",
+      "stat": "-18.4% undergrad, -27.1% grad"
+    }
+  ],
+  "still_signal": "Every institution that touched AI this week was running on assumptions about control that capability had already outpaced. The authorization gap is not a patch. It is the condition that has to be designed around.",
+  "x_card_numbers": [
+    0,
+    3,
+    7
+  ],
+  "date": "2026-10-30"
+}
