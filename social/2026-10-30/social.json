@@ -4,58 +4,67 @@
   "dek": "Five AI coding tools with the same trust-boundary flaw. A contractor's Claude agent on the Pentagon network for two months. Canada's $1.14B equity stake in Cohere. China sets frontier export thresholds at 10^26 FLOPs. CS enrollment down 18% in two years.",
   "stories": [
     {
-      "slug": "embrace",
-      "headline": "5 AI coding tools share a trust-boundary flaw",
-      "card_text": "EMBRACE attack hits Cursor, Copilot, Codex, VS Code, and Claude Desktop: all through their built-in browsers. Same mistake, 5 independent dev teams.",
-      "stat": "5 tools, 1 attack class"
+      "section": "AI Models & Research",
+      "short": "EMBRACE: 5 coding tools, 1 attack class",
+      "number": "5",
+      "label": "AI coding tools with the same trust-boundary flaw",
+      "headline": "Five separate dev teams independently built the same architectural mistake."
     },
     {
-      "slug": "mistral-large-4",
-      "headline": "Mistral's trillion-parameter 'Le Chonk' ships open-weight",
-      "card_text": "Large 4 leads FrontierCode at 19.7%, tops Terminal-Bench at 41%, priced at $0.70 input per million tokens. Near-MIT license, weights on Hugging Face.",
-      "stat": "1T params, $0.70/M tokens"
+      "section": "AI Models & Research",
+      "short": "Mistral Large 4: 1T params, open-weight",
+      "number": "$0.70",
+      "label": "input per million tokens, 47% the cost of closed frontier",
+      "headline": "A trillion-parameter MoE at 47% the token cost of closed frontier models."
     },
     {
-      "slug": "claude-exploits",
-      "headline": "Unreleased Claude built working exploits for 5 OSes",
-      "card_text": "Anthropic's Frontier Red Team: an unreleased model chained zero-days into working exploits for Linux, Chrome, Safari, Pixel 9, and Windows. All patched before disclosure.",
-      "stat": "5 OSes, 1 model"
+      "section": "AI Models & Research",
+      "short": "Claude red team: 5-OS exploit chains",
+      "number": "5",
+      "label": "operating systems, 1 unreleased model",
+      "headline": "A model capable of building working exploits for five OSes, one deployment decision away."
     },
     {
-      "slug": "canada-cohere",
-      "headline": "Canada invests $1.14B equity in Cohere at $35.7B valuation",
-      "card_text": "First G7 government to take an equity stake in a frontier AI lab. Conditions: 1,000 Canadian tech jobs by 2030, $1.7B in Canadian compute. PM Carney: 'We are not waiting.'",
-      "stat": "$35.7B valuation, 1K jobs required"
+      "section": "Enterprise & Competition",
+      "short": "Canada: $1.14B equity in Cohere",
+      "number": "$35.7B",
+      "label": "valuation, largest Canadian startup financing ever",
+      "headline": "The first G7 government to buy equity in a frontier AI lab, with job and compute conditions attached."
     },
     {
-      "slug": "spacex-anthropic",
-      "headline": "SpaceX: Anthropic is 34.5% of Q3 revenue",
-      "card_text": "Anthropic is 'Customer B' in SpaceX's filing: largest customer, ahead of the US government. A finite deal. Two companies whose balance sheets are now structurally linked.",
-      "stat": "34.5% of SpaceX Q3 revenue"
+      "section": "Enterprise & Competition",
+      "short": "SpaceX: Anthropic is 34.5% of Q3 revenue",
+      "number": "34.5%",
+      "label": "of SpaceX Q3 revenue from one AI training contract",
+      "headline": "Anthropic is the launch company's largest customer. The contract is finite."
     },
     {
-      "slug": "nuclear-doe",
-      "headline": "DOE lends $5B for 1.1GW nuclear pre-sold to hyperscalers",
-      "card_text": "Constellation uprates 11 reactors. Google takes 5 plants, Amazon takes Maryland, Meta takes Clinton's full output. Federal energy loans as AI infrastructure routing.",
-      "stat": "$5B loan, 1.1GW capacity"
+      "section": "Infrastructure & Hardware",
+      "short": "DOE: $5B nuclear loan, pre-sold to hyperscalers",
+      "number": "$5B",
+      "label": "federal loan for 1.1GW already contracted to Google, Amazon, Meta",
+      "headline": "Federal energy loans are routing stable baseload power to hyperscaler data centers."
     },
     {
-      "slug": "accenture-dod",
-      "headline": "Accenture's personal Claude agent ran on DOD network for 2 months",
-      "card_text": "A contractor's personal AI agent connected to a secure Pentagon system and ran for roughly two months before detection. Data appears to have reached a third-party site.",
-      "stat": "2 months, undetected"
+      "section": "Policy, Economy & Society",
+      "short": "Accenture agent on DOD network: 2 months",
+      "number": "2",
+      "label": "months undetected on a secure Pentagon network",
+      "headline": "The monitoring systems that would catch this were not designed to look for it."
     },
     {
-      "slug": "china-export-controls",
-      "headline": "China sets frontier AI export threshold at 10^26 FLOPs",
-      "card_text": "Draft regulation gates technology transfer at 10^26 FLOPs training compute, 2T parameters, or top-10 benchmark performance. Cloud API access permitted. Tech transfer: restricted.",
-      "stat": "10^26 FLOPs threshold"
+      "section": "Policy, Economy & Society",
+      "short": "China: frontier AI export threshold at 10^26 FLOPs",
+      "number": "10^26",
+      "label": "FLOPs training compute triggers export restriction",
+      "headline": "China drew the line just above where its current open models land."
     },
     {
-      "slug": "cs-enrollment",
-      "headline": "CS enrollment down 12% this year, 18% over two years",
-      "card_text": "National Student Clearinghouse: CS down 12.4% at 4-year schools, 12.3% at 2-year colleges, 10.4% at grad level. Overall undergrad enrollment grew 0.6%. The market moved before policy.",
-      "stat": "-18.4% undergrad, -27.1% grad"
+      "section": "Policy, Economy & Society",
+      "short": "CS enrollment down 18% in two years",
+      "number": "-27.1%",
+      "label": "graduate CS enrollment over two years",
+      "headline": "The labor-market repricing arrived two to three years ahead of the policy response."
     }
   ],
   "still_signal": "Every institution that touched AI this week was running on assumptions about control that capability had already outpaced. The authorization gap is not a patch. It is the condition that has to be designed around.",
