@@ -1,7 +1,7 @@
 {
   "issue": 191,
   "title": "The Authorization *Gap*",
-  "dek": "Five AI coding tools with the same trust-boundary flaw. A contractor's Claude agent on the Pentagon network for two months. Canada's $1.14B equity stake in Cohere. China sets frontier export thresholds at 10^26 FLOPs. CS enrollment down 18% in two years.",
+  "dek": "Five AI coding tools, one trust-boundary flaw. Canada's $1.14B equity stake in Cohere. The DOD contractor's agent that ran undetected for two months.",
   "stories": [
     {
       "section": "AI Models & Research",
