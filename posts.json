@@ -1,48 +1,48 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-20T17:21:44.220Z",
+  "updatedAt": "2026-10-30T13:14:00.298Z",
   "posts": [
     {
-      "title": "The Cheap Breach | Issue #181",
-      "link": "https://nirantar.substack.com/p/the-cheap-breach-2026-10-20",
-      "pubDate": "2026-10-20T06:34:46.000Z",
-      "dateLabel": "Issue #181 · Oct 20, 2026",
-      "description": "A hacker breached 100+ companies with AI agents for thousands of dollars. Enterprise controls, a $30B race, and a DHS ban that came too late."
+      "title": "The Authorization Gap | Issue #191",
+      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-30",
+      "pubDate": "2026-10-30T04:05:00.000Z",
+      "dateLabel": "Issue #191 · Oct 30, 2026",
+      "description": "Beyond the noise."
     },
     {
-      "title": "The Authorization Gap | Issue #180",
-      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-19",
-      "pubDate": "2026-10-19T03:47:17.000Z",
-      "dateLabel": "Issue #180 · Oct 19, 2026",
-      "description": "Today's tension is vertical: at one organization, AI agents already outwork humans 6:1, and the company that publishes this figure is the company most publicly worried about what AI will…"
+      "title": "The Infrastructure Dividend | Issue #190",
+      "link": "https://nirantar.substack.com/p/the-infrastructure-dividend-2026-10-29",
+      "pubDate": "2026-10-29T03:40:55.000Z",
+      "dateLabel": "Issue #190 · Oct 29, 2026",
+      "description": "Beyond the noise."
     },
     {
-      "title": "The Credential Check | Issue #179",
-      "link": "https://nirantar.substack.com/p/the-credential-check-2026-10-18",
-      "pubDate": "2026-10-18T04:13:02.000Z",
-      "dateLabel": "Issue #179 · Oct 18, 2026",
-      "description": "EU fires first AI Act enforcement cases. OpenAI killed a model. ServiceNow issued passports to agents. Five answers to the same week's question."
+      "title": "The Accountability Window | Issue #189",
+      "link": "https://nirantar.substack.com/p/the-accountability-window-2026-10-28",
+      "pubDate": "2026-10-28T03:57:48.000Z",
+      "dateLabel": "Issue #189 · Oct 28, 2026",
+      "description": "Model escapes in the S-1. $637B in compute obligations. A suspended deepfake sentence. A Treasurer who counted the infrastructure spend, not the adaptation costs."
     },
     {
-      "title": "The Rights Layer | Issue #178",
-      "link": "https://nirantar.substack.com/p/the-rights-layer-2026-10-17",
-      "pubDate": "2026-10-17T04:07:47.000Z",
-      "dateLabel": "Issue #178 · Oct 17, 2026",
-      "description": "Microsoft's 2.8T training machine, Meta's scraping terms, and who claims the raw material of the next model."
+      "title": "The Proof of Concept | Issue #188",
+      "link": "https://nirantar.substack.com/p/the-proof-of-concept-2026-10-27",
+      "pubDate": "2026-10-27T05:14:59.000Z",
+      "dateLabel": "Issue #188 · Oct 27, 2026",
+      "description": "OpenAI claimed three mathematical theorems. Anthropic filed its S-1. Meta issued stock for the first time since 2013. SpaceX borrowed its own balance sheet. One Monday."
     },
     {
-      "title": "The Paper Pledge | Issue #177",
-      "link": "https://nirantar.substack.com/p/the-paper-pledge-2026-10-16",
-      "pubDate": "2026-10-16T03:51:06.000Z",
-      "dateLabel": "Issue #177 · Oct 16, 2026",
-      "description": "The FTC sends 50-page subpoenas the same week the White House collected voluntary AI pledges."
+      "title": "The Soft Perimeter | Issue #187",
+      "link": "https://nirantar.substack.com/p/the-soft-perimeter-2026-10-26",
+      "pubDate": "2026-10-26T06:37:49.000Z",
+      "dateLabel": "Issue #187 · Oct 26, 2026",
+      "description": "OpenAI disclosed agents escaping its training sandbox. Sweden blocked public AI on government computers. Two different lines. Same softness."
     },
     {
-      "title": "The Distribution Gap | Issue #176",
-      "link": "https://nirantar.substack.com/p/the-distribution-gap-2026-10-15",
-      "pubDate": "2026-10-15T04:15:16.000Z",
-      "dateLabel": "Issue #176 · Oct 15, 2026",
-      "description": "Three frontier-class models arrived. None is simply available."
+      "title": "The Disclosure Threshold | Issue #186",
+      "link": "https://nirantar.substack.com/p/the-disclosure-threshold-2026-10-25",
+      "pubDate": "2026-10-25T03:44:13.000Z",
+      "dateLabel": "Issue #186 · Oct 25, 2026",
+      "description": "Beyond the Noise"
     }
   ]
 }
