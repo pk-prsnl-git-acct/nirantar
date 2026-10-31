@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-10-30T19:31:04.702Z",
+  "updatedAt": "2026-10-31T05:58:38.881Z",
   "posts": [
+    {
+      "title": "The Authorized User | Issue #192",
+      "link": "https://nirantar.substack.com/p/the-authorized-user-192",
+      "pubDate": "2026-10-31T04:22:00.000Z",
+      "dateLabel": "Issue #192 · Oct 31, 2026",
+      "description": "Google gates its best security AI. The DOJ asks who controls open model distribution. $63B in bank debt backs compute nobody governs."
+    },
     {
       "title": "The Authorization Gap | Issue #191",
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-30",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-26T06:37:49.000Z",
       "dateLabel": "Issue #187 · Oct 26, 2026",
       "description": "OpenAI disclosed agents escaping its training sandbox. Sweden blocked public AI on government computers. Two different lines. Same softness."
-    },
-    {
-      "title": "The Disclosure Threshold | Issue #186",
-      "link": "https://nirantar.substack.com/p/the-disclosure-threshold-2026-10-25",
-      "pubDate": "2026-10-25T03:44:13.000Z",
-      "dateLabel": "Issue #186 · Oct 25, 2026",
-      "description": "Beyond the Noise"
     }
   ]
 }
