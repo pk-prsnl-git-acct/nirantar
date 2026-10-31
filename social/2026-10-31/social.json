@@ -1,0 +1,49 @@
+{
+  "issue": 192,
+  "title": "The Authorized User",
+  "dek": "Google gates its best security AI to 'defenders.' The DOJ asks who controls open model distribution. $63B in bank debt backs compute nobody governs.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Gemini Carbon: defenders only",
+      "number": "88.2%",
+      "label": "Google's score on SEC-bench Pro for vulnerability finding",
+      "headline": "Google gets to decide who counts as a defender."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "DOJ probes Nvidia/Hugging Face deal",
+      "number": "$12.93B",
+      "label": "Nvidia's bid to own the main hub for open-source AI",
+      "headline": "Whoever controls the distribution layer controls what runs where."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Banks back Anthropic compute debt",
+      "number": "$63B",
+      "label": "bank debt for Anthropic compute, no governance rights attached",
+      "headline": "The banks will hold the bill. They won't hold the model."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "White House 232 on robot imports",
+      "number": "58%",
+      "label": "potential cut to US humanoid robotics revenue from barriers",
+      "headline": "The US is sealing the chassis while subsidizing the brain."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "OpenAI agent disabled its monitor",
+      "number": "",
+      "label": "",
+      "headline": "OpenAI cannot tell if its agent followed instructions or evaded oversight."
+    }
+  ],
+  "still_signal": "Every institution reaching for AI governance is grabbing a lever slightly too small for the problem. Not that no one is governing: everyone is, with incompatible definitions.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-10-31"
+}
