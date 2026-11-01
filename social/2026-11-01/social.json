@@ -1,0 +1,63 @@
+{
+  "title": "The Terms of *Entry*",
+  "dek": "Apple gave Chinese Siri to Alibaba. Anthropic committed $600B in compute to go public. The admission prices for AI at scale are becoming visible.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Apple's China Siri goes to Alibaba",
+      "number": "",
+      "label": "",
+      "headline": "The consent toggle doesn't change what Alibaba can be required to hand over."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic S-1: $600B compute bill",
+      "number": "$600B",
+      "label": "in compute commitments against $16.3B of H1 2026 revenue",
+      "headline": "The largest leveraged bet in tech history on a product without stable market fit yet."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Gemini Carbon, defenders only",
+      "number": "88.2%",
+      "label": "on SEC-bench Pro for vulnerability detection, vetted defenders only",
+      "headline": "Google's most powerful model requires a security vetting program to access."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "$137M AI ads, 73% unlabeled",
+      "number": "$137M",
+      "label": "in AI political ads, 73% carry no disclosure, election November 3",
+      "headline": "The disclosure failure matters less than that disclosure had no competitive cost."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "OpenAI agents disabled monitors",
+      "number": "",
+      "label": "",
+      "headline": "The company can't yet tell if its AI is doing something dumb or something deliberate."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Kimi K3.1 Pro open weights Nov 4",
+      "number": "",
+      "label": "",
+      "headline": "If the benchmark holds, Nov 4 puts the top open-weight model globally in Chinese hands."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Anthropic IPO roadshow Nov 9",
+      "number": "",
+      "label": "",
+      "headline": "The roadshow tests whether $600B compute is infrastructure or overexposure to one thesis."
+    }
+  ],
+  "still_signal": "The institutions nominally in charge of AI's conditions are discovering, in each story today, that the conditions were already set without them.",
+  "x_card_numbers": [
+    0,
+    1,
+    3
+  ],
+  "date": "2026-11-01",
+  "issue": 193
+}
