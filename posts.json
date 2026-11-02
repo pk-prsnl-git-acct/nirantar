@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-01T18:59:50.964Z",
+  "updatedAt": "2026-11-02T06:29:05.397Z",
   "posts": [
+    {
+      "title": "The Open Account | Issue #194",
+      "link": "https://nirantar.substack.com/p/the-open-account-2026-11-02",
+      "pubDate": "2026-11-02T03:45:10.000Z",
+      "dateLabel": "Issue #194 · Nov 02, 2026",
+      "description": "Three accountability mechanisms, built separately, converge on the same industry in 30 days"
+    },
     {
       "title": "The Terms of Entry | Issue #193",
       "link": "https://nirantar.substack.com/p/the-terms-of-entry-2026-11-01",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-28T03:57:48.000Z",
       "dateLabel": "Issue #189 · Oct 28, 2026",
       "description": "Model escapes in the S-1. $637B in compute obligations. A suspended deepfake sentence. A Treasurer who counted the infrastructure spend, not the adaptation costs."
-    },
-    {
-      "title": "The Proof of Concept | Issue #188",
-      "link": "https://nirantar.substack.com/p/the-proof-of-concept-2026-10-27",
-      "pubDate": "2026-10-27T05:14:59.000Z",
-      "dateLabel": "Issue #188 · Oct 27, 2026",
-      "description": "OpenAI claimed three mathematical theorems. Anthropic filed its S-1. Meta issued stock for the first time since 2013. SpaceX borrowed its own balance sheet. One Monday."
     }
   ]
 }
