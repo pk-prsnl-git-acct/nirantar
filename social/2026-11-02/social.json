@@ -1,0 +1,84 @@
+{
+  "title": "The Open *Account*",
+  "dek": "Anthropic's S-1 is public. New York opens frontier AI registration. Three accountability mechanisms converge in 30 days.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic S-1: $16.3B H1 revenue",
+      "number": "$16.3B",
+      "label": "Anthropic H1 2026 revenue, up from $1.16B a year earlier",
+      "headline": "Public markets will price AI without the cover of private valuation rounds."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI trims $30B raise to $20B",
+      "number": "$20B",
+      "label": "OpenAI's revised fundraising target, down from $30 billion",
+      "headline": "OpenAI revised its ask before Anthropic's IPO sets a public benchmark."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6 Rosalind: locked access",
+      "number": "",
+      "label": "",
+      "headline": "Scientific AI is being governed by vendor access policies, not institutions."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "NY RAISE Act registration opens",
+      "number": "72 hours",
+      "label": "required safety incident reporting window, NY RAISE Act, from January 2027",
+      "headline": "The first US state frontier AI registration regime is live this month."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Aramco closes 49% stake in HUMAIN",
+      "number": "$2.6B",
+      "label": "Saudi Aramco's payment for 49% stake in national AI firm HUMAIN",
+      "headline": "Gulf sovereign capital is formalizing AI as national infrastructure."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "India TRAI drafts AI rules",
+      "number": "",
+      "label": "",
+      "headline": "A third mandatory AI incident reporting regime is now in draft."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Meta builds humanoid in 3 months",
+      "number": "3 months",
+      "label": "time Meta and Fourier took to build the Max humanoid prototype",
+      "headline": "Humanoid robot development has compressed to a rapid-prototyping timeline."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Ant Group: 160K hours robot data",
+      "number": "160,000",
+      "label": "hours of robot movement data used to train Robbyant's embodied AI models",
+      "headline": "China is betting on physical training data volume over language-model fine-tuning."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Anthropic roadshow expected soon",
+      "number": "",
+      "label": "",
+      "headline": "The S-1 is filed; the roadshow questions will be harder to frame."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "xAI Grok watermarks text Nov 7",
+      "number": "",
+      "label": "",
+      "headline": "xAI's text watermarking tests whether EU AI Act compliance actually converges."
+    }
+  ],
+  "still_signal": "Today's commitments, financial, regulatory, strategic, technical, share one property: none reads against the others. Accountability is arriving faster on the build side than on the governance side.",
+  "x_card_numbers": [
+    0,
+    3,
+    6
+  ],
+  "date": "2026-11-02",
+  "issue": 194
+}
