@@ -1,0 +1,63 @@
+{
+  "title": "The *Local* Veto",
+  "dek": "Voters in 10 states decide on 34 data center projects today. OpenAI won't say how many tokens you're buying. The build-out is ahead of the permit.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "34 data center votes today",
+      "number": "34",
+      "label": "local ballot measures on data center restrictions in 10 states",
+      "headline": "Every measure decided in 2026 limited development. Tonight changes the baseline."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "UK Budget: AI Biosecurity Lab",
+      "number": "",
+      "label": "",
+      "headline": "First government to budget AI Biosecurity as its own institutional category."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI pools ChatGPT and Codex",
+      "number": "",
+      "label": "",
+      "headline": "Pool size unpublished. Subscribers cannot verify the claim most won't be affected."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "28 zero-days in physical AI",
+      "number": "28",
+      "label": "zero-day vulnerabilities in physical AI systems found in under 48 hours",
+      "headline": "AI-assisted security research has matched the speed of AI deployment."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Sail Research raises $80M",
+      "number": "$80M",
+      "label": "raised for inference infrastructure for hours-long AI agent sessions",
+      "headline": "The bottleneck in agentic AI shifts from latency to endurance."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Walmart's $6B robotics expansion",
+      "number": "$6B",
+      "label": "Walmart-Symbotic commitment across 25 US distribution centers",
+      "headline": "No labor displacement figure in the announcement. The arithmetic is not what it is about."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "China's $13.8B humanoid push",
+      "number": "$13.8B",
+      "label": "Xpeng CEO's humanoid robotics commitment",
+      "headline": "Two-thirds of global humanoid VC went to China in H1 2026. The body is the asset."
+    }
+  ],
+  "still_signal": "At every layer today, a decision about AI's physical footprint was made before affected parties had a voice. Ballot measures are the exception. Everywhere else, someone set the terms first.",
+  "x_card_numbers": [
+    0,
+    3,
+    6
+  ],
+  "date": "2026-11-03",
+  "issue": 195
+}
