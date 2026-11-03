@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-02T23:37:45.587Z",
+  "updatedAt": "2026-11-03T07:01:14.042Z",
   "posts": [
+    {
+      "title": "The Local Veto | Issue #195",
+      "link": "https://nirantar.substack.com/p/the-local-veto-2026-11-03",
+      "pubDate": "2026-11-03T05:20:46.000Z",
+      "dateLabel": "Issue #195 · Nov 03, 2026",
+      "description": "Today is an election day for AI infrastructure: roughly 34 ballot measures in 10 states, concentrated in Ohio, ask voters whether data centers can be built near them."
+    },
     {
       "title": "The Open Account | Issue #194",
       "link": "https://nirantar.substack.com/p/the-open-account-2026-11-02",
@@ -36,13 +43,6 @@
       "pubDate": "2026-10-29T03:40:55.000Z",
       "dateLabel": "Issue #190 · Oct 29, 2026",
       "description": "Beyond the noise."
-    },
-    {
-      "title": "The Accountability Window | Issue #189",
-      "link": "https://nirantar.substack.com/p/the-accountability-window-2026-10-28",
-      "pubDate": "2026-10-28T03:57:48.000Z",
-      "dateLabel": "Issue #189 · Oct 28, 2026",
-      "description": "Model escapes in the S-1. $637B in compute obligations. A suspended deepfake sentence. A Treasurer who counted the infrastructure spend, not the adaptation costs."
     }
   ]
 }
