@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-03T21:51:50.669Z",
+  "updatedAt": "2026-11-04T06:43:30.801Z",
   "posts": [
+    {
+      "title": "The Sovereign Stack | Issue #196",
+      "link": "https://nirantar.substack.com/p/the-sovereign-stack-2026-11-04",
+      "pubDate": "2026-11-04T03:41:32.000Z",
+      "dateLabel": "Issue #196 · Nov 04, 2026",
+      "description": "OpenAI writes Abu Dhabi's permit rules. Cohere raises $5B for governments that want someone else. DeepSeek orders 160,000 chips with no Nvidia in sight."
+    },
     {
       "title": "The Local Veto | Issue #195",
       "link": "https://nirantar.substack.com/p/the-local-veto-2026-11-03",
@@ -35,13 +42,6 @@
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-30",
       "pubDate": "2026-10-30T04:05:00.000Z",
       "dateLabel": "Issue #191 · Oct 30, 2026",
-      "description": "Beyond the noise."
-    },
-    {
-      "title": "The Infrastructure Dividend | Issue #190",
-      "link": "https://nirantar.substack.com/p/the-infrastructure-dividend-2026-10-29",
-      "pubDate": "2026-10-29T03:40:55.000Z",
-      "dateLabel": "Issue #190 · Oct 29, 2026",
       "description": "Beyond the noise."
     }
   ]
