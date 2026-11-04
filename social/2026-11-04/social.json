@@ -1,0 +1,63 @@
+{
+  "title": "The Sovereign *Stack*",
+  "dek": "OpenAI writes Abu Dhabi's permit rules. Cohere raised $5B to serve governments wanting someone else. DeepSeek orders 160K chips with no Nvidia. Three stacks. One race.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "OpenAI writes Abu Dhabi's rules",
+      "number": "4",
+      "label": "agreements with ADNOC, Mubadala, G42, and UAE government",
+      "headline": "The company seeking $30B is also writing how governments use AI."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "China NDRC expands AI Plus",
+      "number": "",
+      "label": "",
+      "headline": "China's AI policy builds domestic demand at a scale that doesn't need exports."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Cohere raises $5B from Nvidia",
+      "number": "$5B",
+      "label": "Series E for sovereign AI infrastructure, led by Nvidia and Prosperity7",
+      "headline": "Enterprise AI is bifurcating. Cohere raised $5B to serve the non-US-platform side."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Apple opens Siri to developers",
+      "number": "",
+      "label": "",
+      "headline": "Apple's AI play is owning the interaction layer. App Intents make that layer programmable."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "DeepSeek orders 160K Huawei chips",
+      "number": "160K",
+      "label": "Huawei Ascend 950DT chips, absorbing most of China's 2026 output of its best chip",
+      "headline": "If V5 trains on domestic silicon, the last argument that Chinese AI needs US hardware fails."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Oracle's $50B AI capital raise",
+      "number": "50%",
+      "label": "drop in Oracle stock from its peak as the AI capital raise continued",
+      "headline": "AI infrastructure financed by companies whose investors have already seen the downside."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "GDPval: AI matches experts 48%",
+      "number": "47.6%",
+      "label": "of frontier model deliverables rated as good as or better than human expert work",
+      "headline": "Frontier models approach expert quality half the time. The other half is where complexity lives."
+    }
+  ],
+  "still_signal": "The infrastructure layer is being divided into three sovereign stacks before anyone has resolved what to do with the 52 percent of professional tasks frontier models still can't match.",
+  "x_card_numbers": [
+    4,
+    2,
+    6
+  ],
+  "date": "2026-11-04",
+  "issue": 196
+}
