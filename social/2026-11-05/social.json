@@ -1,0 +1,63 @@
+{
+  "title": "The *Forced* Hand",
+  "dek": "Google withheld Search to force AI on schools. Anthropic opens a roadshow on $895B in compute bets. Who holds leverage; who absorbs the cost.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Google held Search hostage",
+      "number": "",
+      "label": "",
+      "headline": "Schools that reject AI lose Search. Google walked it back. The underlying terms are still Google's."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Apple warns agents may overstep",
+      "number": "",
+      "label": "",
+      "headline": "Apple's 10-K: agents may access systems they're not permitted to, hard or impossible to stop."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic roadshow: Nov 9",
+      "number": "$895B",
+      "label": "in compute commitments vs. $16.96B Q3 revenue; $23.29B Q3 net loss",
+      "headline": "Public investors must price past a $23B quarterly loss and $895B compute bet before Thanksgiving."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Meta's second $25B bond sale",
+      "number": "",
+      "label": "",
+      "headline": "An S&P negative outlook couldn't stop Meta's second $25B debt deal. The market bets on the future."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SpaceX chip debt hits bond market",
+      "number": "$47.3B",
+      "label": "in Vera Rubin GPU equipment, securitized by Goldman and Apollo",
+      "headline": "Bond markets now price Nvidia's delivery schedule. A Vera Rubin slip in H1 2027 is a credit event."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Isomorphic Labs: $5B at $50B",
+      "number": "3x",
+      "label": "valuation increase in months, no intervening clinical results",
+      "headline": "Drug discovery AI is priced on capability, not on what it has yet managed to cure."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "US robotics: 232 ends in talks",
+      "number": "180",
+      "label": "days for trade negotiations on robotics import national security risk",
+      "headline": "Commerce acknowledged the dependency; the response defers the cost to 180 days of trade talks."
+    }
+  ],
+  "still_signal": "Each party today routes the cost of AI adoption to a counterparty with less leverage. The assumption: the counterparty bears the cost of being wrong before anyone reconciles the exposure.",
+  "x_card_numbers": [
+    2,
+    4,
+    5
+  ],
+  "date": "2026-11-05",
+  "issue": 197
+}
