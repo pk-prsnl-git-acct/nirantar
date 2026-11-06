@@ -1,0 +1,63 @@
+{
+  "title": "The *Mandate*",
+  "dek": "Democrats took Congress and $3 trillion in AI stocks vanished before a single bill was filed. The regulation moment labs managed around just became electoral mandate.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Dem sweep: mandate, no law yet",
+      "number": "",
+      "label": "",
+      "headline": "The mandate exists. The bill does not. That gap is where the next 60 days live."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Freshman rep calls to ban ASI",
+      "number": "",
+      "label": "",
+      "headline": "The ban-ASI position moved from fringe advocacy to freshman caucus in one election cycle."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "HK: 60,000 AI-vision cameras",
+      "number": "60,000",
+      "label": "Hong Kong cameras to carry AI facial recognition by 2028",
+      "headline": "Hong Kong is building the proof of concept that the oversight debates elsewhere are optional."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Data centers now political assets",
+      "number": "9%",
+      "label": "Nvidia fell as data center permitting became a political risk",
+      "headline": "Nvidia down 9%. Hyperscalers up. The market priced data center risk, not AI risk."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Meta buys Conductor",
+      "number": "",
+      "label": "",
+      "headline": "Meta bought the multi-agent coordination layer before the market agreed it needed one."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic watermarks older Claude",
+      "number": "",
+      "label": "",
+      "headline": "The transmit side of AI accountability is built. The receive side is not yet public."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Kimi K3.1 Pro: 2.8T weights open",
+      "number": "1.56TB",
+      "label": "of VRAM needed to run Kimi K3.1 Pro locally",
+      "headline": "Frontier capability is a two-week lag from proprietary to accessible enterprise use."
+    }
+  ],
+  "still_signal": "An election, a $3T selloff, an acquisition, an open-weight release, and a police deployment arrived in 48 hours from rooms that don't communicate. That is the authorization gap.",
+  "x_card_numbers": [
+    2,
+    3,
+    6
+  ],
+  "date": "2026-11-06",
+  "issue": 198
+}
