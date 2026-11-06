@@ -1,7 +1,21 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-06T07:03:19.961Z",
+  "updatedAt": "2026-11-06T16:01:24.206Z",
   "posts": [
+    {
+      "title": "The Mandate | Issue #198",
+      "link": "https://nirantar.substack.com/p/the-mandate-2026-11-06",
+      "pubDate": "2026-11-06T03:49:23.000Z",
+      "dateLabel": "Issue #198 · Nov 06, 2026",
+      "description": "Democrats took Congress. The AI industry took a $3 trillion haircut."
+    },
+    {
+      "title": "The Forced Hand | Issue #197",
+      "link": "https://nirantar.substack.com/p/the-forced-hand-2026-11-05",
+      "pubDate": "2026-11-05T03:42:27.000Z",
+      "dateLabel": "Issue #197 · Nov 05, 2026",
+      "description": "Google withheld Search from schools that refused AI. Anthropic opens its roadshow on a $895B compute bet. The structure behind today's moves is the same everywhere: leverage, and who…"
+    },
     {
       "title": "The Sovereign Stack | Issue #196",
       "link": "https://nirantar.substack.com/p/the-sovereign-stack-2026-11-04",
@@ -29,20 +43,6 @@
       "pubDate": "2026-11-01T03:42:55.000Z",
       "dateLabel": "Issue #193 · Nov 01, 2026",
       "description": "Apple spent a decade building privacy into a competitive advantage and, on October 31, announced that Chinese iPhone users will route their AI requests through Alibaba."
-    },
-    {
-      "title": "The Authorized User | Issue #192",
-      "link": "https://nirantar.substack.com/p/the-authorized-user-192",
-      "pubDate": "2026-10-31T04:22:00.000Z",
-      "dateLabel": "Issue #192 · Oct 31, 2026",
-      "description": "Google gates its best security AI. The DOJ asks who controls open model distribution. $63B in bank debt backs compute nobody governs."
-    },
-    {
-      "title": "The Authorization Gap | Issue #191",
-      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-10-30",
-      "pubDate": "2026-10-30T04:05:00.000Z",
-      "dateLabel": "Issue #191 · Oct 30, 2026",
-      "description": "Beyond the noise."
     }
   ]
 }
