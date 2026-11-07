@@ -1,0 +1,63 @@
+{
+  "title": "The Confidence *Interval*",
+  "dek": "AI's price, geography, and legal categories all tried to hold firm this week. None of them did.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Investors cut Anthropic IPO target",
+      "number": "5.1%",
+      "label": "Nasdaq fell Nov 5, worst single-day drop in 19 months",
+      "headline": "The valuation premise is under test; that's different from the company being under test."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Google's invisible co-signer",
+      "number": "",
+      "label": "",
+      "headline": "The company going public uses its largest competitor's balance sheet as a floor."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Moonshot routes chips via Europe",
+      "number": "51%",
+      "label": "non-Chinese customer floor Nvidia requires of cloud providers",
+      "headline": "Export controls restrict chip sales; Moonshot just showed access can be rented around ownership."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "DeepSeek picks the efficiency race",
+      "number": "",
+      "label": "",
+      "headline": "The company that closes the gap between capability and efficiency wins the enterprise layer."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "The $30-an-hour apartment robot",
+      "number": "$30",
+      "label": "per hour for Tau Robotics' human-guided humanoid cleaning service",
+      "headline": "The showcase is Western. The scale is not. 95% of H1 humanoid shipments came from China."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Xinhua's bionic news anchors",
+      "number": "",
+      "label": "",
+      "headline": "State AI content and humanoid robotics converge on one surface: a face that broadcasts."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "DOJ task force, no defined crime",
+      "number": "",
+      "label": "",
+      "headline": "The enforcement mandate exists. The defined offense does not. That is the gap to watch."
+    }
+  ],
+  "still_signal": "Three tried to put a boundary on AI this week: a price, a geography, a legal category. All found it more porous than designed. The efficiency race and humanoid shipment data measure the same gap from a different direction.",
+  "x_card_numbers": [
+    0,
+    2,
+    4
+  ],
+  "date": "2026-11-07",
+  "issue": 199
+}
