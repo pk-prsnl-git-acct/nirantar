@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-07T06:15:38.211Z",
+  "updatedAt": "2026-11-07T13:20:19.436Z",
   "posts": [
+    {
+      "title": "The Confidence Interval | Issue #199",
+      "link": "https://nirantar.substack.com/p/the-confidence-interval-2026-11-07",
+      "pubDate": "2026-11-07T03:45:41.000Z",
+      "dateLabel": "Issue #199 · Nov 07, 2026",
+      "description": "AI's price, geography, and legal categories all tried to hold firm this week. None of them did."
+    },
     {
       "title": "The Mandate | Issue #198",
       "link": "https://nirantar.substack.com/p/the-mandate-2026-11-06",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-02T03:45:10.000Z",
       "dateLabel": "Issue #194 · Nov 02, 2026",
       "description": "Three accountability mechanisms, built separately, converge on the same industry in 30 days"
-    },
-    {
-      "title": "The Terms of Entry | Issue #193",
-      "link": "https://nirantar.substack.com/p/the-terms-of-entry-2026-11-01",
-      "pubDate": "2026-11-01T03:42:55.000Z",
-      "dateLabel": "Issue #193 · Nov 01, 2026",
-      "description": "Apple spent a decade building privacy into a competitive advantage and, on October 31, announced that Chinese iPhone users will route their AI requests through Alibaba."
     }
   ]
 }
