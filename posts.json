@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-08T06:21:44.976Z",
+  "updatedAt": "2026-11-08T13:40:25.776Z",
   "posts": [
+    {
+      "title": "The Ninety Percent | Issue #200",
+      "link": "https://nirantar.substack.com/p/the-ninety-percent-2026-11-08",
+      "pubDate": "2026-11-08T03:39:59.000Z",
+      "dateLabel": "Issue #200 · Nov 08, 2026",
+      "description": "Anthropic's S-1 discloses Claude writes 90% of its own codebase. The roadshow starts this week."
+    },
     {
       "title": "The Confidence Interval | Issue #199",
       "link": "https://nirantar.substack.com/p/the-confidence-interval-2026-11-07",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-03T05:20:46.000Z",
       "dateLabel": "Issue #195 · Nov 03, 2026",
       "description": "Today is an election day for AI infrastructure: roughly 34 ballot measures in 10 states, concentrated in Ohio, ask voters whether data centers can be built near them."
-    },
-    {
-      "title": "The Open Account | Issue #194",
-      "link": "https://nirantar.substack.com/p/the-open-account-2026-11-02",
-      "pubDate": "2026-11-02T03:45:10.000Z",
-      "dateLabel": "Issue #194 · Nov 02, 2026",
-      "description": "Three accountability mechanisms, built separately, converge on the same industry in 30 days"
     }
   ]
 }
