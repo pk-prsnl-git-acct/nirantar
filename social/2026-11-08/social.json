@@ -1,0 +1,63 @@
+{
+  "title": "The *Ninety* Percent",
+  "dek": "Anthropic's S-1 reveals Claude now writes 90% of its own codebase. The roadshow starts this week. That is not two separate facts.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Anthropic S-1: Claude writes 90%",
+      "number": "90%",
+      "label": "of Anthropic's codebase written by Claude in Sept 2026",
+      "headline": "The RSI threshold is not theoretical. It is already being measured."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6 Cyber: Critical, restricted",
+      "number": "51%",
+      "label": "relative improvement over prior cybersecurity model on ExploitGym",
+      "headline": "OpenAI self-classifies its own model Critical and restricts it before anyone required them to."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI closes $11B at $1.25T",
+      "number": "$1.25T",
+      "label": "OpenAI first-close valuation, down from $1.5T target",
+      "headline": "Both frontier labs undershot their own initial asks in the same week."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Microsoft exits Oracle AI deal",
+      "number": "$80B",
+      "label": "in outside cloud contracts Microsoft is reassessing",
+      "headline": "A 2023 deal failed its hardware floor in 36 months. That math breaks most infrastructure contracts."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Zipline: $1.5B, Walmart 300 sites",
+      "number": "3x",
+      "label": "Zipline valuation increase in 10 months, from $7.6B to $21.5B",
+      "headline": "From delivering blood in Rwanda to 300 Walmart sites. The unit economics converged."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Democrats win: 6 short of AI bills",
+      "number": "54",
+      "label": "Senate seats Democrats hold, six short of 60 for most AI bills",
+      "headline": "They can summon CEOs in January. That may matter more than the missing six votes."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "DeepMind: 1600x RSA-1024 attack",
+      "number": "1,600x",
+      "label": "improvement in theoretical RSA-1024 signature forgery attack",
+      "headline": "AI-assisted crypto research is narrowing the gap between known weakness and operationalized threat."
+    }
+  ],
+  "still_signal": "IPO windows, vote counts, cloud contracts, drone delivery commitments, encryption timelines: every institution runs on a clock the technology does not share.",
+  "x_card_numbers": [
+    0,
+    2,
+    5
+  ],
+  "date": "2026-11-08",
+  "issue": 200
+}
