@@ -1,0 +1,70 @@
+{
+  "title": "The *Agent* Problem",
+  "dek": "948 kernel root exploits for $1.21M. AI kill switches selling for $495M. And the face of AI chip policy under foreign intelligence investigation.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "948 Linux exploits, $1.21M run",
+      "number": "$1.21M",
+      "label": "cost of a pipeline that produced 948 Linux kernel root exploits",
+      "headline": "AI industrialized vulnerability research. The question is who else is running the pipeline."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "AI agents optimize AI overnight",
+      "number": "3.7x",
+      "label": "throughput gains Together Compiler reports on open models overnight",
+      "headline": "The inference optimization moat that cloud providers built is being automated away."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Marvell buys Lumentum, $115B",
+      "number": "$115B",
+      "label": "Marvell's all-stock acquisition of optical-component maker Lumentum",
+      "headline": "A $115B bet that compute is not the bottleneck, bandwidth is."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "CrowdStrike buys AI kill switch",
+      "number": "$495M",
+      "label": "CrowdStrike's spend on Fiddler AI and Dreadnode for AI agent security",
+      "headline": "AI Kill Switch is a commercial product now. Enterprises deployed agents before they understood them."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Fal reaches $16B valuation",
+      "number": "$16B",
+      "label": "Fal's valuation after doubling in seven months on roughly $800M ARR",
+      "headline": "The inference layer, not the model layer, is where the money is consolidating."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Nvidia CEO under spy probe",
+      "number": "",
+      "label": "",
+      "headline": "Huang lobbied for China chip access while under foreign intelligence scrutiny."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "44 data center bans pass",
+      "number": "44",
+      "label": "local ballot measures restricting data centers passed in the midterms",
+      "headline": "The electorate voted on AI without asking Washington first."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Anthropic IPO vs. class action",
+      "number": "",
+      "label": "",
+      "headline": "At $2T, the gap between AI product claims and reality is a material risk."
+    }
+  ],
+  "still_signal": "The same week 948 root exploits cost $1.21M, 44 data center bans passed, $495M bought AI kill switches, and $115B bet bandwidth beats compute. The environments the industry assumed were stable are not.",
+  "x_card_numbers": [
+    0,
+    2,
+    3
+  ],
+  "date": "2026-11-09",
+  "issue": 201
+}
