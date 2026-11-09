@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-09T06:55:01.816Z",
+  "updatedAt": "2026-11-09T18:56:43.359Z",
   "posts": [
+    {
+      "title": "The Agent Problem | Issue #201",
+      "link": "https://nirantar.substack.com/p/the-agent-problem-2026-11-09",
+      "pubDate": "2026-11-09T03:41:48.000Z",
+      "dateLabel": "Issue #201 · Nov 09, 2026",
+      "description": "The accountability structures the industry expected to form slowly are forming simultaneously."
+    },
     {
       "title": "The Ninety Percent | Issue #200",
       "link": "https://nirantar.substack.com/p/the-ninety-percent-2026-11-08",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-04T03:41:32.000Z",
       "dateLabel": "Issue #196 · Nov 04, 2026",
       "description": "OpenAI writes Abu Dhabi's permit rules. Cohere raises $5B for governments that want someone else. DeepSeek orders 160,000 chips with no Nvidia in sight."
-    },
-    {
-      "title": "The Local Veto | Issue #195",
-      "link": "https://nirantar.substack.com/p/the-local-veto-2026-11-03",
-      "pubDate": "2026-11-03T05:20:46.000Z",
-      "dateLabel": "Issue #195 · Nov 03, 2026",
-      "description": "Today is an election day for AI infrastructure: roughly 34 ballot measures in 10 states, concentrated in Ohio, ask voters whether data centers can be built near them."
     }
   ]
 }
