@@ -1,0 +1,77 @@
+{
+  "title": "The System *Card*",
+  "dek": "Anthropic ships its most dangerous model the week before its IPO. The safety document and the product ship together.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Mythos 5.2 ships before IPO",
+      "number": "20%",
+      "label": "below GPT-6 Astra pricing for Claude Fable 5.2",
+      "headline": "Anthropic calls Mythos 5.2 its most aligned and highest alignment-risk model simultaneously."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Salesforce buys Cresta voice AI",
+      "number": "$2.7B",
+      "label": "reported price for Cresta, unconfirmed by Salesforce",
+      "headline": "Salesforce's 2026 AI M&A bill exceeds $12B. Integration is the unpriced risk."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Apple charges $49.99 for AI",
+      "number": "$49.99",
+      "label": "for Logic Pro AI usage pack of unspecified size",
+      "headline": "Apple's first paid AI tier charges for an unspecified quantity of capability."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "India NSE adds AI queries",
+      "number": "90M",
+      "label": "investors on NSE now query disclosures in plain language via AI",
+      "headline": "When retail and institutional investors no longer read the same documents, something changes."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Korea gets NVIDIA NVLink node",
+      "number": "",
+      "label": "",
+      "headline": "Korea checks the domestic silicon box. NVIDIA keeps the architecture advantage."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "NVIDIA GR00T 2 at CoRL",
+      "number": "40%",
+      "label": "zero-shot success on novel tasks from 402,730 hours of human video",
+      "headline": "If this holds as tasks widen, robot deployment stops being a data-collection problem."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "AI governance gap at IPO",
+      "number": "",
+      "label": "",
+      "headline": "The system card is optional and unaudited. It is also the entire accountability layer."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Microsoft Ignite Nov 17",
+      "number": "",
+      "label": "",
+      "headline": "Ignite opens the week Anthropic may price its IPO. Azure AI and Copilot updates expected."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "AWS re:Invent Nov 30",
+      "number": "",
+      "label": "",
+      "headline": "re:Invent will show whether cloud providers hold inference margins or surrender them."
+    }
+  ],
+  "still_signal": "Every standard-setter this week is also the vendor. Anthropic writes its own safety card before its IPO; NVIDIA designs the sovereignty architecture countries pay to join; Apple prices AI without saying what it buys.",
+  "x_card_numbers": [
+    0,
+    5,
+    1
+  ],
+  "date": "2026-11-10",
+  "issue": 202
+}
