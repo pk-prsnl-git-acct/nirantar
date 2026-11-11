@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-11T06:49:15.243Z",
+  "updatedAt": "2026-11-11T16:22:46.594Z",
   "posts": [
+    {
+      "title": "The Formal Proof | Issue #203",
+      "link": "https://nirantar.substack.com/p/the-formal-proof-2026-11-11",
+      "pubDate": "2026-11-11T04:24:46.000Z",
+      "dateLabel": "Issue #203 · Nov 11, 2026",
+      "description": "Anthropic prices its IPO at $1.4T, launches office tools, and proves Fermat's Last Theorem the same week Australia creates the world's first AI safety regulator."
+    },
     {
       "title": "The System Card | Issue #202",
       "link": "https://nirantar.substack.com/p/the-system-card-2026-11-10",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-06T03:49:23.000Z",
       "dateLabel": "Issue #198 · Nov 06, 2026",
       "description": "Democrats took Congress. The AI industry took a $3 trillion haircut."
-    },
-    {
-      "title": "The Forced Hand | Issue #197",
-      "link": "https://nirantar.substack.com/p/the-forced-hand-2026-11-05",
-      "pubDate": "2026-11-05T03:42:27.000Z",
-      "dateLabel": "Issue #197 · Nov 05, 2026",
-      "description": "Google withheld Search from schools that refused AI. Anthropic opens its roadshow on a $895B compute bet. The structure behind today's moves is the same everywhere: leverage, and who…"
     }
   ]
 }
