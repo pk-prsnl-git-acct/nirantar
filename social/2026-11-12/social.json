@@ -1,0 +1,63 @@
+{
+  "title": "The Permission *Layer*",
+  "dek": "OpenAI's first $10B quarter. Anthropic's $17B at 20x better economics. The access layer of the AI stack is being built simultaneously at every altitude.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI's first $10B quarter",
+      "number": "$10B",
+      "label": "OpenAI Q3 revenue, vs Anthropic's $17B in the same quarter",
+      "headline": "OpenAI hits $10B. Anthropic posts $17B at a $567M loss. The gap is structural."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Databricks goes always-on",
+      "number": "",
+      "label": "",
+      "headline": "Every data platform with enterprise contracts is now also an AI assistant company."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "CoreWeave's $132.5B backlog",
+      "number": "$132.5B",
+      "label": "CoreWeave's contracted backlog, on $3.66B in Q3 2026 revenue",
+      "headline": "A $132.5B backlog is committed infrastructure spend. The bubble thesis depends on whether it stays."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "China's humanoid news anchors",
+      "number": "2",
+      "label": "humanoid AI anchors live at the World Media Summit, Beijing",
+      "headline": "China's state agency put humanoid anchors on stage. Who controls the vetted source list?"
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Apollo 2 at Mercedes: 96%",
+      "number": "96%",
+      "label": "Apollo 2 task success at Mercedes-Benz, running Gemini Robotics 2.5",
+      "headline": "96% task success in a live factory deployment. The humanoid threshold is now a business case."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Nvidia CEO under board probe",
+      "number": "",
+      "label": "",
+      "headline": "Nvidia's board opens an independent investigation into its own CEO. The chips keep shipping."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Platforms block AI agents",
+      "number": "4",
+      "label": "major platforms blocking AI agents from customer-delegated access",
+      "headline": "The platforms blocking agents assert their design preferences outrank the customer's tool choice."
+    }
+  ],
+  "still_signal": "The revenue gap, the hardware backlog, the board probe, the blocked agents: the access layer of the AI stack is being designed simultaneously, at every altitude, with no shared framework.",
+  "x_card_numbers": [
+    0,
+    2,
+    4
+  ],
+  "date": "2026-11-12",
+  "issue": 204
+}
