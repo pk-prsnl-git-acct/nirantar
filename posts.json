@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-12T07:26:59.446Z",
+  "updatedAt": "2026-11-12T16:54:47.808Z",
   "posts": [
+    {
+      "title": "The Permission Layer | Issue #204",
+      "link": "https://nirantar.substack.com/p/permission-layer-2026-11-12",
+      "pubDate": "2026-11-12T03:45:40.000Z",
+      "dateLabel": "Issue #204 · Nov 12, 2026",
+      "description": "OpenAI's first $10B quarter. Anthropic's $17B at 20x better economics. The access layer of the AI stack is being designed simultaneously, at every altitude, by actors with incompatible…"
+    },
     {
       "title": "The Formal Proof | Issue #203",
       "link": "https://nirantar.substack.com/p/the-formal-proof-2026-11-11",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-07T03:45:41.000Z",
       "dateLabel": "Issue #199 · Nov 07, 2026",
       "description": "AI's price, geography, and legal categories all tried to hold firm this week. None of them did."
-    },
-    {
-      "title": "The Mandate | Issue #198",
-      "link": "https://nirantar.substack.com/p/the-mandate-2026-11-06",
-      "pubDate": "2026-11-06T03:49:23.000Z",
-      "dateLabel": "Issue #198 · Nov 06, 2026",
-      "description": "Democrats took Congress. The AI industry took a $3 trillion haircut."
     }
   ]
 }
