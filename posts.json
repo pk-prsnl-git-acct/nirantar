@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-13T06:58:21.401Z",
+  "updatedAt": "2026-11-13T16:34:05.517Z",
   "posts": [
+    {
+      "title": "The Handover | Issue #205",
+      "link": "https://nirantar.substack.com/p/the-handover-2026-11-13",
+      "pubDate": "2026-11-13T03:43:17.000Z",
+      "dateLabel": "Issue #205 · Nov 13, 2026",
+      "description": "Jensen Huang exits. Anthropic prices at $1 trillion. Every story today is about who controls what comes next."
+    },
     {
       "title": "The Permission Layer | Issue #204",
       "link": "https://nirantar.substack.com/p/permission-layer-2026-11-12",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-08T03:39:59.000Z",
       "dateLabel": "Issue #200 · Nov 08, 2026",
       "description": "Anthropic's S-1 discloses Claude writes 90% of its own codebase. The roadshow starts this week."
-    },
-    {
-      "title": "The Confidence Interval | Issue #199",
-      "link": "https://nirantar.substack.com/p/the-confidence-interval-2026-11-07",
-      "pubDate": "2026-11-07T03:45:41.000Z",
-      "dateLabel": "Issue #199 · Nov 07, 2026",
-      "description": "AI's price, geography, and legal categories all tried to hold firm this week. None of them did."
     }
   ]
 }
