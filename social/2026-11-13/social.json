@@ -1,0 +1,63 @@
+{
+  "title": "The *Handover*",
+  "dek": "The same week Jensen Huang resigned, the market was 6x oversubscribed for Anthropic shares. Every story today is about who gets to hold something.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Jensen Huang exits Nvidia",
+      "number": "9%",
+      "label": "Nvidia fell 9%+ on investigation reports before his exit",
+      "headline": "The person who built Nvidia's hardware strategy is gone. The roadmap stays, without its author."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic IPO 6x oversubscribed",
+      "number": "6x",
+      "label": "oversubscribed, with pricing set for November 18 at a ~$1T valuation",
+      "headline": "At $1 trillion, the market has decided AI risk and value are the same asset."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Anthropic two-tier model launch",
+      "number": "",
+      "label": "",
+      "headline": "Public gets Fable 5.2. Vetted researchers get Mythos 5.2. The IPO covers both."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Qwen4-Max: 1M context, no weights",
+      "number": "1M",
+      "label": "token context in Alibaba's cloud-only preview, available until Nov 25",
+      "headline": "No benchmarks, no weights, no model card. The model exists; take their word for it."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "DeepMind doubles variant detection",
+      "number": "30%",
+      "label": "of causal DNA variants detected, up from 16% in the prior model",
+      "headline": "AI finds the needle in the DNA haystack twice as precisely. Clinical validation has not caught up."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Naver's $1.5B US compute deal",
+      "number": "$1.5B",
+      "label": "AI computing supply contract from Naver to a US inference firm",
+      "headline": "South Korea is now supplying compute to US AI inference at scale."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Agile Robots raises $500M",
+      "number": "$500M",
+      "label": "raised at $8.5B valuation, SoftBank-led with Nvidia participating",
+      "headline": "SoftBank and Nvidia bet on German robotics while Nvidia has no CEO to approve the next bet."
+    }
+  ],
+  "still_signal": "Every story this week is a governance decision about access. Nvidia's CEO seat is empty. Anthropic's IPO is 6x oversubscribed. Alibaba published no benchmarks. DeepMind's API is non-commercial only.",
+  "x_card_numbers": [
+    1,
+    4,
+    6
+  ],
+  "date": "2026-11-13",
+  "issue": 205
+}
