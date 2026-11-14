@@ -1,0 +1,63 @@
+{
+  "title": "The *Permission* Gap",
+  "dek": "AI agents are now authorized to transact, navigate airspace, and compound debt. Every institution touched today is discovering what it actually owns.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI agents get a wallet",
+      "number": "",
+      "label": "",
+      "headline": "ChatGPT Wallet is live. The liability clause is in the terms, not in a law."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "LangChain raises $300M for agents",
+      "number": "$300M",
+      "label": "raised by LangChain at $3B valuation, serving 7,000+ organizations",
+      "headline": "When Alphabet's growth fund pays $3B for agent observability, governance has arrived."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic agents go self-hosted",
+      "number": "",
+      "label": "",
+      "headline": "Self-hosted Claude Managed Agents open in private beta, one day before IPO pricing."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Fed: AI is top financial risk",
+      "number": "87%",
+      "label": "of Fed contacts named AI the top financial stability risk",
+      "headline": "87% of Fed contacts named AI the top systemic risk. The $680B debt number is what compounds."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "FAA probes AI tool, ground stop",
+      "number": "22",
+      "label": "FAA centers where SMART was expanded before the nationwide ground stop",
+      "headline": "The attribution gap between AI-adjacent incident and confirmed cause is where trust breaks."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Nonprofits sue 5 AI labs to freeze",
+      "number": "",
+      "label": "",
+      "headline": "The two active suits against AI labs have opposite premises. That is the whole situation."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "AI 2027 authors update timelines",
+      "number": "80%",
+      "label": "of Anthropic's AI research acceleration attributed to AI, per METR",
+      "headline": "If METR is directionally right, two-to-three year governance planning horizons are behind."
+    }
+  ],
+  "still_signal": "Every institution today ran its protocol for a situation the protocol wasn't designed for: the Fed surveyed, the FAA investigated, the nonprofits sued. None named who is actually responsible for what.",
+  "x_card_numbers": [
+    1,
+    3,
+    6
+  ],
+  "date": "2026-11-14",
+  "issue": 206
+}
