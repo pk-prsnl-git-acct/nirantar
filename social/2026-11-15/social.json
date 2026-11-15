@@ -1,0 +1,63 @@
+{
+  "title": "The *Absent* Owner",
+  "dek": "The agent stack got a browser, 6,000 prebuilt roles, a registration deadline, and a self-managed compute orchestrator. No one is accountable for the whole.",
+  "stories": [
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Cloudflare's agent browser ships",
+      "number": "3.8x",
+      "label": "lower CPU use vs Chromium, no authentication required",
+      "headline": "Cloudflare built the browser for agents and left security to operators."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Google Gemini 4 Hydrogen launches",
+      "number": "57%",
+      "label": "Terminal-Bench 4.1 score, up from 18.2% for prior Flash model",
+      "headline": "Models designed around orchestration make single-model benchmarks obsolete."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "IBM+Microsoft 6,000 agent launch",
+      "number": "6,000",
+      "label": "prebuilt AI agents across financial services, insurance, and retail",
+      "headline": "IBM's real product is the governance layer, not the catalog of agents."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "NY opens AI registration portal",
+      "number": "",
+      "label": "",
+      "headline": "New York's frontier AI registry checks what labs choose to report."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Korea exam won with hidden LLM",
+      "number": "",
+      "label": "",
+      "headline": "The top score on Korea's tax exam was earned by a camera and an API."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "CCW Geneva: killer robot talks",
+      "number": "50",
+      "label": "states seeking 2027 negotiating mandate; US, Russia, Israel opposed",
+      "headline": "50 states want a mandate on autonomous weapons. Three with militaries don't."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Ignite + Anthropic debut Nov 19",
+      "number": "",
+      "label": "",
+      "headline": "Ignite opens Nov 17 as Anthropic prices for its Nasdaq debut four days later."
+    }
+  ],
+  "still_signal": "Each layer built this week delegated accountability downstream. Cloudflare: no auth. IBM sells the governance. NY checks what labs report. The stack has owners and no accountable party.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-11-15",
+  "issue": 207
+}
