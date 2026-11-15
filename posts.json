@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-14T20:48:24.030Z",
+  "updatedAt": "2026-11-15T06:51:15.875Z",
   "posts": [
+    {
+      "title": "The Permission Gap | Issue #206",
+      "link": "https://nirantar.substack.com/p/the-permission-gap-2026-11-14",
+      "pubDate": "2026-11-14T06:50:48.000Z",
+      "dateLabel": "Issue #206 · Nov 14, 2026",
+      "description": "OpenAI gives agents a wallet, the FAA investigates an AI-adjacent ground stop, the Fed flags $680 billion in AI debt, and the AI 2027 authors move their timeline."
+    },
     {
       "title": "The Handover | Issue #205",
       "link": "https://nirantar.substack.com/p/the-handover-2026-11-13",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-09T03:41:48.000Z",
       "dateLabel": "Issue #201 · Nov 09, 2026",
       "description": "The accountability structures the industry expected to form slowly are forming simultaneously."
-    },
-    {
-      "title": "The Ninety Percent | Issue #200",
-      "link": "https://nirantar.substack.com/p/the-ninety-percent-2026-11-08",
-      "pubDate": "2026-11-08T03:39:59.000Z",
-      "dateLabel": "Issue #200 · Nov 08, 2026",
-      "description": "Anthropic's S-1 discloses Claude writes 90% of its own codebase. The roadshow starts this week."
     }
   ]
 }
