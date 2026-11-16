@@ -1,0 +1,63 @@
+{
+  "title": "The *Declared* Intent",
+  "dek": "Nine governments signed the AI supply chain declaration. California's kill-switch deadline passed. Geneva opened with its text already gutted.",
+  "stories": [
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Nine allies sign Pax Silica text",
+      "number": "24",
+      "label": "Pax Silica member countries protecting AI supply chains",
+      "headline": "The declaration never names China; the enforcement mechanism is politics."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "CCW opens with gutted draft text",
+      "number": "",
+      "label": "",
+      "headline": "Human oversight language was stripped in September. The conference decides whether to negotiate."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "California kill-switch deadline",
+      "number": "",
+      "label": "",
+      "headline": "The deliverable is recommendations, not a law."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Kleiner backs defense factory AI",
+      "number": "$30 million",
+      "label": "raised by Nidus for foundation robotics models in US defense manufacturing",
+      "headline": "The bet: make existing factory robots learn new tasks without replacing the hardware."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "AMD Zen 6 ships in Azure, Oracle",
+      "number": "256",
+      "label": "cores in AMD's first 2nm server CPU now shipping in production cloud systems",
+      "headline": "The 4nm-to-2nm jump is the largest process node advance in EPYC history."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SK Hynix pledges $1.05B suppliers",
+      "number": "$1.05 billion",
+      "label": "SK Hynix pledge to Korean chip suppliers over five years",
+      "headline": "The world's leading HBM supplier is building resilience into its own supply chain."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Ignite opens; Anthropic IPO prices",
+      "number": "$78",
+      "label": "top of Anthropic's IPO price range, pricing Tuesday on Nasdaq as ANT",
+      "headline": "Microsoft Ignite opens tomorrow; Anthropic prices its IPO on November 18."
+    }
+  ],
+  "still_signal": "Every governance text this week describes a future instrument. AMD Zen 6 is shipping in production. Nidus is in defense factories. The gap is measurable in processor generations.",
+  "x_card_numbers": [
+    0,
+    3,
+    4
+  ],
+  "date": "2026-11-16",
+  "issue": 208
+}
