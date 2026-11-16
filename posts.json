@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-15T21:06:45.857Z",
+  "updatedAt": "2026-11-16T06:51:40.530Z",
   "posts": [
+    {
+      "title": "The Absent Owner | Issue #207",
+      "link": "https://nirantar.substack.com/p/the-absent-owner-2026-11-15",
+      "pubDate": "2026-11-15T03:40:33.000Z",
+      "dateLabel": "Issue #207 · Nov 15, 2026",
+      "description": "Cloudflare's agent browser ships without auth. IBM sells governance with 6,000 prebuilt agents. New York opens a registry it cannot verify. The agent stack has owners at every layer and no…"
+    },
     {
       "title": "The Permission Gap | Issue #206",
       "link": "https://nirantar.substack.com/p/the-permission-gap-2026-11-14",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-10T03:47:37.000Z",
       "dateLabel": "Issue #202 · Nov 10, 2026",
       "description": "Anthropic ships Mythos 5.2 days before its IPO. The document explaining why also ships."
-    },
-    {
-      "title": "The Agent Problem | Issue #201",
-      "link": "https://nirantar.substack.com/p/the-agent-problem-2026-11-09",
-      "pubDate": "2026-11-09T03:41:48.000Z",
-      "dateLabel": "Issue #201 · Nov 09, 2026",
-      "description": "The accountability structures the industry expected to form slowly are forming simultaneously."
     }
   ]
 }
