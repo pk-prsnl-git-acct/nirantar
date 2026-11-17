@@ -1,0 +1,63 @@
+{
+  "title": "The *Stress* Lines",
+  "dek": "87% of Fed contacts named AI the biggest risk to the financial system. Thousands marched in Manila. The FAA can't rule out its own AI tool caused the nationwide halt.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "InternLM's 321B tops MLE-bench",
+      "number": "90.3",
+      "label": "MLE-bench Lite score, ahead of DeepSeek at 89.2",
+      "headline": "Scientific AI has left assistive behind. Domain encoding is where differentiation goes next."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Proton cancels AI re-interviews",
+      "number": "",
+      "label": "",
+      "headline": "Re-interviews gone, AI direction stays. What Proton asks of users, it could not ask of staff."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Fractile raises $720M at $7B",
+      "number": "$7B",
+      "label": "valuation for a chip startup whose first product ships in 2027",
+      "headline": "The market is buying positions in a supply chain before anyone knows whether the positions hold."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Zoox goes live on Uber in Vegas",
+      "number": "62",
+      "label": "total Zoox vehicles across Las Vegas and the Bay Area combined",
+      "headline": "The MGM deal commits to volumes 62 vehicles cannot serve. Contracts will tell us who pays."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Fed: 87% name AI as top risk",
+      "number": "87%",
+      "label": "of Fed market contacts naming AI the biggest financial risk",
+      "headline": "The institutions measuring AI risk are also the ones holding $680B in AI infrastructure debt."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "FAA AI tool, 3,400 flights hit",
+      "number": "3,400+",
+      "label": "flights canceled after nationwide halt 72 hours after FAA's AI rollout",
+      "headline": "The question is not whether the AI caused it. The question is unanswered, and may remain so."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Manila protests Pax Silica hub",
+      "number": "$70B",
+      "label": "projected investment target for the contested Pax Silica zone in Tarlac",
+      "headline": "A framework that generates protests before ground is broken has not solved its legitimacy problem."
+    }
+  ],
+  "still_signal": "A $7B chip, a 62-vehicle fleet, a $70B hub before ground is broken, and $680B in debt measured by its holders. Every institution today is committed before it is ready.",
+  "x_card_numbers": [
+    4,
+    5,
+    6
+  ],
+  "date": "2026-11-17",
+  "issue": 209
+}
