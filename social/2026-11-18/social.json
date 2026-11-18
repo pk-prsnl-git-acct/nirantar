@@ -1,0 +1,70 @@
+{
+  "title": "The *Trillion* Frame",
+  "dek": "Anthropic prices its IPO above range. Nvidia posts $115.8B without its founder. The governance frameworks were built for a different scale.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic IPO prices above range",
+      "number": "7x",
+      "label": "oversubscribed as Anthropic prices its IPO above $78 initial range",
+      "headline": "Public markets now have a vote on what safety-first AI is worth."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Noeri $110M, Corma $125M raised",
+      "number": "$125M",
+      "label": "Corma raises for AI cyber defense at a $1B valuation",
+      "headline": "AI security is now a venture funding category of its own."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia $115.8B, record quarter",
+      "number": "$115.8B",
+      "label": "in Q3 FY2027 revenue, up 103%, first report without Jensen Huang",
+      "headline": "Record quarter, falling stock: the narrative was priced in too."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "7 MAI models + MDASH security",
+      "number": "7",
+      "label": "new MAI models launched at Ignite, plus MDASH agentic code security",
+      "headline": "Microsoft built an AI agent to watch the AI agents it just shipped."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Quad pledges $85M, 48 nations",
+      "number": "$85M",
+      "label": "pledged for Trusted AI Accelerator across 48 Indo-Pacific nations",
+      "headline": "The governance frame and the operational frame are at different orders of magnitude."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Court uses AI detector to sanction",
+      "number": "",
+      "label": "",
+      "headline": "The court used an AI detector to sanction lawyers for using AI, standard undefined."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Anthropic ANT begins trading Thu",
+      "number": "",
+      "label": "",
+      "headline": "The 7x oversubscription meets the secondary market."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Microsoft Ignite through Friday",
+      "number": "",
+      "label": "",
+      "headline": "Partner session track closes out the week's enterprise announcements."
+    }
+  ],
+  "still_signal": "The governance frame was built for regulation speed. The $115B Nvidia quarter, $1.4T Anthropic IPO, and 7 models Microsoft shipped to watch the ones it shipped describe a different world.",
+  "x_card_numbers": [
+    0,
+    2,
+    3
+  ],
+  "date": "2026-11-18",
+  "issue": 210
+}
