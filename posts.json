@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-17T17:41:54.203Z",
+  "updatedAt": "2026-11-18T07:44:07.803Z",
   "posts": [
+    {
+      "title": "The Stress Lines | Issue #209",
+      "link": "https://nirantar.substack.com/p/the-stress-lines-2026-11-17",
+      "pubDate": "2026-11-17T03:40:34.000Z",
+      "dateLabel": "Issue #209 · Nov 17, 2026",
+      "description": "Beyond the noise."
+    },
     {
       "title": "The Declared Intent | Issue #208",
       "link": "https://nirantar.substack.com/p/the-declared-intent-2026-11-16",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-12T03:45:40.000Z",
       "dateLabel": "Issue #204 · Nov 12, 2026",
       "description": "OpenAI's first $10B quarter. Anthropic's $17B at 20x better economics. The access layer of the AI stack is being designed simultaneously, at every altitude, by actors with incompatible…"
-    },
-    {
-      "title": "The Formal Proof | Issue #203",
-      "link": "https://nirantar.substack.com/p/the-formal-proof-2026-11-11",
-      "pubDate": "2026-11-11T04:24:46.000Z",
-      "dateLabel": "Issue #203 · Nov 11, 2026",
-      "description": "Anthropic prices its IPO at $1.4T, launches office tools, and proves Fermat's Last Theorem the same week Australia creates the world's first AI safety regulator."
     }
   ]
 }
