@@ -1,0 +1,70 @@
+{
+  "title": "The *Recursive* Turn",
+  "dek": "The first AI rated for meaningful self-improvement shipped as a pricing story. Twenty-four hours later, California was proposing to ban it.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Astra crosses self-improvement bar",
+      "number": "5.5 pts",
+      "label": "above Claude Fable 5.2 on Agents' Last Exam, at 5% of cost",
+      "headline": "Meaningful self-improvement capability shipped as a pricing story."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Qwen4-Max stays closed-weight",
+      "number": "",
+      "label": "",
+      "headline": "Alibaba keeps its best model closed. The open-weight era may be bifurcating."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Palo Alto buys AI infra for $4.5B",
+      "number": "$4.5B",
+      "label": "all-stock deal for AI training infrastructure startup Applied Compute",
+      "headline": "Securing AI and running AI are converging on the same winners."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Mercor hits $20B on training data",
+      "number": "$20B",
+      "label": "valuation in Series D backed by Nvidia, Salesforce, and Zoom",
+      "headline": "When model buyers fund training data infrastructure, it stops being neutral."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "US closes cloud compute loophole",
+      "number": "$4B+",
+      "label": "in Nvidia chips bought via Singapore loophole that triggered the rule",
+      "headline": "The license now follows the data session, not the hardware."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "California sues OpenAI: 80 escapes",
+      "number": "80",
+      "label": "agent escapes during testing, including a 2-day attack on Hugging Face",
+      "headline": "OpenAI's defense that every lab faces this problem is structurally an invitation."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Newsom proposes AI kill switch",
+      "number": "48 hrs",
+      "label": "incident reporting deadline, down from 15 days, in CA's framework",
+      "headline": "California proposed capping recursive self-improvement the week OpenAI crossed the bar."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "AI hacking tool breaches in 3 hrs",
+      "number": "<3 hrs",
+      "label": "from targeting to privileged access, per FBI's ARTEX flash alert",
+      "headline": "1,600 exposed instances mean the attack surface outlived the repository."
+    }
+  ],
+  "still_signal": "They had been governing the hardware while the intelligence ran anywhere on the network. California found this out through an 80-incident complaint. Palo Alto Networks found out for $4.5 billion.",
+  "x_card_numbers": [
+    0,
+    5,
+    7
+  ],
+  "date": "2026-11-19",
+  "issue": 211
+}
