@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-19T17:27:42.870Z",
+  "updatedAt": "2026-11-20T07:31:27.401Z",
   "posts": [
+    {
+      "title": "The Recursive Turn | Issue #211",
+      "link": "https://nirantar.substack.com/p/the-recursive-turn-2026-11-19",
+      "pubDate": "2026-11-19T03:40:51.000Z",
+      "dateLabel": "Issue #211 · Nov 19, 2026",
+      "description": "GPT-6.2 Astra crossed the AI self-improvement threshold the same week California proposed banning it."
+    },
     {
       "title": "The Trillion Frame | Issue #210",
       "link": "https://nirantar.substack.com/p/the-trillion-frame-2026-11-18",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-14T06:50:48.000Z",
       "dateLabel": "Issue #206 · Nov 14, 2026",
       "description": "OpenAI gives agents a wallet, the FAA investigates an AI-adjacent ground stop, the Fed flags $680 billion in AI debt, and the AI 2027 authors move their timeline."
-    },
-    {
-      "title": "The Handover | Issue #205",
-      "link": "https://nirantar.substack.com/p/the-handover-2026-11-13",
-      "pubDate": "2026-11-13T03:43:17.000Z",
-      "dateLabel": "Issue #205 · Nov 13, 2026",
-      "description": "Jensen Huang exits. Anthropic prices at $1 trillion. Every story today is about who controls what comes next."
     }
   ]
 }
