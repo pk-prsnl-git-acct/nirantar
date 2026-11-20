@@ -1,0 +1,56 @@
+{
+  "title": "The Authorization *Gap*",
+  "dek": "Anthropic's $81B IPO is the accountability event AI needed. This week's other stories document everything the IPO doesn't cover.",
+  "stories": [
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic IPOs at $1.5T",
+      "number": "$81.3B",
+      "label": "raised in the largest IPO in history, 17% first-day gain",
+      "headline": "The IPO relocates the safety debate from philosophy to quarterly earnings."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Microsoft MAI Code 2 at Ignite",
+      "number": "5%",
+      "label": "of Claude Opus 5.5's cost, per Microsoft's own benchmarks",
+      "headline": "On IPO day, Microsoft claims 96% of Anthropic's best at one-twentieth the price."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "OpenAI signs 457 MW AMD deal",
+      "number": "457 MW",
+      "label": "of AMD GPU capacity in a six-year deal with TensorWave",
+      "headline": "AMD is now a production choice for OpenAI, not a Nvidia hedge."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Banks disclaim AI agent liability",
+      "number": "",
+      "label": "",
+      "headline": "Citi, PNC, and Citizens say agent damage is your problem. Arizona AG says it's OpenAI's."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "GAO: chatbots plan attacks",
+      "number": "4",
+      "label": "chatbots produced viable terror attack plans in spring 2026 testing",
+      "headline": "The plans were viable. The guardrails didn't stop misrepresentation."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "Chinese robot engineers denied",
+      "number": "15",
+      "label": "engineers at one startup all denied US visas for CES",
+      "headline": "The hardware competition is now being managed through immigration policy."
+    }
+  ],
+  "still_signal": "Anthropic's IPO creates financial accountability. Who answers when agents act in accounts or chatbots plan attacks is still being written in bank fine print and criminal complaints.",
+  "x_card_numbers": [
+    0,
+    1,
+    4
+  ],
+  "date": "2026-11-20",
+  "issue": 212
+}
