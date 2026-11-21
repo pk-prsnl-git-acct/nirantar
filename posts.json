@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-20T17:02:59.271Z",
+  "updatedAt": "2026-11-21T07:27:03.136Z",
   "posts": [
+    {
+      "title": "The Authorization Gap | Issue #212",
+      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-11-20",
+      "pubDate": "2026-11-20T03:47:54.000Z",
+      "dateLabel": "Issue #212 · Nov 20, 2026",
+      "description": "Anthropic raised $81.3 billion today in the largest IPO on record, while Dario Amodei told investors that the company's new financial firepower will strengthen its safety mission."
+    },
     {
       "title": "The Recursive Turn | Issue #211",
       "link": "https://nirantar.substack.com/p/the-recursive-turn-2026-11-19",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-15T03:40:33.000Z",
       "dateLabel": "Issue #207 · Nov 15, 2026",
       "description": "Cloudflare's agent browser ships without auth. IBM sells governance with 6,000 prebuilt agents. New York opens a registry it cannot verify. The agent stack has owners at every layer and no…"
-    },
-    {
-      "title": "The Permission Gap | Issue #206",
-      "link": "https://nirantar.substack.com/p/the-permission-gap-2026-11-14",
-      "pubDate": "2026-11-14T06:50:48.000Z",
-      "dateLabel": "Issue #206 · Nov 14, 2026",
-      "description": "OpenAI gives agents a wallet, the FAA investigates an AI-adjacent ground stop, the Fed flags $680 billion in AI debt, and the AI 2027 authors move their timeline."
     }
   ]
 }
