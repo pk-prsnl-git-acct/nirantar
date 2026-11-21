@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-21T07:27:03.136Z",
+  "updatedAt": "2026-11-21T16:15:08.464Z",
   "posts": [
+    {
+      "title": "On the Record | Issue #213",
+      "link": "https://nirantar.substack.com/p/on-the-record-2026-11-21",
+      "pubDate": "2026-11-21T03:48:31.000Z",
+      "dateLabel": "Issue #213 · Nov 21, 2026",
+      "description": "The official position and the actual transaction describe different things."
+    },
     {
       "title": "The Authorization Gap | Issue #212",
       "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-11-20",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-16T03:48:56.000Z",
       "dateLabel": "Issue #208 · Nov 16, 2026",
       "description": "Nine allies signed a supply chain declaration. California's kill-switch deadline passed. Geneva opened with its draft already gutted."
-    },
-    {
-      "title": "The Absent Owner | Issue #207",
-      "link": "https://nirantar.substack.com/p/the-absent-owner-2026-11-15",
-      "pubDate": "2026-11-15T03:40:33.000Z",
-      "dateLabel": "Issue #207 · Nov 15, 2026",
-      "description": "Cloudflare's agent browser ships without auth. IBM sells governance with 6,000 prebuilt agents. New York opens a registry it cannot verify. The agent stack has owners at every layer and no…"
     }
   ]
 }
