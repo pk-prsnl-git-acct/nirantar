@@ -1,0 +1,63 @@
+{
+  "title": "On the *Record*",
+  "dek": "SpaceX closes $32B in off-balance-sheet chip debt the same week the Fed flags the risk. 879,000 chip approvals to China while new restrictions are announced.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Four Gemini 4 models in 7 weeks",
+      "number": "61",
+      "label": "AI Analysis Index score for Neon, vs Claude 59 and GPT-6.2 Sol 57",
+      "headline": "Benchmark leadership now has a half-life measured in weeks, not quarters."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Qwen4-Max: 2.4T params, closed",
+      "number": "$1.50",
+      "label": "per 1M input tokens for Alibaba's new frontier MoE model",
+      "headline": "Closed weights removes the open-source hedge Western labs use as a counterargument."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic IPO drops 8.5% day 2",
+      "number": "-8.5%",
+      "label": "ANT fell from $111.50 open to ~$88.91 close on its second trading day",
+      "headline": "Day one was the record. Day two was the first market test of the narrative."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Gemini Mac: approve each action",
+      "number": "",
+      "label": "",
+      "headline": "Approval-before-action is a UI choice, not an accountability framework."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "SpaceX $32B chip bond at 8.26%",
+      "number": "8.26%",
+      "label": "yield SpaceX paid vs 5.95% average for investment-grade debt same day",
+      "headline": "The premium is the market's honest price for AI chip risk as five-year collateral."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "879K chips approved for China",
+      "number": "879K",
+      "label": "AI chip approvals for military-linked Chinese firms, released by House this week",
+      "headline": "BIS tightened restrictions and disclosed 879,000 prior approvals in the same week."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Fed: $800B AI debt, systemic risk",
+      "number": "$800B",
+      "label": "on-balance-sheet AI debt projected for 7 largest firms by year-end",
+      "headline": "The warning arrived with enough precision to describe SpaceX's bond as the named example."
+    }
+  ],
+  "still_signal": "Fed flags off-balance-sheet AI financing as systemic risk while SpaceX executes it at $32B. BIS tightens chip restrictions while House reveals 879K prior approvals. The warnings are not wrong. They are running one cycle behind the thing they are warning about.",
+  "x_card_numbers": [
+    4,
+    5,
+    2
+  ],
+  "date": "2026-11-21",
+  "issue": 213
+}
