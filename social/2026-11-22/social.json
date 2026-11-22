@@ -1,0 +1,56 @@
+{
+  "title": "The *Perimeter* Problem",
+  "dek": "Chinese AI weights run freely on US compute. BIS rules pause consumer SoCs. Amazon paid $7.5B for software that makes geography irrelevant.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Tencent opens 770B Hy4 weights",
+      "number": "770B",
+      "label": "total parameters, Apache 2.0, freely deployable on any hardware",
+      "headline": "The best available open-weight AI is now Chinese. It runs wherever the compute is."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Amazon near $7.5B deal for Decart",
+      "number": "$7.5B",
+      "label": "reported acquisition price for chip-agnostic inference software",
+      "headline": "Amazon is buying the layer that makes hardware location and chip origin interchangeable."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Anthropic back at $83 IPO floor",
+      "number": "$83",
+      "label": "ANT at IPO floor as stabilization closes; 303M shares eligible Dec 15",
+      "headline": "With the stabilization bid gone, the safety-plus-profit thesis answers to quarterly earnings."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "TSMC pauses consumer SoC shipments",
+      "number": "16nm",
+      "label": "node threshold triggering export-control review for all advanced chips",
+      "headline": "A rule designed for AI chips is pausing consumer SoCs it was not designed to cover."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Trump: no US data centers overseas",
+      "number": "",
+      "label": "",
+      "headline": "The ban reaches hardware geography. The Chinese AI is already running on US compute at home."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "China Post: 11 hubs in 8 months",
+      "number": "1,500",
+      "label": "parcels per hour reported per robot in China Post Guangdong deployment",
+      "headline": "Eight months from single pilot to province-wide. That is an institutional-structure record."
+    }
+  ],
+  "still_signal": "US policy drew lines around hardware. The best open-weight AI is Chinese, runs freely on US compute, and is covered by none of this week's announced restrictions.",
+  "x_card_numbers": [
+    0,
+    1,
+    2
+  ],
+  "date": "2026-11-22",
+  "issue": 214
+}
