@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-22T07:08:40.631Z",
+  "updatedAt": "2026-11-22T16:28:31.470Z",
   "posts": [
+    {
+      "title": "The Perimeter Problem | Issue #214",
+      "link": "https://nirantar.substack.com/p/the-perimeter-problem-2026-11-22",
+      "pubDate": "2026-11-22T04:20:28.000Z",
+      "dateLabel": "Issue #214 · Nov 22, 2026",
+      "description": "Chinese AI weights run freely on US compute. The BIS rule is pausing consumer SoCs. Amazon paid $7.5B for the software that makes geography irrelevant."
+    },
     {
       "title": "On the Record | Issue #213",
       "link": "https://nirantar.substack.com/p/on-the-record-2026-11-21",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-17T03:40:34.000Z",
       "dateLabel": "Issue #209 · Nov 17, 2026",
       "description": "Beyond the noise."
-    },
-    {
-      "title": "The Declared Intent | Issue #208",
-      "link": "https://nirantar.substack.com/p/the-declared-intent-2026-11-16",
-      "pubDate": "2026-11-16T03:48:56.000Z",
-      "dateLabel": "Issue #208 · Nov 16, 2026",
-      "description": "Nine allies signed a supply chain declaration. California's kill-switch deadline passed. Geneva opened with its draft already gutted."
     }
   ]
 }
