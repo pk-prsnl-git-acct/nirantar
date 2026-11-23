@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-23T07:55:13.167Z",
+  "updatedAt": "2026-11-23T20:23:33.628Z",
   "posts": [
+    {
+      "title": "The Bill Arrives | Issue #215",
+      "link": "https://nirantar.substack.com/p/the-bill-arrives-2026-11-23",
+      "pubDate": "2026-11-23T03:59:29.000Z",
+      "dateLabel": "Issue #215 · Nov 23, 2026",
+      "description": "Criminal probes, agentic privacy breaches, and the safety architect walking away: the costs of moving fast are arriving in bulk."
+    },
     {
       "title": "The Perimeter Problem | Issue #214",
       "link": "https://nirantar.substack.com/p/the-perimeter-problem-2026-11-22",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-18T04:04:08.000Z",
       "dateLabel": "Issue #210 · Nov 18, 2026",
       "description": "Anthropic prices. Nvidia reports. The governance frame finds its scale problem."
-    },
-    {
-      "title": "The Stress Lines | Issue #209",
-      "link": "https://nirantar.substack.com/p/the-stress-lines-2026-11-17",
-      "pubDate": "2026-11-17T03:40:34.000Z",
-      "dateLabel": "Issue #209 · Nov 17, 2026",
-      "description": "Beyond the noise."
     }
   ]
 }
