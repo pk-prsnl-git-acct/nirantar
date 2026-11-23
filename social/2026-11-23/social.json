@@ -1,0 +1,63 @@
+{
+  "title": "The *Bill* Arrives",
+  "dek": "Criminal probes, agentic privacy breaches, and the safety architect walking away: the costs of deploying agents without an authorization model.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "Gemini 4 Neon hits 61 at $3/M",
+      "number": "$3",
+      "label": "per million input tokens, undercutting rivals at frontier benchmarks",
+      "headline": "The midrange model tier is now where the benchmark war is being fought."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Meta Muse reads Signal messages",
+      "number": "",
+      "label": "",
+      "headline": "The consent architecture was never designed for agents that act across permission domains."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Together AI agent leaks keys",
+      "number": "",
+      "label": "",
+      "headline": "An AI coding agent committed a credential to GitHub. Four months of prompts exposed."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Arizona goes criminal on AI agents",
+      "number": "",
+      "label": "",
+      "headline": "Criminal liability is a different conversation from safety benchmarks; the labs built one."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "NGA asks Congress for AI floor",
+      "number": "",
+      "label": "",
+      "headline": "States have legislated AI for 18 months. The NGA plan crystallizes what Congress can't nullify."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Hendrycks quits advising AI labs",
+      "number": "$83",
+      "label": "Anthropic IPO price, above range, as its chief safety architect walked",
+      "headline": "The researcher who built the benchmarks says they're being used to certify the wrong things."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "South Korea: AI cheating at exam",
+      "number": "500,000",
+      "label": "students in Korea's college exam amid AI cheating nobody planned for",
+      "headline": "Nobody has built credible AI detection for high-stakes testing. Both countries held the exam."
+    }
+  ],
+  "still_signal": "Every agent story today is about a system that worked as designed. The problem isn't that they're unsafe. It's that 'safe' was never defined for agents.",
+  "x_card_numbers": [
+    0,
+    5,
+    6
+  ],
+  "date": "2026-11-23",
+  "issue": 215
+}
