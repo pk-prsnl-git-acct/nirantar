@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-24T10:08:02.072Z",
+  "updatedAt": "2026-11-24T20:43:19.858Z",
   "posts": [
+    {
+      "title": "The Authority Vacuum | Issue #216",
+      "link": "https://nirantar.substack.com/p/the-authority-vacuum-2026-11-24",
+      "pubDate": "2026-11-24T06:53:34.000Z",
+      "dateLabel": "Issue #216 · Nov 24, 2026",
+      "description": "Trump reinstated Nvidia's CEO. OpenAI proposed limits only it can verify. When everyone borrows governing authority, what does governance actually mean?"
+    },
     {
       "title": "The Bill Arrives | Issue #215",
       "link": "https://nirantar.substack.com/p/the-bill-arrives-2026-11-23",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-19T03:40:51.000Z",
       "dateLabel": "Issue #211 · Nov 19, 2026",
       "description": "GPT-6.2 Astra crossed the AI self-improvement threshold the same week California proposed banning it."
-    },
-    {
-      "title": "The Trillion Frame | Issue #210",
-      "link": "https://nirantar.substack.com/p/the-trillion-frame-2026-11-18",
-      "pubDate": "2026-11-18T04:04:08.000Z",
-      "dateLabel": "Issue #210 · Nov 18, 2026",
-      "description": "Anthropic prices. Nvidia reports. The governance frame finds its scale problem."
     }
   ]
 }
