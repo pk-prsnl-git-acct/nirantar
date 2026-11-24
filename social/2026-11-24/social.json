@@ -1,0 +1,70 @@
+{
+  "title": "The *Authority* Vacuum",
+  "dek": "Trump convinced Nvidia's board. OpenAI proposed limits only it can verify. The vocabulary of governance is everywhere. The actual levers are not.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI proposes training limits",
+      "number": "0.76",
+      "label": "current prediction loss, down from 0.91 at GPT-4 launch",
+      "headline": "The labs want shared limits measured by a test only the labs control."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Trump reinstates Nvidia's CEO",
+      "number": "30%+",
+      "label": "Nvidia stock jump after Huang reinstatement",
+      "headline": "A president claiming credit for a board decision is a genuinely new thing."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Amazon buys Decart for $7.5B",
+      "number": "$7.5B",
+      "label": "Amazon's price for Decart's chip optimization tech and founders",
+      "headline": "$1.5B more than Anthropic was willing to pay for the same software."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "BIS targets remote compute access",
+      "number": "20%",
+      "label": "SE Asian data center stock drop after new BIS chip access rule",
+      "headline": "The frontier of what counts as a chip export just moved offshore."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "India trains the world's robots",
+      "number": "$47M",
+      "label": "raised by Humyn Labs to film humans doing tasks for robot training",
+      "headline": "The workers being filmed are those most likely to be displaced by the robots they are training."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Governors split AI authority",
+      "number": "",
+      "label": "",
+      "headline": "Federal governs development; states govern deployment. AI doesn't know the difference."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "XPeng AI Day tomorrow",
+      "number": "",
+      "label": "",
+      "headline": "Chinese automakers have moved from EV competition to AI platform competition faster than predicted."
+    },
+    {
+      "section": "Looking Ahead",
+      "short": "Huang before Congress Dec 1",
+      "number": "",
+      "label": "",
+      "headline": "A reinstated CEO walking into Congress with stock up 30% is not the same accountability moment."
+    }
+  ],
+  "still_signal": "The forms of oversight are multiplying. The levers of control are not.",
+  "x_card_numbers": [
+    1,
+    2,
+    3
+  ],
+  "date": "2026-11-24",
+  "issue": 216
+}
