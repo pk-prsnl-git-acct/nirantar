@@ -1,0 +1,77 @@
+{
+  "title": "The *Specialist* Discount",
+  "dek": "Amazon paid $7.5B to out-optimize Nvidia with software. OpenAI's GPT-6 designed proteins without a biology model. Each story today is the same substitution.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6 designs functional proteins",
+      "number": "10.9%",
+      "label": "of 322 candidates bound their target in lab tests",
+      "headline": "General reasoning is now a passable substitute for specialized biology models."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Z.ai GLM-5.4 loop transformer",
+      "number": "",
+      "label": "",
+      "headline": "750B params, 28 layers run twice. No benchmarks. Efficiency claim is unproven at scale."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Claude Ship approves code merges",
+      "number": "",
+      "label": "",
+      "headline": "AI agents can now approve pull requests. Anthropic recommends starting in observe-only mode."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Shirudo: AI writes Linux shields",
+      "number": "",
+      "label": "",
+      "headline": "Cisco and OpenAI ship an agent that patches Linux vulns before humans do. Not production-ready."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Amazon buys Decart for $7.5B",
+      "number": "$7.5B",
+      "label": "Amazon's reported price for Decart's chip optimization software",
+      "headline": "Amazon is betting software optimization can substitute for Nvidia's hardware superiority."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "UK FCA: AI agents trigger fin-reg",
+      "number": "",
+      "label": "",
+      "headline": "AI agents doing financial work trigger UK financial services law, whatever the company calls itself."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Australia passes 5% revenue law",
+      "number": "5%",
+      "label": "of global annual revenue: Australia's penalty for tech non-compliance",
+      "headline": "At 5% of global revenue, the non-compliance cost can exceed the build-correctly cost."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "N. Korea AI on open-weight models",
+      "number": "",
+      "label": "",
+      "headline": "North Korea built a domestic AI chatbot. Likely on open weights. Sanctions did not stop it."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "XPeng AI Day: Iron robot demo",
+      "number": "",
+      "label": "",
+      "headline": "XPeng's humanoid Iron demos live today. Watch the gap between stage and production."
+    }
+  ],
+  "still_signal": "Every specialist being replaced was also the accountable entity. The FCA named this for financial services. The other domains are still discovering what they had.",
+  "x_card_numbers": [
+    4,
+    0,
+    6
+  ],
+  "date": "2026-11-25",
+  "issue": 217
+}
