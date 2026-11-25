@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-25T08:53:59.875Z",
+  "updatedAt": "2026-11-25T19:59:32.037Z",
   "posts": [
+    {
+      "title": "The Specialist Discount | Issue #217",
+      "link": "https://nirantar.substack.com/p/the-specialist-discount-2026-11-25",
+      "pubDate": "2026-11-25T03:40:48.000Z",
+      "dateLabel": "Issue #217 · Nov 25, 2026",
+      "description": "Amazon pays $7.5B to narrow the chip gap with software. GPT-6 designs proteins without a biology model. The FCA says AI agents performing financial work are regulated entities."
+    },
     {
       "title": "The Authority Vacuum | Issue #216",
       "link": "https://nirantar.substack.com/p/the-authority-vacuum-2026-11-24",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-20T03:47:54.000Z",
       "dateLabel": "Issue #212 · Nov 20, 2026",
       "description": "Anthropic raised $81.3 billion today in the largest IPO on record, while Dario Amodei told investors that the company's new financial firepower will strengthen its safety mission."
-    },
-    {
-      "title": "The Recursive Turn | Issue #211",
-      "link": "https://nirantar.substack.com/p/the-recursive-turn-2026-11-19",
-      "pubDate": "2026-11-19T03:40:51.000Z",
-      "dateLabel": "Issue #211 · Nov 19, 2026",
-      "description": "GPT-6.2 Astra crossed the AI self-improvement threshold the same week California proposed banning it."
     }
   ]
 }
