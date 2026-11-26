@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-26T08:38:59.992Z",
+  "updatedAt": "2026-11-26T19:42:50.437Z",
   "posts": [
+    {
+      "title": "The Permission Layer | Issue #218",
+      "link": "https://nirantar.substack.com/p/the-permission-layer-2026-11-26",
+      "pubDate": "2026-11-26T04:02:51.000Z",
+      "dateLabel": "Issue #218 · Nov 26, 2026",
+      "description": "BIS closed the offshore chip loophole; CBS found $3B in Blackwell compute inside Chinese-owned US firms. XPENG's humanoid enters mass production. Walmart opens agent shopping for Black…"
+    },
     {
       "title": "The Specialist Discount | Issue #217",
       "link": "https://nirantar.substack.com/p/the-specialist-discount-2026-11-25",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-21T03:48:31.000Z",
       "dateLabel": "Issue #213 · Nov 21, 2026",
       "description": "The official position and the actual transaction describe different things."
-    },
-    {
-      "title": "The Authorization Gap | Issue #212",
-      "link": "https://nirantar.substack.com/p/the-authorization-gap-2026-11-20",
-      "pubDate": "2026-11-20T03:47:54.000Z",
-      "dateLabel": "Issue #212 · Nov 20, 2026",
-      "description": "Anthropic raised $81.3 billion today in the largest IPO on record, while Dario Amodei told investors that the company's new financial firepower will strengthen its safety mission."
     }
   ]
 }
