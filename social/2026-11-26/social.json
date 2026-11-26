@@ -1,0 +1,70 @@
+{
+  "title": "The *Permission* Layer",
+  "dek": "BIS closed the offshore chip loophole. CBS found $3 billion in Blackwell compute in Chinese-owned US firms. Walmart opened its agent gateway; the AI market kept selling.",
+  "stories": [
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "BIS chip ban: domestic gap exposed",
+      "number": "$3 billion",
+      "label": "in Blackwell compute inside Chinese-owned US companies",
+      "headline": "BIS closed the offshore route; the domestic channel was never the target."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Oracle-Stargate fully financed",
+      "number": "$300B",
+      "label": "OpenAI-Oracle compute contract now fully financed",
+      "headline": "Capital structure is set. The infrastructure still has to get built."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "AI selloff after Anthropic IPO",
+      "number": "8.69%",
+      "label": "Nvidia fell in the week after the largest IPO in history",
+      "headline": "The largest IPO in history did not revive the AI trade."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Walmart opens; Amazon holds block",
+      "number": "",
+      "label": "",
+      "headline": "Walmart opened the agent door; Amazon's block still stands. Black Friday decides."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "XPENG IRON: mass production begins",
+      "number": "2,250",
+      "label": "TOPS of onboard compute across XPENG IRON's three neural architectures",
+      "headline": "An EV maker's supply chain is now feeding humanoid robotics at production scale."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "GPT-6.2 Sol in ChatGPT Chat tab",
+      "number": "1/5",
+      "label": "the cost of Astra, within 0.5 benchmark points at max reasoning effort",
+      "headline": "When cheaper is indistinguishable, the premium tier needs a new argument."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "Cognition SWE-2.1 hits 50.0",
+      "number": "50.0",
+      "label": "on Terminal-Bench 4.1, up from 24.2 in SWE-2",
+      "headline": "The benchmark gap to frontier is closing. The pricing gap follows."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "43 states: governors claim AI rule",
+      "number": "43",
+      "label": "states with AI legislation since 2023, before federal preemption arrives",
+      "headline": "Governors want their voice before Congress settles the question without them."
+    }
+  ],
+  "still_signal": "Every gate today is real. Every gate today is being routed around simultaneously. What emerges from that simultaneous pressure is not a winner. It is a new topology.",
+  "x_card_numbers": [
+    0,
+    2,
+    4
+  ],
+  "date": "2026-11-26",
+  "issue": 218
+}
