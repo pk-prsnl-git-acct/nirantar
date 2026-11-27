@@ -1,7 +1,14 @@
 {
   "source": "https://nirantar.substack.com/feed",
-  "updatedAt": "2026-11-27T08:50:29.528Z",
+  "updatedAt": "2026-11-27T19:31:36.689Z",
   "posts": [
+    {
+      "title": "The Execution Gap | Issue #219",
+      "link": "https://nirantar.substack.com/p/the-execution-gap-2026-11-27",
+      "pubDate": "2026-11-27T03:46:14.000Z",
+      "dateLabel": "Issue #219 · Nov 27, 2026",
+      "description": "Today is Black Friday 2026."
+    },
     {
       "title": "The Permission Layer | Issue #218",
       "link": "https://nirantar.substack.com/p/the-permission-layer-2026-11-26",
@@ -36,13 +43,6 @@
       "pubDate": "2026-11-22T04:20:28.000Z",
       "dateLabel": "Issue #214 · Nov 22, 2026",
       "description": "Chinese AI weights run freely on US compute. The BIS rule is pausing consumer SoCs. Amazon paid $7.5B for the software that makes geography irrelevant."
-    },
-    {
-      "title": "On the Record | Issue #213",
-      "link": "https://nirantar.substack.com/p/on-the-record-2026-11-21",
-      "pubDate": "2026-11-21T03:48:31.000Z",
-      "dateLabel": "Issue #213 · Nov 21, 2026",
-      "description": "The official position and the actual transaction describe different things."
     }
   ]
 }
