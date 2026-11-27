@@ -1,0 +1,63 @@
+{
+  "title": "The *Execution* Gap",
+  "dek": "OpenAI agents just hit 46% autonomy on research tasks. The first agent commerce test is live today. The Senate is scheduling hearings after the chips already moved.",
+  "stories": [
+    {
+      "section": "AI Models & Research",
+      "short": "OpenAI agents: 46% autonomy",
+      "number": "46%",
+      "label": "of 2-4 hour research tasks completed autonomously, up from 23% in March",
+      "headline": "OpenAI says its agents are not taking over. Its own numbers say otherwise."
+    },
+    {
+      "section": "AI Models & Research",
+      "short": "DeepMind quantum proofs via Lean",
+      "number": "290x",
+      "label": "quantum circuit resource reductions reported in specific domains, formally verified",
+      "headline": "DeepMind agents wrote quantum programs that hold up under mathematical proof."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Black Friday agent commerce live",
+      "number": "95%",
+      "label": "projected growth in AI-referred retail traffic on Black Friday year over year",
+      "headline": "The Walmart-Amazon gating decision is being stress-tested in real commercial conditions today."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "OpenAI Private Inference alpha",
+      "number": "",
+      "label": "",
+      "headline": "Enterprises can now run frontier AI without OpenAI seeing the prompt. That question took three years to get a technical answer."
+    },
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia Megaspeed: $4B chip routing",
+      "number": "$4B",
+      "label": "in Nvidia chips bought by Singapore firm under investigation for routing to China",
+      "headline": "Senate hearings are scheduled for December 3 and 10. The chips already moved."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "GPT-5 API removed December 11",
+      "number": "",
+      "label": "",
+      "headline": "The model lifecycle is now measured in months. Enterprise technical debt needs a new framework."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "New York: AI companions banned",
+      "number": "",
+      "label": "",
+      "headline": "The first US state law restricting AI-child relationships is now in effect. The compliance gap across the holiday AI toy market is unmapped."
+    }
+  ],
+  "still_signal": "The execution layer advancing faster than the authorization layer is a prediction. This week it became measurement, in several domains simultaneously.",
+  "x_card_numbers": [
+    0,
+    2,
+    4
+  ],
+  "date": "2026-11-27",
+  "issue": 219
+}
