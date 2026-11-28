@@ -1,0 +1,56 @@
+{
+  "title": "The *Perimeter* Problem",
+  "dek": "AI infrastructure grew into load-bearing positions before anyone mapped what it was connected to. This week, everyone found out at once.",
+  "stories": [
+    {
+      "section": "Infrastructure & Hardware",
+      "short": "Nvidia cuts SE Asia deliveries",
+      "number": "",
+      "label": "",
+      "headline": "SE Asian data centers became China's compute workaround. The workaround closed."
+    },
+    {
+      "section": "Enterprise & Competition",
+      "short": "Bank of England: $4T AI exposure",
+      "number": "$4T",
+      "label": "hyperscaler AI exposure: debt and commitments, almost double 2025",
+      "headline": "The FPC used the word 'circular.' That is not a compliment."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Swiss AI agent attacks succeed",
+      "number": "4/5",
+      "label": "AI-agent attacks on Swiss critical infrastructure succeeded",
+      "headline": "The exploited flaws were basic. That is the point."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "Poland signs $300M Palantir deal",
+      "number": "$300M",
+      "label": "5-year Palantir deal for Poland's battlefield AI",
+      "headline": "First major EU member to standardize on US battlefield AI."
+    },
+    {
+      "section": "Policy, Economy & Society",
+      "short": "11 AI bills, no floor votes",
+      "number": "11",
+      "label": "AI bills cleared committee; none reached the House floor",
+      "headline": "Switzerland's AI breach is the kind of event that moves legislation that could not move on its own."
+    },
+    {
+      "section": "Robotics & Physical AI",
+      "short": "XPeng IRON humanoid, January 2027",
+      "number": "82",
+      "label": "degrees of freedom in XPeng IRON; mass production starts Jan 2027",
+      "headline": "First deployments are retail stores. That is a choice, not a constraint."
+    }
+  ],
+  "still_signal": "The governance problem isn't speed. It's legibility: the boundary assumed stable in every domain had already moved before the governing institution arrived. Reports from behind the perimeter.",
+  "x_card_numbers": [
+    1,
+    2,
+    3
+  ],
+  "date": "2026-11-28",
+  "issue": 220
+}
